@@ -16,3 +16,10 @@ reach.
 If you designed any of these scenarios and you **DO NOT** want your scenario(s) archived here,
 please contact nqn AT fastmail DOT com. I will remove your scenario(s) and erase them from
 the repository's history.
+
+If you have created a new scenario and want it included in the archive, please reach out!
+I will work on a more streamlined submission process at some point if an active community
+reemerges.
+
+I used The Lurker's archive package shared [here](https://spiderwebforums.ipbhost.com/topic/33604-scenario-archive-super-editor-and-boe-on-linux/) as a basis for the repo.
+Thank you to everyone who assisted in maintaining various scenario archives over the years!
