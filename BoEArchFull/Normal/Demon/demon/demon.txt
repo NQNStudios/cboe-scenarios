@@ -1,0 +1,16 @@
+Readme for Demon.
+
+(Yes, I know it's a name on par with Doom Terror Demon Quest of Death, but I have no imagination)
+
+Demon is intended for high level parties, but don't use a god party or you'll spoil some of the puzzles.  Any number of PCs should work.
+
+If you get stuck or find a bug, email me at eet23@cam.ac.uk or post at the Lyceum or Spiderweb's messageboard.
+
+There is a mini-hall of fame:  The first two people to collect seven or more green stones should email me.  One of these two is TM.
+
+"The Way Out" was Alcritas' idea, and Between Planes is based loosely on Elsewhere in FS and the Quad of Inquiety in New Life (I think)
+The .meg file has been stuffed in the hope that this will improve its chances of making it through the internet alive, and a gif has also been provided in case of accidents.
+
+Thanks to the people who agreed to beta test, and thanks to Bruce Mitchell, TM and especially Creator for actually betatesting.
+
+Khoth

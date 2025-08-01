@@ -1,0 +1,102 @@
+
+
+"The Goblin Grotto" is a scenario trainer utility for
+general use.  Unlike other training scenarios, the Goblin
+Grotto is designed for insertion INTO another scenario,
+eliminating the need for an additional .exs file, useful
+given the limited number the Blades of Exile game can display
+at any given time.  If you have any comments, questions,
+concerns, or complains, feel free to contact me at:
+klinkham@juno.com.
+
+You may use and modify "The Goblin Grotto" is any way
+you see fit, so long as credit is given in your scenario,
+or the scenario's documents.  You may also freely distribute
+this utility, so long as the distributed copy does not
+vary in any way from the original.
+
+To use "The Goblin Grotto", create a large town in your 
+scenario, and choose the import function.  Select town
+#1, and choose ggrotto.exs from the menu.  "The Goblin Grotto"
+will have been imported into your scenario.
+
+Things of note:
+
+1. "The Goblin Grotto" uses SDFs 157,0 to 157,5.
+Hopefully, these are random enough to prevent duplication
+in your scenario.  If not, you will have to change one
+of the two duplicated flags.
+
+2. There are two NPCs in "The Goblin Grotto".  If you
+import 'Grotto' into a town # that is NOT #1, you will
+need to adjust their personalities to the correct town #.  
+(Eg, if you import 'Grotto' into town # 13, change their
+personalities #'s from 10 and 11, to 130 and 131 respectively.)
+
+3. "The Goblin Grotto" uses six monster classes:
+
+#1 Townsperson
+#38 Goblin
+#39 Goblin Fighter
+#115 Wolf
+#116 Worg
+#169 Dryad
+
+If you have modified any of these monster classes, you may wish
+to make alterations accordingly.
+
+4. "The Goblin Grotto" uses the following default items:
+
+#0 Gold, #1 Bread and Meat, #25 Torches
+
+If you have modified any of these items, you will likely
+wish to make correcting alterations.
+In the default settings, the party will receive 2500 gold,
+50 food, and 6 torches at the start of the dungeon.  In
+addition, 5000 gold can be found in the Goblin's fort.
+
+
+5. Fred the merchant will provide the following services in
+the default setting:
+
+He will train the party.
+He will identify items for 1 gold each.
+He will buy all items.
+He will sell all bronze melee weapons.
+He will sell all bucklers (including the magic buckler) and
+all regular shields except the magic shield.
+He will sell both leather suits and all bronze suits of armor.
+He will sell torches.
+Fred will sell mage and priest spells, as well as alchemy
+recipes.  The default setting for each has him selling only
+the first item in each list.
+Fred also has a "unique item" he will sell.  The default setting
+for this is lamps.
+All prices for Fred begin at -2- (pretty average) where appropriate.
+
+6. Idraine the Dryad will provide a reward for the party if 
+found, once all the Goblins/Worgs/Wolves are killed.  The
+default setting rewards the party with 1000 gold, and a
+medium energy potion.  To change this, adjust special 
+node #18.
+
+7. The main feature of "The Goblin Grotto" is that every time
+an enemy is killed, a special node is called awarding the
+party with a set number of experience points, allowing rapid
+advancement.  The utility allows for the setting of three
+levels - easy, average, and hard.  The easy setting gives
+the party the bonus from special nodes #3, #5, and #7.
+Average awards the party from special nodes #3 and #5, whereas
+hard only give the party #3.
+
+Using the default settings, a beginner level party will
+advance to levels 8-10 on hard, 12-14 on average, 16-18
+on easy.  The utility allows the party to choose which
+setting they want, the default is hard.
+
+8. Every creature's (both friendly and hostile) life flag
+is set to the same value, so as soon as the party kills
+any creature, and then leaves the town, is will be empty
+when they return.
+
+

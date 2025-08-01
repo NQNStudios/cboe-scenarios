@@ -1,0 +1,559 @@
+
+Note and Hints for "Lost Hope"
+
+
+Bug reports, comments, questions:
+
+	e-mail to: monsma+@pitt.edu  I will respond as soon as I can.
+
+	Some questions may be answered in the hints below.
+
+	If you find a nasty bug - please let me know.  I will fix it and get
+	a fixed version of the scenario to you as soon as possible!
+
+	The latest version of the game can be found at:
+		www.pitt.edu/~monsma
+
+	I am want to hear your opinions - but nasty flaming e-mail will 
+	be cheerfully ignored...
+
+
+Many Thanks to the following beta testers: (they are responsible for many 
+	improvements, and not responsible for any errors or other problems!)
+
+	Chelle (beta tester and proof reader, more than an um..friend) 
+
+	Ben Frank (beta 1 tester) [Check out Ben's excellent Scenario, on
+	Spiderweb's site under "Solid Adventures" titled "Slavers of Pardes
+	Valley"]
+
+	Ivan Godard (beta 1 tester) [He has written some excellent things 
+	- posted in several places on Spiderweb's scenario workshop pages]
+
+	Geoff Embree(beta 2 tester)[His scenario, Unsettling Times, will be
+	finished soon... as long as he doesn't dump it and start from scratch
+	again.]
+
+
+
+Also: Jeff Vogel made this such a great game and editor, many thanks to
+	him!!!  
+
+
+
+
+
+Generic Hints (small non-specific spoilers...): (more specific hints are
+much farther below.)
+
+
+
+
+
+
+- the game is aimed at character levels around 10-20.  It may be tough
+for a party of all 10th level characters... I have adjusted the monster stats
+in the game to try and gear them to this level of play.  Don't panic
+when you meet a rakshasa - they are not as tough or deadly as you might
+expect...
+
+- Talking to people in this game will really help.  Sometimes people
+will respond to VERY unlikely things.
+
+- If you cannot open a door after many many tries - it may that the door
+cannot be opened.  There might be another way around.
+
+- Some puzzles can be solved through clues obtained by searching
+bookcases, etc.  Some puzzles only have "visual clues".
+
+- The running joke on spots is just that - a running joke, you don't
+have to do spots house to finish the game.
+
+- remember two rules on moving: you can do diagonal moves, you can
+sometimes walk over terrain types you would not expect to be allowed to walk on 
+
+- there are very few things you can do to which will preclude you from
+finishing the game:
+
+**A word to the wise -  destroying
+portals is dangerous business - Portals are very powerful magical
+devices and releasing such energy may mean you may not survive (but it may be fun
+to save the game first and then see what happens...)  If you do survive,
+and you have destroyed a portal you still need - you may get stuck
+somewhere, possibly somewhere quite unpleasant and unable to finish the game.
+
+** Likewise, making Caterine mad twice, without first getting the
+monastery's location will prevent you from finishing the game.
+
+
+
+- Note: One strange bug was reported - when you left the Inner Portal (a small "town")
+to the north, you ended back up by the Gatehouse (another small "town").  
+But this only happened once, then the town exit worked correctly.  
+I think I have this problem licked, but should you suffer this bug - 
+use the teleporter again and you can exit the Inner Portal correctly.
+I think this is a editor/game bug and not a bug programed by me....
+
+
+- A note on Steel City -  like the real city I live in... 
+
+- A note on Oakland - like the place I go to school, and in the game
+	this is a city which is full of strange strange things... very 
+	much like real life
+
+- Do I have a twisted sense of humor?  It's for you to decide after
+	playing...
+
+
+
+
+
+Big Spoiler Hints a bit below:
+(provided in case you get stuck.  This game is supposed to be fun, not
+to simply frustrate you...  keep it fun - use the hints if you get
+stuck! Or, if something is not in the hints, drop me an e-mail!)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spoiler Hints:  (covering most of the major puzzles, issues, etc...)
+
+- Murphy is cursed, so are you when you work for him.  This means - lots
+of cursed items!  No big treasure hauls! (besides, too much treasure
+always spoils a game)  (No Monty Hauls! - I hope)
+
+- all the disasters in the valley can be linked to Murphy's curse,
+getting his luck charm back may help him and the valley overcome the
+curse (but then again, it's only a charm...)
+
+
+
+
+
+
+
+
+
+
+
+Steel City:
+
+- A place to get some starting supplies and direction.
+
+- Talk to Murphy, he will give you something to ask Terik, as well as
+background on the plot.
+
+- Buy a beer at the inn.  This will let you get some tools from Spider
+if you need them.
+
+- go ahead, try to rob the town's treasury
+
+- ask Ardek about the boat (later, after traveling south in the valley
+you can get a clue about something else to buy from him.)
+
+
+- Terik gives you a clue about a tower: This is Caterines tower, not the
+trog/rakshasa lair. (if you talked with Terik, you will get messages to
+this effect when you enter either the trog/rakshasa lair, or Caterine's
+tower.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caterine's Summer Place 
+
+-   To get past the teleporter traps:
+	Find the path to the portcullises - it weaves from side to side in
+the corridor.  When you get to the end - you will be teleported back
+again - but notice: two potted plants have appeared.  Look at them. One
+will open the gates.
+
+- To get farther in -  talk to Ruff - he will give you a clue... or:
+
+-	look at paintings on the wall until a door appears
+in the wall of the hallway.  Through the next series of rooms - look for
+buttons and such to make more doors appear.
+
+- you can get to the boats (Think diagonal)
+
+
+- Cereno (the newt) will ask you why you came - perhaps you might ask him about the
+luck charm
+
+- Telling Caterine certain words will make her do some interesting, but not
+too damaging things. Just don't do it more than once (there are only two
+boats...)
+
+- what Caterine wants to eat is some catnip...
+you need to find some and return to give it to her before she will
+reveal the location of a monastery.  You can find the catnip in the
+trog/rakshasa lair.
+
+- no, you cannot get at all those treasure chests - they are mostly
+there as an illusion and trap.  You can get at two chests, through a secret door.
+If you want to try for all the loot - save the game first...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Trog/Rakshasa lair
+
+-  one door in the rakshasa part cannot be opened.  look for another way
+around.
+
+- don't leave before you get the catnip.
+
+- if you free the giant he will give you a hint about some treasure
+
+
+
+
+
+
+
+Ursag den
+
+- no major tricks, just watch out for a few nasty battles (crypt can be
+one..)
+
+- don't leave before getting the green key - it's in a section of the
+mine in the northwest corner - a cave-in trapped the monk who was
+carrying it.
+
+- the raft will allow you to get to an area where there is a secret
+passage to the crypt.  Search a bit more in another area (using the
+boat) and you will find a treasure chest.
+
+- there is one place here where you can walk on water, near the entrance
+to the mine...
+
+
+
+
+
+
+Ralph's boots and burgers:
+
+- nothing critical here, but get some burgers to eat!
+
+- Ralph will give you a clue about some "tourists"
+
+- later you may need to visit ralph again, so try not to kill his
+cows... 
+
+
+
+
+
+
+
+
+
+Boathouse
+
+- the only important thing here is to get the gatehouse key - you need
+to enter the "reading room" and walk through the wall.
+
+
+
+
+
+
+
+
+
+
+Gatehouse
+
+- to turn the portal on - look at the potted plant near the storeroom.
+
+- DO NOT self destruct the portal before you step in it (or make sure to
+save the game before you do!  You will not die, but you then cannot finish
+the game - if you return to this portal you will eventually die a horrible
+death in quickfire!
+
+- Do NOT self destruct the portal before you have completed the rebel fort
+and obtained the red key
+
+- you have to turn the portal on every time before you use it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Inner Portal
+
+- you can only find the secret passage to the escape tunnels _after_ visiting
+the rebel fort.
+
+- once you have visited the rebel fort, come back and look in storeroom for the stairs
+
+- you have to turn the portal on every time before you use it.
+
+
+
+
+
+
+
+
+
+
+
+Rebel Fort
+
+- you can get to the outside of the fort by walking through secret
+passage in the mountain. (first visit...)
+
+- you cannot get in the front doors (but you can leave through them if you get inside...)
+
+- search around some - you cannot avoid getting a clue which will help you find the
+escape tunnels (the clue is linked to a timer, not a location)
+
+- when you are inside - you have to do two things: find the password to the storage area
+(kill the fort's commander) and the secret passage to secure storage (a secret door on
+a corner - go up some stairs to the outside walkway, search for the secret door)
+
+- don't leave without the red key!
+
+- save the game before trying the self destruct...!
+ 
+- you can get to one of the paintings in the water cistern.
+
+
+
+
+
+
+
+
+
+
+
+
+Escape tunnels
+
+- you need to push THREE buttons and pull one specific lever.  One
+button you will have to push twice - its a bit tricky to figure this
+out, the buttons are hidden, and you have to walk back a second time to
+find the third button.  The lever you must pull (the others are decoys
+and don't do a thing) is under some quickfire.  You can take a bit of
+damage to get to the lever - or - release the quickfire and then 
+activate the fire suppression system (walk on water to find it.) note:
+you cannot activate the fire suppression system until after you have
+been up to at least visit the quickfire area!
+
+
+- you can exit the rebel fort through the escape tunnels - the traps
+will not reset, and a walkway should appear over the pit as you get near
+where the walkway should be.
+
+
+
+
+
+
+
+
+
+
+
+Forest Fire Watch Tower (2nd floor)
+
+- talk to people until you get the location of a strange place (the spot
+house)
+
+- if you get the kids to fight, don't kill anyone! (or only do so if you
+saved the game....)  (how to get the kids to fight?  look at a desk,
+then ask about that word to one of the kids...)
+
+- if you kill a forester or child in this tower (top floor) you can
+never get back into Oakland
+
+
+
+
+
+Oakland
+
+- the empire liaison will ask for your help finding some foresters.
+
+- Stripes will give you a hint where to find a potion, and ask for help
+finding a person.  He gives you a nice item if you find the person and
+report back to him.
+
+- stealing from the paper mill will make the town angry at you, at least
+for awhile.
+
+- killing someone in the forest fire watch tower will mean you can never
+enter this town again.
+
+
+- there is a lot of... well I think it's humor... in this town. But you
+can also buy some alchemy, food (see Pop), training and such...
+
+
+
+
+
+
+
+Spots House
+
+- this is only a silly (hopefully) and twisted sideplot (side spot?).  
+you can skip it...  but it's meant to be fun...  
+
+-I rigged it so that you cannot drop through the floor a second time 
+without having the spotted key - so find it...
+
+- diagonal moves sometimes are helpful to find secret doors...
+
+
+
+
+
+
+
+
+
+
+
+
+
+Monastery First Floor:
+
+- look for some clues on pedestals, talk to the captured foresters (but
+pay attention to what they say! when you let them escape, they
+disappear!)
+
+- Search the chairman's room for the iron rod
+
+- use the iron rod to move the stone to get to the basement. The stone
+is in the room with the cow (the foresters give you a hint about this)
+
+- what's this animal loving bit?  I dunno - the monks are twisted, who
+can understand them?
+
+- who got paid to design the monastery?  If we find that person, they
+will be shot, or tickled to death, or forced into a comfy chair, or
+some other fate to horrible to contemplate.
+
+- you cannot sanctify any altars - but looking at them may have
+interesting results.
+
+
+
+
+
+
+
+
+
+
+
+Monastery Basement
+
+- the visible stairs (first floor) take you to the outside, nothing 
+but monsters to hack here - and some clues to cracking the 
+teleporter puzzle.  
+
+- what the heck are Empire Inquisitors doing here? - I guess nobody
+expects the Empire Inquisition...
+
+- the stairs under the boulder (first floor) take you to the inside
+teleporter traps.  You need to find an adobe wall (look at it when you
+do) to redirect one of the portals to the treasure room.  You will
+suffer pain every portal trip you make - but most fire walls and the
+like fade away... and the quickfire will go out when you jump in the
+portal!  One portal will not lead to pain - but rather an encounter with
+Embleer Rah's pet basilisks
+
+- Okay - to make it the least painful, jump in the teleporter on the
+right end of the teleporter chain.  Then (after killing some basilisks),
+look at the adobe wall to reset a portal,  then, when you return to the
+starting teleporter room, use the center portal.
+
+
+- Make sure to say hello to Skippy (read a tome on the treasure
+room pedestal)
+
+- don't leave without the good luck charm (also on a pedestal)
+
+
+
+
+
+
+
+
+
+
+Ending of scenario:
+
+- to end the scenario after getting the luck charm
+return to Steel City to get your ... reward... and end the game.  
+You get a small bonus if Murphy spots a bag of spots in your
+pocket.
+
+- you can also bail out the scenario anytime by:
+  a) going as far west as possible on the river in your boat.
+
+

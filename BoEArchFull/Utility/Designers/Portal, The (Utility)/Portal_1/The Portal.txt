@@ -1,0 +1,44 @@
+THE PORTAL by Bain-Ihrno
+
+ Thank you for taking a look at my Portal utility. Here's
+how it works. You will need to indicate this in your
+scenario if you use it.
+
+ There are two panels. The first panel has two options,
+the second has 5. Different settings cause the portal
+to take you to different places. There are 10 destinations
+you can go to. I put in random scenes in the utility
+so you can try the portal out. Here is a list:
+
+0,0 = Town 1
+0,1 = Town 2
+0,2 = Town 3
+0,3 = Town 4
+0,4 = Town 5
+1,0 = Town 6
+1,1 = Town 7
+1,2 = Town 8
+1,3 = Town 9
+1,4 = Town 10
+
+------------------------
+
+In your scenario, it will actually take you to the towns,
+not just scenes, of course!
+
+You are allowed to make any additions/changes to the utility
+if you decide to use it. For example, you can build a
+town around the portal. You can change the grass to cave floor!
+You can even make it so the party can't enter the control
+room without paying/completing a quest/etc!
+
+If you're making a larger scenario, and you're skilled
+with the editor too, you are more than welcome to add
+more destinations on your own.
+
+Of course, please give me credit if you use the portal.
+Thank you. 
+
+Enjoy the utility, and check out all the towns!
+
+Bain-Ihrno (bihrno@yahoo.com)

@@ -1,0 +1,4 @@
+*********************MacUsers***************************
+
+
+I rewrote much dialogue after I submitted my original scenario because of the text conversion bug. This new version should have no problems with this bug. Unfortunately, the only people I know who own Macs live in other states and don't play games. So, I didn't have a Mac beta tester. There shouldn't be a problem with dialogue because I worked very hard to fix the Mac/PC text conversion bug. So, hopefully you did not play the original release which got hit by that bug. And if you did try this one out. I'm sure you'll enjoy it. Email me if you have questions at alx149@earthlink.net.

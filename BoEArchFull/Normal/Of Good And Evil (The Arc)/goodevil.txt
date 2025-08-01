@@ -1,0 +1,108 @@
+
+
+Of Good And Evil
+
+This is my 3rd scenario, and I hope you enjoy it.
+If you have any comments, questions, concerns,
+or complaints, feel free to contact me at : alcritas@att.net.
+Also, be sure to vist my Blades of Exile page,
+The Lyceum, at:
+http://members.xoom.com/_XMCM/boelyceum/index.html
+
+I'd like to express my intense gratitude to Stephen
+Masel, Peter Hawkinson, Serene, Andrew Barton,
+and Kate for their work beta testing the scenario. 
+
+I'd also like to thank DRK DRAXIS (gravestone)
+and Tim Farland (Phoenix) for allowing me to 
+use their graphics.
+
+Several notes :
+
+
+1. The scenario at several locations utilizes
+traditional inventory (eg non-special) items
+which are required to advance portions of
+the plot.  There is NEVER a situation in
+which both -
+
+A) An inventory item is required to complete the scenario 
+AND
+B) That inventory item cannot be acquired many times 
+
+are both true.  However there are circumstances where
+normal inventory items ARE required to complete very
+useful, but not vital, portions of the scenario.  In
+some of these circumstances, you will only be given
+the particular item once.  Therefore, I STRONGLY
+recommend that while playing, you make every effort
+to keep at least one or two inventory slots open at
+all times.  On a similiar note, if you find a
+peculiar item, you might consider hanging onto it,
+or at least storing it.
+
+All items that are required to win the scenario,
+and that cannot be acquired multiple times, will appear as
+special items.
+
+2. If, for whatever reason, you leave the scenario,
+but then come back in with many of the items you
+acquired in this scenario, the scenario won't
+recongnize them.  For example, the rope you bought
+can still be sold for 25 gold, but the scenario won't
+recognize it as rope in the circumstances when you need
+rope.  You'll have to buy a new thing of rope.
+
+3. The use of the "Word of Recall" spell is not
+recommended.  Use of Charm spells in certain areas
+might be problematic.  Some encounters do not end
+until all enemy units have been killed, the game
+will not give you credit for charming these units.
+You may have to attack friendly, charmed units in
+some circumstances to advance.
+
+
+FAQ's -
+
+
+Q: What level party should I use?
+
+A: High (18-25), or if you're up for a challenge,
+try a Medium (9-18) level party.  But better yet, take
+a beginner party in, and mention "Train" to
+the fort commander of the base you start off in.  He'll
+direct you to a small dungeon, which will rapidly advance
+you to the level and experience best suited for this
+scenario.  
+
+
+Q: But it says Very High on the difficulty scale!
+
+A: That's because :
+1. I consider it to be a Very Difficult scenario for
+reasons beyond simple monster toughness
+&
+2. I didn't want any monsters doubling hit points
+against any borderline medium/high parties.  (Some
+of them are quite tough enough as it is)
+
+Q: But I keep dying against X Monster with my
+high level party!
+
+A: Perhaps there's a better way to combat X
+monster.  All Monster's are killable in traditional
+manners, but many are much weaker/tougher depending
+on extraneous actions you might perform.  So Bob
+The Talking Spider might be super tough but killable
+unless you get the bug spray on a side mission, which
+makes him only mediocre and very killable.
+
+The scenario has been and can be won using 
+a begginer party put through the training dungeon.
+
+
+Q: Is there a walkthrough?
+
+A: Yes, at my webpage.  The URL is above.
+
+

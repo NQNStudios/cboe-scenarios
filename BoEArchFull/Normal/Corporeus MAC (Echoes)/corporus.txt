@@ -1,0 +1,72 @@
+Corporeus
+     "Whether it be life or death, we crave only reality."
+          -Henry David Thoreau
+[ by Terror's Martyr <terrorsmartyr@wi.rr.com> ]
+
+----------------
+
+The files included in this scenario are:
+
+Bladesman Scilt.sit
+    This is the custom, 1PC party intended for use in this scenario.  This is for Mac users.  Un-stuff the file and use it to play the scenario with.
+
+corporus.exs
+    The scenario file.  Drag this into your Blades of Exile Scenarios folder.
+
+corporus.gif
+    The graphics file, in case corporus.meg do not work.  To use this file, open up corporus.gif in Picture Viewer, Preview, or any painting/viewing application.  Copy the image, open up ResEdit*, and paste the image.  Open up the PICT resource, select the picture you just pasted, and hit command-I.  Set the ID of the resource to 1.
+
+corporus.meg.sit
+    The graphics file for Mac users.  Use UnStuff (or any decompression application capable of decompressing .sit files), and drag the newly-created corporus.meg file into your Blades of Exile Scenarios folder.
+
+corporus.txt
+    The text file you are reading right now!
+
+eyeinthesky.mid
+    The metaphorical implications of including a music file with this scenario are immense.  This song is a MIDI file version of Eye in the Sky by the Alan Parsons Project, and is encouraged but by no means required while playing this scenario.
+
+PCs.gif
+PCs2.gif
+    These files are the two CUSTOM PC SHEETs used in Corporeus.  Open the file Blades of Exile Graphics in the Blades of Exile Scenario Editor with ResEdit* and open the PICT resource.  Scroll down to resources 902 and 905 and either delete them or rename them to something else for future use.  Paste in both images- PCs.gif and PCs2.gif.  Select the resource you pasted in from PCs.gif and hit command-I.  Rename its ID to 902.  Do the same to the resource you pasted in from PCsMac2.gif, except naming its ID to 905. 
+
+* ResEdit is a utility that ALL Mac users should have!  It can be found here:
+http://developer.apple.com/tools/legacy.html
+http://www.mac.org/utilities/resedit/
+http://www.macupdate.com/info.php/id/2037
+
+It allows you to create, open and edit .meg files, which is the filetype used for graphics in Blades of Exile.
+
+----------------
+
+I would like to thank my beta-testers who helped tremendously in making this scenario what it is:
+- David "Jonnie Zolohahni" Sellinger
+- Lucien "Thuryl" Raphael Tihon Damian McMahon
+- Reality Corp.
+- Sboto
+- Edwin "Khoth" Thomson
+- The Great Mister
+- Almighty Doer of Stuff
+- Paul "Desert Plah" Sundquist
+- Luz "Mab" Piazuelo
+- Fluffypinkpotatoes
+- Ira "Imban" Mertes
+- Ishna
+
+I would like to thank the graphic artists whose work I used:
+- Relhan
+- Luz Piazuelo
+- Aceron
+- Andrew Hunter
+- Tim Farland
+All other graphics were made by myself.  You may use them at your leisure, although I would appreciate if you cited that I made them.
+
+----------------
+
+This scenario has no real walkthrough.  It is, in essence, a one-way trip through a short story transposed to Blades of Exile.  This scenario is deeply symbolic and makes no real attempts to adhere to any sort of "normal" reality; it challenges this notion in its very essence.  On the other hand, I tried my hardest to make the symbols obvious to the player.  Even if you don't come to the conclusion I intended when I made this scenario, I encourage you to attempt to find your own meaning out of it nevertheless.  This is a folly- an exercise of art in Blades, leaving the pre-conventional notions of scenario design.  I hope you enjoy my folly, and I appreciate any feedback, criticisms or comments about my scenario.  Thanks for playing!
+     -Terror's Martyr
+
+You can contact me by these means:
+Email- terrorsmartyr@wi.rr.com
+AIM- TerrorsMartyr (You will have better odds of contacting me through this.)
+Spiderweb Software Boards- http://www.ironycentral.com/cgi-bin/ubb/ultimatebb.cgi
+The Lyceum- http://pub26.ezboard.com/bthelyceum

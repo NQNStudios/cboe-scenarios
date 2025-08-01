@@ -1,0 +1,71 @@
+
+
+         River and Leaf v1.0.0
+         A scenario for Blades of Exile.
+
+       Set Level:  Very High
+    Target Level:  Medium - High
+ Custom Graphics:  Optional (*)
+     WWW Support:  http://members.aol.com/Akhronath/riveleaf/
+
+The leaves are falling in the stream, the River flows away...
+                  - J.R.R. Tolkien, The Lord of the Rings
+
+There are times for heroes. Momentous times, when the thrust of a blade or the crackle of a fireball can decide whether a world changes its course. There are wars. Long, hard-fought wars where victory itself ceases to be important, and survival is the only passion. But in between heroes and wars, the River meanders slowly on its changing way. And the River flows with a will all its own, caring nothing for towers or rings, carrying its leaves downstream.
+
+River and Leaf is presented now for enjoyment. It is hoped that the player can enter a believable secondary world that is at once familiar and strange.
+
+(*) Only a small part of the custom graphics provided with the scenario is actually used. The knowledgeable may employ them as they see fit.
+
+- Installation -
+
+   Macintosh
+
+   Place both riveleaf.exs and riveleaf.meg in the folder Blades of Exile Scenarios. Open up the Blades of Exile application, load a party, and run the scenario from Custom Scenarios.
+
+   PC
+
+   Place both riveleaf.exs and riveleaf.bmp in the folder Blades of Exile Scenarios. Open up the Blades of Exile application, load a party, and run the scenario from Custom Scenarios.
+
+If there are any problems with installing the scenario, contact Akhronath@aol.com. If all else fails, try blades@spidweb.com to obtain direct support from the authors of Blades of Exile.
+
+- Spoilers -
+
+Over the course of playing the scenario, due to a lack of outright answers and directions from the designer, players will sometimes become stuck and not know what to do next. For that predicament, the following section is provided.
+
+Q. Where am I? How do I get started?
+A. Responding to a call for outlander mercenaries, you have applied to serve the Seawyrm clan on the island of Ylmir for a time. You have come to shore in a coastal city of the Wolf Clan. Your contact is hidden in one of the storerooms in the southwest quarter of the city. Find him to begin your quests.
+
+Q. Ravenswood brigands - The lever to the special cell doesn't work.
+A. Think Sixus. That is to say, examine all walls carefully.
+
+Q. Complex under Hatherond - How do I get out?
+A. You need the assistance of an NPC in the prison cells.
+
+Q. Ingusi - An invisible barrier blocks my progress.
+A. Search around some more on the same level.
+
+Q. What information do I need from Scyld?
+A. Talk until he mentions the Seawyrm outpost.
+
+Q. What's the ship's password?
+A. Talk to everyone you can. Then search everywhere, and search again. Eventually, you'll have to figure out how to say a three-letter word with four.
+
+Q. What do I do with the log?
+A. You need to get it translated and taken back to Sweon.
+
+Q. How do I win the final confrontation?
+A. Victory cannot be achieved by arms.
+
+- Credits -
+
+For inspiration, the Old English epic Beowulf (from which many of the names in the scenario are derived), J.R.R. Tolkien for spreading the spark of my interest in fantasy into a wildfire, the tradition of English poetry and prose from which I have drawn on, and more that I must have missed.
+
+For support, the Blades of Exile web community, the participants in the Arena that have kept interest consistently up, Alcritas for organizing the second scenario contest without which this scenario would never have been finished.
+
+For beta-testers who responded to a very late call: 
+Elwin Windleaf, Measle, Drizzt, Thissa.
+
+And, of course, Jeff Vogel for the Exile shareware series.
+
+Even though I still think Avernum is a bad idea.

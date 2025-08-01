@@ -1,0 +1,71 @@
+********************************
+The Nature of Evil 0.9.0
+©Stephen Masel 1999
+Contact: stephen_masel@hotmail.com
+********************************
+
+Okay a few known bugs right of the bat.
+ These are ones that I know about but I can't or have chosen not to fix.
+Two are in the Slime Caverns.
+ Do NOT go into combat mode when you are in the cells.
+ There is a teleport set to a timer which won't work if you are in combat mode
+ and you'll be stuck there forever.
+The second is about Lifesaver Amulets.
+ Normally these things have only one charge
+ but it's possible to go into the scenario editor and beef them up to have more.
+ Please don't do this as it will also mess up the Slime Caverns level.
+Thirdly, it is impossible to win with a one character party.
+ Don't try it. You will get stuck well into the adventure in a barrel moving puzzle.
+ I don't think its possible to get through with a two character party either,
+ for the same reason but I haven't tested extensively.
+ I'd say three is the minimum number your party should be.
+Also with the barrel pushing puzzle.
+ BoE sometimes doesn't let you push a barrel onto a space for no discernable reason whatsoever.
+ I can understand it with special nodes.
+ This is why the barrel was no use in one of the side quests in 'Destiny of the Spheres',
+ but sometimes it's just a plain old mystery.
+ It appears to have something to do with where monsters are when you kill them.
+ For this reason, make sure you kill off the final group of Upside Down Men in the room
+ with the portcullis LAST.
+ This wil reset early weird bit and all the barrels should move smoothly.
+I've been alpha testing the scenario with a party in their low thirties levelwise.
+ however, I've been heavily relying on the old Stealth/Mass Sanctuary/Major Haste combination
+ to avoid many of the combats to scrape through rather than face everything head on.
+ It also doesn't hurt to rest a lot.
+ The only wandering monsters are in the one outdoor section.
+ If you prefer more confrontative action you may want to go a little higher
+ and for this reason I've rated it for very high parties.
+ The downside of this is that the monsters that you actually DO have to defeat
+ are a little easier than some of the ones you DON'T.
+ If you think the imbalance is too severe, please email me.
+
+The adventure is no "Monty Haul".
+ Monsters will drop a fair bit of treasure but there are no hidden caches
+ and only one unique item.
+ You will need to go into the adventure with a fair bit of gold
+ to cover expenses you may incur and don't expect to leave with more than you went in with.
+I haven't included all the credits for the artwork for this beta release.
+ Please forgive me. I'm extremely slack.
+ However, I'll ask for everyone's permission and give credit where credit is due
+ by the time of the proper release for sure.
+Please contact me with any known bugs. version 1.0.0 MUST be released by December 12
+ because I'm heading overseas for my new job then
+ and won't be able to do any work on the project.
+
+Enjoy!!
+XOXO Measle
+
+"Once you've had a man with no legs, you can never go back, baby."
+-Eddie Murphy in 'Trading Places'
+ (Sorry, it was on TV tonight and I had forgotten that line completely 'til now)
+
+********************************
+Note from Falcatta: The original BMP file got corrupted, so I made a new one.
+
+Credits:
+Falcatta (edits of Spiderweb pics, no original artwork): No Tree, Upside Down Man, Brazier, Kong, Boutros, Body.
+Measle (?): Strange Creature, Evil Altar, Wall with Grafitti.
+Relhan: Dead Tree.
+Spidweb Software: Jenneke, Thissa, Frrrrrr, Adrianna, Feodoric, Michael, MIB Leader, Evil Altar.
+Tim Farland: Grey Alien, Charon, Lumps of Evil, Waterbeast, Shade.
+********************************

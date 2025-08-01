@@ -1,0 +1,26 @@
+It’s been a fair while between scenarios so I thought I’d put out this modest effort whilst on a break from my more ambitious one. Not much to say really except that the scenario is designed for parties with an average level of about five without the "Flight" spell so please don’t use it to cross rivers or you’ll miss out on half the fun. Make sure you have the sound switched ON when you meet the vahnatai Kissan-Tel. You can't solve his puzzle unless you can hear it.
+
+Also, I’ve included a hint file so if you e-mail me with a question that can be answered by reading it, don’t be surprised if I laugh derisively at you. Speaking of hints, make sure you talk to the guards in another scenario of mine, "The Magic Flute". I always feel sorry for nameless guards so I decided to give them something to say but I still don’t think anyone ever bothers talking to them.
+
+There's one known bug. In the Tower of Xtokobrokotok there's a staircase that if you go on will call up another staircase node once you've swapped floors. Just press the leave button, it has no impact. Try as I might, I couldn't work out what caused it but seeing as the bug is non-fatal and you may not even encounter it, I figured leave it there.
+
+No custom graphics with "Back to Normal" so there’s no artists to acknowledge but there’s still plenty of people I’d like to give props too:
+
+Flacco for the house gag, Monty Python for the animal hitting, Scatterbrain for the use of the phrase "Hey dude, don't call me dude", Alcritas for the Hope & Boeman schtick and that strange looking portal, William Blake for the Book of Thel, Dave Gibbons & Alan Moore's "Watchmen" the greatest graphic novel EVER from which the inhabitants of Narre Warren get their names, and Cody Sandifer's "Zero Sum" who I all shamelessly plagiarised (or payed homage to, depending on how you want to view it), 
+
+My beta testers: Khoth, Jayne and Morgan, whose help was absolutely invaluable,
+
+The Noodle Box on Glenferrie Road, Hawthorn for providing me with the late night sustenance necessary to write computer games,
+
+The United States Department of Naturalisation and Immigration and Crystal Mountain Ski School (A Division of Boyne Resorts) for totally messing up my work visa and making me hang around in Australia doing nothing while waiting for my H2B to come through (still waiting guys),
+
+Finally, all the members of the BoE community who keep it real by actually continuing to play this game. Much respect.
+
+I can be contacted at stephen_masel@hotmail.com for any queries, complaints, bug reports or fan mail. All are welcomed.
+
+Version History:
+
+1.0.0 Original release
+1.0.1 Fixed names of Beta testers, sorry for leaving you out TTS
+         There's a known bug that I'm too lazy to fix. When you first get to the portal in the underground passage that leads to Kissan-Tel, if you press the "no" button, you'll get into all sorts of trouble. Incidentally, did you know that BoE calls the next node in a chain on the portal or generic portal special regardless of your response?
+         Fixed an SDF mixup that made it impossible to enter Skullsmasher's  Cave if you had fought the three bears.

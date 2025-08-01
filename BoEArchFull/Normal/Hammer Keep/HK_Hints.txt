@@ -1,0 +1,127 @@
+Solving the HammerKeep Scenario
+
+
+The first thing that should be said is that there are a variety of possible
+outcomes to this scenario and additionally a variety of ways to go about
+getting there. In brief synopsis, the solution to HammerKeep is in killing all 
+of the leading conspirators against the Empire.This solution will only cover
+what is pretty much neccessary to solve the scenario.
+
+	When the scenario starts your party will be in the town of Burgess.
+You may choose to adventure here or head straight to the Hamlet of Gord.In
+Gord You must meet with Nirvil to get your starting payment. Also you will
+want to speak to Gold at the Inn and ask about either the ring or Wilfred 
+and the giants. 
+
+	In the town of Burgess you must talk to the sage about the giants or
+Orcs and HammerKeep. The name he gives will become very important at a later
+time. 
+
+	The town of Greschel has a secret entrance beneath a glyph which when 
+entered will place you in Greschel Hollow. In Greschel Hollow you must ask 
+Asterain about his friend or the name given by the sage of Burgess.He will
+direct you to a map.
+
+	The map will direct you to a region in southeastern Pitkern. You must
+be standing in the area described by the map for it to complete it's sequence.
+
+	Once the Hideout is revealed you must enter and go to the bookcase to 
+get the journal. The journal directs you to a map hidden under one of the rugs
+in the room. All you will need to do is look at it or walk over it.
+The map will tell of a secret northern pass to enter Hammerkeep. Inside
+HammerKeep you must kill Kang the Orc Warlord to get a note with the location
+of the secret entrances to the dungeon and temple.
+
+	You must go to Brindlerun, the small island in Central Pitkern, and kill
+the Wyvern that plagues the east of the isle. This will provide you with the 
+key needed to  actuate the elevator at the northeast corner of the troglodyte 
+caves.
+
+	You must jump on the elevator and take it down but do not get off when 
+the elevator stops, instead wait for a moment until it starts again. It will go
+ half way up and then stop. You must try to climb in order for the secret entrance
+ to the Temple level to open. Once in the temple level you can go kill Nicephorus
+to obtain his scarab. The scarab can be taken to Gold to obtain her necklace 
+( or just kill her at the beginning of the scenario ) but this isn't neccessary.
+
+	The necklace is a holy periapt which will destroy the secret temple which
+will be found by entering the secret entrance of the temple level at 36,36 and 
+following the corridor to the secret doors at the other end.
+
+	When you have killed Khava Rill in the secret temple you may enter the
+secret door at 35,44  or use a few move mountain spells to finish off the terrain
+that the explosion didn't. Then enter the secret room to search the bookcase and find a list.
+ This is a list of conspirators which you must then go kill to finish the scenario. 
+
+Nervil is in the Hamlet of Gord @ 12,15 but will go to the 
+bottom level of the dungeon or Orc Barracks @ 8,60
+beneath the Trog caverns after Nicephorus is killed.
+Mayor Barks and Cleodorn are in HammerKeep @ 46, 16 & 17
+Kang is in HKeep 2nd floor @ 35,51
+Nicephorus Phocus is in the Temple @ 32,16  	
+Khava Rill is in the Secret Temple @ 36,43
+Derban Harfle is in Burgess @ The Blacksmith shop
+Asterain is in Greschel Hollow @ 7,27
+Langer is in Eaglepeace Abbey @ 8,11
+Hogur is in the Firecaves @ 53,48
+The Nephil Chief is in Nephiltown @ 5,7
+Randall is at his keep @ 14,20
+
+
+
+	The following is a list of actions that are loads of fun and/or 
+are quite profitable but really aren't neccessary.
+
+1>Killing the assassin sent by Phocus at Burgess before the twelfth day.
+
+2>Taking the Scarab of Phocus to Burgess and using it to trap the soul of John.
+and returning to the secret temple to get paid!
+
+3>Taking the Scarab of Phocus to Gold to get the holy periapt and destroying the
+secret temple. {Both 2 and 3 can be done but only in that order}
+
+4> Walking over the glyph in the secret temple with the sceptre of Khava to 
+summon the demon golem and talk to him about Phocus and John.
+{required for funstuff 2}
+
+5> Talking to Drumgord about Buying large food ration from Harla Greschel in
+Greschel Hollow.
+
+6> Doing Battle with the Minotaur in the Crystal Caves of Northern Pitkern.
+
+7> Killing Kaleel the Witch 
+
+8> Battling the Giant Siege at Crassus.
+
+9> Raiding the Gold mines of Pitkern Isle and trying a little excavating.
+    'I hear there's a little somethin' extra down there.'
+
+10> Visiting Last Bastion to further the PCs and meet the Latin speaking,
+   Half man, Half Giant. Don't forget to buy a few arrows before you leave.
+
+11> Getting off the elevator (in the troglodyte caves)on the lower floor and 
+   wandering around in the catacombs for a couple of weeks. ( HA!) 
+   I wanted to set up specials in a few places of the Labrynth that would eliminate 
+   the current collected map but with my lack of experience with C++ I just couldn't
+   figure it out in time     ..OH WELL!
+
+12> Take a boat ride from Nephiltown 
+
+13> Talk to JT in Burgess about weapons.
+
+LAST BUT NOT LEAST IS THE SUM.XXX  THIS IS A SUMMATION OF THE EVENTS OF THE 
+THE SCENARIOS' "BEHIND THE SCENES". JUST RENAME TO Sum.txt TO READ IT.
+
+BE SURE TO WATCH FOR THE SEQUEL TO HAMMERKEEP. " THE ORB OF SHIANNA"
+
+
+  
+HammerKeep Scenario v.1.0.0
+
+
+
+
+3
+
+
+

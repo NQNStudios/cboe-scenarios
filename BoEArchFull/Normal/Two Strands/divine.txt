@@ -1,0 +1,98 @@
+#############################
+#        Two Strands        #
+#     by Terror's Martyr    #
+# <terrorsmartyr@wi.rr.com> #
+#############################
+
+Welcome to Two Strands.  This is a very short scenario, designed for level one parties.  (It will read "very high", but this is to avoid monster HP doubling.)  A quick note- this scenario has no password.  This means that you can open it up in the editor.  If you are absolutely stuck and need to know what to do next (or you just want to fiddle around with what I created), feel free.  If you're still stuck after looking in the editor, email me, and I'll be happy to help you through this scenario.
+
+This scenario comes with a few files included.  They are:
+
+* divine.exs
+This is the scenario file itself.  Place it in your scenarios folder.
+* divine.bmp
+This is the scenario graphics file.  If you use Windows, place it in your scenario folder.
+* divine.meg.sit
+This is the scenario graphics file.  If you use Mac, open it, and if you have UnStuff, another file will appear (divine.meg).  Place that file in your scenario folder.
+* divinepc.gif
+This is the backup scenario graphics file for PC users.  If divine.bmp does not work, then use a simple graphics editing program (Paint will suffice) to convert this file into a .bmp, and place it in your scenario folder.
+*divinemac.gif
+This is the backup scenario graphics file for Mac users.  If you are on a Mac and divine.meg does not work, then copy this image, and paste it into a ResEdit file.  Call the ResEdit file divine.meg, and place it into your scenario folder.
+* divine.txt
+This is the readme file you are reading right now.
+
+Beta Testers
+These are the people who applied to beta-test my scenario:
+IAmBobSushi
+Bowlnik
+Drakefyre
+Thuryl
+Sarachim
+HappyNephil
+Sarachim
+LoneFlame
+Firredrake221
+Exile_Master
+
+Graphics
+These are the people who made the graphics for my scenario, and the graphics they made.
+DRK DRAXIS:
+- Desert Outdoors (including walkways)
+- Wooden Flooring
+Civilization 2:
+- Joshua
+- Benjamin
+Terror's Martyr:
+- Terror's Martyr
+- Arvoss (Purple Beast)
+- Shocking Dialogue
+- Lucrist Banner
+- Lucrist Commander
+- Zygotist Priestess
+Juliet Rowley:
+- Curtains
+- Lucrist Javilineer
+- Lucrist Soldier
+- Lucrist Priest
+- Joshuaite Soldier
+- Joshuaite Archer
+- Joshuaite Priest
+Luz Piazuelo:
+- Alochom Dialogue
+- James
+- Heneras Dialogue
+- Zygotist
+- Zygotist Swordswoman
+- Zygotist Swordsman
+Aceron Acora:
+- Battlefield Dialog
+Easy Note Software:
+- Misc. Arabian/Persian Dialogue
+Tarl Roger Kudrick:
+- Scorpion
+Andrew Hunter (graphics designer for Spiderweb Software):
+- Alochom
+- Nest
+- Naga
+- Wyrm
+Relhan:
+- Heneras
+Digital Blasphemy:
+- Terror's Martyr Dialogue and Vladimir Dialogue (well, at least the backgrounds)
+
+Feel free to use any graphics used, but be sure to give credit to their creators!
+
+----
+
+Special notice should be given to Alec Kyras, who while disowning this project half way into it, still provided a good amount of base inspiration.
+
+Also, special thanks to Bruce Mitchell and Mervian, who gave me functioning BMP files.  (My computer, for some inexplicable reason, cannot make BMP files that work on both platforms.)
+
+----
+
+Hints?  Questions?  Suggestions?  Email me at the address listed above.
+Or, you could visit the Spiderweb Software Boards:
+http://www.ironycentral.com/cgi-bin/ubb/ultimatebb.cgi
+Finally, you can contact me on AIM, I use the screenname of TerrorsMartyr.
+
+Have fun!

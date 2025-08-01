@@ -1,0 +1,80 @@
+Credits for 
+Shadow Of The Stranger
+A Blades Of Exile Scenario
+By Chris Risberg
+Version 1.3.0
+
+risberg@aol.com
+http://members.aol.com/risberg/blades/
+
+This version of the scenario you have might not be the most up to date!  Check out 
+the web site above for the latest information.
+
+It's finally done.  The story that I began over three years ago with The Forsaken, 
+and continued with The Brotherhood Of The Hand, has finally reached its conclusion in
+this scenario.  It is not required that you have completed these two scenarios, but I
+strongly recommend it.
+
+Thanks are due to the many people who helped make this possible:
+
+My beta testers Skyle, Morgan, Bob the Impaler, Terrors Martyr, and Big Words.  They 
+all contributed to get rid of many bugs, some quite nasty, that would have otherwise 
+escaped my detection.  Skyle in particular offered a tremendous amount of feedback 
+and testing that greatly improved this scenario.  Thanks to all!
+
+This scenario was developed using Skyle's Alternative Bladbase 1.30, which is a 
+much-improved version of the Bladbase file that comes with the program.  Skyle has 
+fixed many bugs, tweaked some things, added and changed many monsters and items, 
+creating a solid foundation on which to create scenarios.  I recommend it to every 
+designer.
+
+
+The artists who offer their work to the Blades community, whose graphics I have 
+eagerly used:
+
+Aceron - Drizzt, Gwennyth (cloaked), Goe-Maethen (both), various shields and swords,
+         lightning, dialogues Mages, Stairway, City, Message, Burning City, Desert
+Relhan - Stranger (both), Fog, Gravekeeper, Samuel, Drake spirit, Drake skeletons
+Simmic - Grate (dialogue and terrain), dialogue Skeleton
+Luz Piazuelo - Jelly cube, stairways, Soulless, Gravestone (rounded top),
+               City, dialogue Night Battle
+Fiend's BoE page - dialogues Camteron, Gwennyth, Goe-Maethen, Red Hooded Man, Wizard
+Tim Farland - Gwennyth dialogue, Fireplace, Royal Guard, Royal Soldier, Fell Drake,
+              Gwennyth (in black), Ice Dragon, Elite Guard, Empire Warrior
+DRK DRAXIS - Wooden floor set, Wooden wall set, Desert terrain
+Andrew Smith - Ice wall
+Paul Henderson and Tony Jordan - Ice floors
+Justifier - Bat
+Camillia Kantola - Desert colossus
+
+I also must thank again Jayne Holt and Ruediger, who offered much input for 
+Brotherhood, and were thanked within the scenario, yet I inexplicably left them out 
+of the Readme file.  Many apologies.
+
+Evan Williams wrote a good article about the Word Of Recall spell that was the 
+inspiration for a certain cube-shaped item in this scenario.  The article can be found 
+on Spiderweb Software's Articles and Answers page, and also at the Scenario Design
+Resource, found at my web page.
+
+Lew Titterton wrote an article about replacing terrain with items, and I happily did
+just that with rugs, plants, and a few other things.  This was a nice touch and something
+I will do in future scenarios, as well.  His article can be found at the Lyceum.
+
+Alcritas first implemented The Way Out special item in one of his scenarios, and he
+also deserves credit for other minor inspirations here and there.  There is a link to
+his Blades page on my website.
+
+
+Scenario History:
+
+Began work 6/2000 - released v0.0.9 for beta testing on 9/19/01
+
+v1.0.0 - Many changes, released 11/01/01.
+v1.1.0 - Several bug fixes and minor changes.  Finished bean pet quests and cemetary.
+         Released 12/10/01.
+v1.2.0 - More rather minor bugs fixed, updated help file with info about item loss 
+         and monsters in the walls.  Thanks to Janus and The Creator for their input.
+         Released 2/26/02.
+v1.3.0 - Yet more bugs fixed, added some alchemy ingredients previously not found in
+         the scenario.  Thanks to (who else?) Andrew Barton for his help and input.
+         Released 9/18/02.

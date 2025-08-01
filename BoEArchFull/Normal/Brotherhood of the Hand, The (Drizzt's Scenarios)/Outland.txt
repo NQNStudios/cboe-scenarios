@@ -1,0 +1,80 @@
+The Brotherhood Of The Hand
+by Chris "Drizzt" Risberg
+risberg@aol.com
+members.aol.com/risberg/blades
+A Blades of Exile Scenario
+v1.4.0
+
+
+
+The Brotherhood Of The Hand
+
+Written by Chris "Drizzt" Risberg
+
+The Brotherhood Of The Hand is designed for high level parties,
+and is rated R.
+
+Many thanks to the beta testers for this scenario:  Ruediger and Jayne, and much
+additional feedback from Skyle for this release.  It escapes me why I forgot to thank 
+Jayne and Ruediger in the previous outland.txt files, but they are finally properly
+noted here with this release.  Many apologies.
+
+Graphics (once again) freely borrowed from:
+
+Dark Elf (Drizzt) - Aceron
+Arch Warlock (Kamil), Axe Champion (Samuel), Golden Knight, Juggler,
+Menion (Stranger) - Relhan
+Sage (Messenger) - Drk Draxis
+Royal Soldier (Captain Miller), Royal Guard, Red Guard, Shadow Dragon - Tim Farland
+Jelly Cube - Luz Piazuelo
+Spirit, Lich dialogues - Motrax
+Warrior dialogue (Camteron) - Fiend's BoE Page
+
+
+These authors have given much to the Blades community by offering their work for
+use by others.  Thank you!  All other graphics were modified by me, or taken from 
+public domain pictures.
+
+The version of this scenario that you have may not be the latest!  Check the web site
+at http://members.aol.com/risberg/blades and verify that you have the most up to date 
+release.
+
+
+General Hints:
+
+The Brotherhood Of The Hand is not a very long scenario, and can be completed with very
+little problem solving and only a few larger battles.  I have tried to make the main 
+emphasis on the story, and have put as little as possible in the way of its telling.
+
+Those of you who have played my first scenario The Forsaken will recognize names and
+references to events that occured in it.  It is not required that you completed The 
+Forsaken to play this scenario, although I recommend it.  Some things will make a 
+bit more sense.
+
+To fully uncover all of the events in this scenario, however, will require a bit more
+effort than required to just complete it.  There are some difficult and (I think)
+rather unique puzzles.  Feel free to email me or post to one of the BoE message 
+boards for hints.  Links to these message boards can be found on my Blades web page.
+
+I'd love to hear your comments on this scenario!  Please email me, good or bad.
+Thanks for trying The Brotherhood Of The Hand.  I hope you enjoy it.
+
+Version History:
+
+v1.0.0 - Began work around 11/21/99.
+	 Released for beta testing 3/3/00.
+
+v1.1.0 - Bunch of changes made.  Released 3/20/00.
+
+v1.2.0 - Some minor changes, fixed portcullis bug, and nasty bug where if any Jugglers
+         were killed, the ring was unavailable.  Thanks to Caligula for his input and 
+         relaying of comments from the message boards.  Released 6/04/00.
+
+v1.3.0 - One very minor bug fix not really worth its own version.  
+         Released anyway 9/29/00.
+
+v1.4.0 - Some changes as recommended by Skyle.  Among other things, the trainer .exs
+	 was enhanced with additional items and alchemy ingredients, and identification
+	 and training were added, as training was conspicuously absent after Fort Dulak,
+	 and identification was never available.  Released 9/3/01.
+

@@ -1,0 +1,341 @@
+Blades of Exile : HammerKeep Notes and Flags
+
+Stuff Done Flags:   Corresponding Node: Node Sequence Init:
+
+Town O; Hamlet of Gord  loc: 0,0  24,24	
+
+Flags:
+
+0,7   {set 1}: Killed Gold got Necklace N:3
+0,8   {set 1}:get items from Gold N:32 {set 2}:insulted Gold N:33 ini: N5
+0,9   {set 1}:get 1000gp from Nirvil N:40			  ini: N24
+Ask Gold about John: ScenSpec 5. con.x: 50,5
+200,0 {incr1}: Killed Nirvil  N:12		ini:Global 20
+0,3   {set 1}: Nirvil Dead N:15			ini:death
+
+Town 1; Burgess		 loc: 0,0  9&10,9
+
+Flags:
+0,6   {set 2}: talk to John N:14 {set 1}: didn't buy sword N:10
+0,5   {set 1}: bought sword N:18
+0,4   {set 1}: Got Farm Shop Message N:34
+1,8   {set 1}: took scarab to John N:90  	ini:Specitem 15
+1,7   {set 1}: Entry Message	N:38		ini:N36
+200,0 {incr1}: Killed Derban N:12		ini:Global 20
+0,2   {set 1}: Derban Dead N:26			ini:death
+
+Town 2; Craghill Heights loc: 0,1  9,31
+
+Flags:
+2,0   {set 1}:got message at gate N:25 {set 2}:too many steps N:22
+      {set 3}:Gave pass   N:30         {set 0}:timer reset 0 N:29
+      {set 4}:talked to Drumgord N:14
+2,2   {set 1}:gave food N:35           {set 0}:timer reset 0 N:34
+2,3   {set 1}:got message N:52
+2,4   {set 1}:Killed Karovis N:59			ini:N36
+
+
+Town 3: Kaleels		loc: 0,0  28,23
+
+Flags:
+3,0   {set 1}: Freed child N:16			ini:dialogue
+3,1   {set 1}: Heard Child N:8			ini:N0
+3,2   {set 1}: Found scroll w/spell N:15 	ini:N:12 
+
+Town 4: Randall's 	loc: 0,1  19,30
+
+Flags
+200,0 {incr1}: Killed Randall N:12		ini:Global 20
+4,0   {set 1}: Randall dead N:9			ini:death
+
+Town 5: Nephiltown	loc: 0,0  44,5
+
+Flags:
+
+5,0   {set 1}: Found ledger N:7
+5,1   {set 1}: Boat Msg
+200,0 {incr1}: Killed Nephil  N:12		ini:Global 20
+5,2   {set 1}: Nephil Chief Dead N:20		ini: death
+
+Town 6: Greschel 	loc: 0,2  38,7
+
+Flags:
+
+6,1   {set 1}: Pushed crate and entered Hollow N:9
+
+
+Town 7: Greschel Hollow 	loc: 0,1 38,7
+
+Flags:
+7,1   {set 1}: Got entry message N:8
+7,0   {set,1}: Got warning message N:6
+Talk to Cedrill ScnSpecItem:10
+7,3   {set 1}: Got spec itm 10 N:9
+299,0 {set 2}: Has map con.x out spec*footnote* N:49
+200,0 {incr1}: Killed Asterain  N:12		ini:Global 20
+7,2   {set 1}: Asterain dead N:11		ini:death
+
+Town 8: RavenGaurd Keep    	loc: 1,0 3,15
+
+Town 9: The Hideout		loc: 2,2 44,40
+
+Flags:
+9,0   {set 1}: experience mist at falls N:5	ini:N0
+9,0   {set 2}: examined body N:29		ini:N18
+9,1   {set 1}: crit Orc party	N:13		ini:N8
+9,3   {set 1}: got journal ;specitem 11, N:22	ini:N20
+9,9   {set 6}: value of journal	N:30		ini:N20
+		con.x Specitem 11
+9,7   {set 1}: need locate map	N:37		ini:N20
+9,7   {set 0}: took map N:35  specitem:12	ini:N32 spec con.x T20 map
+
+
+Town 10: Crystalcaves		loc: 1,0 5,11
+
+Flags:
+10,1   {set 1}: found note N:3			ini:N0
+
+
+Town 11: Crassus		loc: 2,1 39,15
+
+Flags:
+11,1   {set 1}: wandering encounter N:7		ini:N3
+
+
+Town 12: EaglePeace Abbey	loc: 3,2 40,22
+
+Flags:
+12,1   {set 1}: Found spellbook	N:17		ini:N12
+12,2   {set 1}: Found message N:20		ini:N18
+200,0  {incr1}: Killed Langer N:22		ini:Global 20
+12,0   {set 1}: Langer dead N:23		ini:death
+
+
+Town 13: North Shore Port	loc:3,0 33,31
+
+
+Town 14: Firecaves		loc:2,0 34,34
+
+Flags:
+200,0  {incr1}: Killed Hogur  N:12	ini:Global 20
+14,0   {set 1}: Hogur dead N:11		ini:death
+
+Town 15: Temple			loc:2,0 33,33 LL1
+
+Flags:
+15,1   {set 1}: Temple curse N:31		ini:N30
+15,2   {set 1}: Temple Message N:40		ini:N41
+15,3   {set 1}: Found Ledger N:62		ini:N59
+15,4   {set 1}: Destroyed Temple N:58		ini:N41
+15,5   {set 1}: got jewel    N:68		ini:N5
+15,6   {set 1}: returned without John N:	ini:N68
+15,8   {set 1}: John Message   N:39		ini:N5
+15,9   {set 1}: Demon Golem   N:32		ini:N5
+200,0  {incr1}: Killed Phocus N:79		ini:Global 20
+15,7   {set 1}: Phocus dead N:55		ini:death
+200,0  {incr1}: Killed Khava Rill N:79		ini:Global 20
+15,0   {set 1}: Khava dead N:91			ini:death
+
+Town 16: Goldmines		loc:0,1 32,30
+16,1   {set 1}: Found entrance T28  N:8		ini:N5
+
+Town 17: Trog Cavern		loc: 2,0 33,33
+
+Flags:
+17,0   {set 0}: reset to outgoing  N:23
+17,0   {set 2}: Outgoing Message N:3		ini:N0 
+18,0   {set 2}: Ready for ingoing		ini:N0
+
+Town 18: Orctown		loc:2,0 34,33
+
+Flags:
+17,0   {set 0}: ready for ingoing N:12		ini:N0
+18,0   {set 0}: Reset for outgoing N:7		ini:N0
+18,1   {set 1}: Entry message N:15		ini:N16
+18,9   {set 1}: worg message N:4		ini:N2
+
+Town 19: Labrynth		loc:2,0  33,33 LL2
+
+
+Town 20: HammerKeep		loc:3,1 31,11
+
+Flags:
+20,0   {set 1}: Placed Lead Pack N:19		ini:N7
+20,1   {set 1}: Got Map message	N:		ini:N40
+20,3   {set 1}: Placed 2nd floor Orcs		ini:N64
+20,8   {set 1}: Talked to Barks N:30		ini:N26
+20,8   {set 2}: Freed Barks N:28		ini:N27
+200,0  {incr1}: Killed Barks N:42		ini:Global 20
+20,4   {set 1}: Barks dead N:66			ini:death
+200,0  {incr1}: Killed Cleodorn N:42		ini:Global 20
+20,5   {set 1}: Cleodorn dead N:67		ini:death
+
+Special Note: Specials around main building (towns 21 and 20) are 
+dependent upon the existing Orcs in towns 21 & 22 to spill boiling oil.
+When killed the 20,5 & 20,6 flags are incremented.
+
+Town 21: HKeep 2nd		loc: 3,1 31,11       UL1
+
+Flags:
+21,0   {set 1}: Message of Tort. Chamber N:17	ini:N5
+20,4   {set 1}: Killed Orc Bowmen  
+20,5   {incr1}: Death of Orc  N:15
+20,6   {incr1}: Death of Orc  N:16
+21,8   {set 1}: Placed warlord N:
+21,9   {set 1}: Death of Orc Lord  N:7 recieve specitem: 13
+200,0  {incr1}: Killed Warlord N:18		ini:Global 20
+
+
+Town 22: HKeep 3rd		loc: 3,1 31,11        UL2
+
+Flags:
+20,5   {incr1} Death of Orc N:2
+20,6   {incr1} Death of Orc N:3
+
+Town 23:Brindlerun Keep		loc: 1,1 23,22
+
+Town 24: Stonerill Keep		loc: 2,0 27,16
+
+Flags:
+24,0   {set 1} fell into ambush N:16		ini:N0
+24,1   {set 1}: entry messages N:7 		ini:N5
+
+Town 25: Last Bastion		loc: 2,2  6,33
+
+Town 26:Bastion LL		loc: 2,2  6,33
+
+Town 27:Water caves		loc: 0,0  46,5
+
+Town 28:Ice caves		loc: 0,1  37,28
+
+Flags:
+28,0   {set 1}: entry message  N:9		ini: N7
+28,1   {set 1}: found exit,entrance  N:6		ini:N1
+
+Town 29:Faerie Town		loc:3,2  16,7
+
+Town 30:Catacombs		loc:2,0  33,33  LL3
+
+Town 31:Orc Barracks		loc:2,0  33,33  LL4
+
+Flags:
+200,0  {incr1}: Killed Nirvil N:12		ini:Global 20
+0,3    {set 1}: Nirvil dead N:5			ini:death
+
+
+OUTDOOR NOTES & FLAGS
+* Killing Wyvern of Brindlerun yields gold key (spec itm 14)
+100,0   {set 2}: Killed wyvern N:16	loc:1,1  34,14&15	ini:N0 Spec enc:0 N:5
+100,0   {set 1}: Payed Wyvern N:22	loc:1,1  34,14&15	ini:N0 Spec enc:0 N:5
+100,0   {set 0}: Timer reset N:56	loc:1,1			ini:N0 Spec enc:0 N:5
+100,1   {set 1}: Msg about caves 	loc:0,0  43,5&6
+100,2   {set 1}: Msg about path	N:4	loc:0,1	 32,36 & 35,39	ini:N8  
+100,3   {set 1}: Msg about mines N:10	loc:0,1  31&32&33,31	ini:N2
+100,4   {set 1}: Met Orc war party N:3	loc:1,2 32,8		ini:N0
+2,2	{set 0}: reset food and entry T2 N:9	loc:0,1		ini:N5 con.x spec enc.
+100,7   {set 1}: Msg about bridge N:2	loc:2,1	 28,32 & 29,21	ini:N1
+
+299,0   {set 1}: Has Been in area w/SpecItem:10 loc:2,2
+299,1   {set 1}: Found Havernill got exp. ScenSpec:N16
+299,9	{set 1}: Wilfred Timer begun. ScenSpec N:88 		ini:SS N0
+299,8	{set 1}: Began to study spells N:122			ini:SpecItm20:N103
+299,8   {set 2}: Began Second study N:124        
+299,8   {set 3}: Finished first spells N:114
+*footnotes* 
+299,0 (0 & 1 & 2) :Party must have map to Havernill(specitem 10) 
+299,1             obtained in T7 and also must be within the noted
+                  area of outdoor section 2,2 in order for the
+                  map to reveal T9 when used.Additionally the party
+                  can not enter 34,35 and exit east to set 299,0 to 0 
+                  after getting first message about location being 
+                  familiar and must enter by land to recognize.
+
+200,0 Scenario Conclusion when (Incremented by 12) All conspirators dead.
+
+
+Life Link Flags for non dependent NPCs
+
+Town 1: 	Flag:		DeathNode
+Vastro  	150,0		N:60
+Rippel		150,1		N:61
+Marian		150,2		N:62
+Gonski		150,3		N:63
+Ella		150,4		N:64
+Pervis		150,5		N:65
+
+Town 2:
+
+Furfold		150,6		N:50
+Hibert		150,7		N:51
+Zebiris		150,8		N:52
+Junghar		150,9		N:53
+Alcemar		151,0		N:54
+Klevick		151,1		N:55
+Zerix		151,2		N:56
+Ulfallind	151,3		N:57
+
+Town 3:
+
+black cat	151,4		N:20
+
+Town 7:
+
+Rhevgard	151,5		N:20
+Harla		151,6		N:21
+Cedrill		151,7		N:22
+Crandall	151,8		N:23
+
+Town 8:
+
+Feodora		151,9		N:5
+
+Town 10:
+
+Minotaur	152,0		N:5
+
+Town 11:
+
+Hyanill		152,1		N:15
+Zeran		152,2		N:16
+Bernjasti	152,3		N:17
+Lamiskar	152,4		N:18
+Vendemol	152,5		N:19
+Frohog		152,6		N:20
+
+Town 17:
+
+Troglodyte lord 152,7		N:50
+
+Town 23:
+
+Landisheim	152,8		N:5
+James		152,9		N:6
+Bolin		153,0		N:7
+Alydia		153,1		N:8
+
+Town 25:
+
+Valburn		153,2		N:10
+Lella		153,3		N:11
+Granivy		153,4		N:12
+Trianna		153,5		N:13
+Hyrantha	153,6		N:14
+
+Town 26:
+
+Hasfind		153,7		N:25
+Zamandre	153,8		N:26
+Nils		153,9		N:27
+Feonella	154,0		N:28
+Harbisher	154,1		N:29
+Frankel		154,2		N:30
+Troll		154,3		N:31
+Fandamell	154,4		N:32
+
+Town 28:
+
+Ice Drake Lord 	154,5		N:20
+
+Town 30:
+
+Gazer		154,6		N:15

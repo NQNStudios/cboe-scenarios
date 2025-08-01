@@ -1,0 +1,258 @@
+The common monsters in Blades of Exile, compiled by Tarl Roger Kudrick
+
+           Monster       Lvl   Calc  Skill  Arm  Hlth   AT   D1   S1   D2   S2   D3   S3   PL   ML
+  1  Townsperson            1   1.2     2     1     6    1    1    6    0    0    0    0    0    0
+  2  Townsperson            1   1.2     2     1     6    1    1    6    0    0    0    0    0    0
+  3  Townsperson            1   1.2     2     1     6    1    1    6    0    0    0    0    0    0
+  4  Townsperson            1   1.2     2     1     6    1    1    6    0    0    0    0    0    0
+  5  Townsperson            1   1.2     2     1     6    1    1    6    0    0    0    0    0    0
+  6  Townsperson            1   1.2     2     1     6    1    1    6    0    0    0    0    0    0
+  7  Townsperson            1   1.2     2     1     6    1    1    6    0    0    0    0    0    0
+  8  Townsperson            1   1.2     2     1     6    1    1    6    0    0    0    0    0    0
+  9  Child                  1   1.0     1     1     6    1    1    1    0    0    0    0    0    0
+ 10  Child                  1   0.7     1     1     3    1    1    1    0    0    0    0    0    0
+ 11  Beggar                 1   0.9     2     1     3    1    1    2    0    0    0    0    0    0
+ 12  Guard                 30  25.3    30    30   140    2    3   10    3   10    0    0    0    0
+ 13  Soldier                4   5.3     8     8    20    1    2    7    0    0    0    0    0    0
+ 14  Captain                8   8.4    10    12    40    1    2    9    0    0    0    0    0    0
+ 15  Champion              12  13.6    14    18    75    2    2   10    2   10    0    0    0    0
+ 16  Bladesman             20  19.1    20    22   115    2    3    8    3    8    0    0    0    0
+ 17  Empire Dervish        25  22.6    23    25   140    2    3   12    3   12    0    0    0    0
+ 18  Brigand                3   3.7     5     6    14    1    1    8    0    0    0    0    0    0
+ 19  Archer                 5   4.1     6     6    16    1    1    6    0    0    0    0    0    0
+ 20  Empire Archer         28  18.2    28    20    90    1    1   10    0    0    0    0    0    0
+ 21  Acolyte                3   4.0     2     8    18    1    1    8    0    0    0    0    2    0
+ 22  Priest                 8   7.7     4    14    40    1    1    8    0    0    0    0    4    0
+ 23  High Priest           20  14.1     8    20    90    1    3    8    0    0    0    0    6    0
+ 24  Evil Acolyte           4   4.0     2     8    18    1    1    8    0    0    0    0    2    0
+ 25  Evil Priest            8   7.7     4    14    40    1    1    8    0    0    0    0    4    0
+ 26  Evil High Priest      20  14.1     8    20    90    1    3    8    0    0    0    0    6    0
+ 27  Apprenctice Mage       5   5.0     2     5    16    1    1    6    0    0    0    0    0    2
+ 28  Mage                  10  10.7     4    10    40    1    1    8    0    0    0    0    0    4
+ 29  Wizard                25  20.5     5    20    90    1    1   10    0    0    0    0    0    7
+ 30  Order Wizard          35  28.8     5    30   160    1    1   12    0    0    0    0    0    7
+ 31  Witch                  8   9.9     3     4    40    1    1    6    0    0    0    0    0    5
+ 32  Witch                  6   7.5     3     4    35    1    1    6    0    0    0    0    0    3
+ 33  Official               2   1.2     1     2     6    1    1    3    0    0    0    0    0    0
+ 34  Official               2   1.2     1     2     6    1    1    3    0    0    0    0    0    0
+ 35  Assassin               7   7.6    12     9    35    1    1   12    0    0    0    0    0    0
+ 36  Monk                   6   5.9     8     7    30    2    2    6    2    6    0    0    0    0
+ 37  Mad Monk              12  15.5    25    15    80    3    2    8    2    8    2    8    0    0
+ 38  Goblin                 2   2.6     5     3    10    1    1    7    0    0    0    0    0    0
+ 39  Goblin Fighter         5   4.7     8     5    22    1    1    9    0    0    0    0    0    0
+ 40  Nephil                 4   2.9     3     4    15    1    1    8    0    0    0    0    0    0
+ 41  Nephil Warrior         6   5.7     9     7    25    1    2    7    0    0    0    0    0    0
+ 42  Nephil Archer          5   4.7     8     6    18    1    1    8    0    0    0    0    0    0
+ 43  Nephil Shaman          6   9.4     4    12    30    1    1    8    0    0    0    0    3    3
+ 44  Nephil Chief           8  12.0    18    18    45    2    2   10    2   10    0    0    0    0
+ 45  Ogre                   7   7.2    10     9    35    1    3    6    0    0    0    0    0    0
+ 46  Ogre Mage             18  17.6    10    15    70    1    3    6    0    0    0    0    0    6
+ 47  Slith                  7   5.7     7     7    30    1    1   10    0    0    0    0    0    0
+ 48  Slith Warrior         10   7.7    14     3    50    2    3    8    3    8    0    0    0    0
+ 49  Slith Priest           8   5.8     6     5    40    1    1   12    0    0    0    0    4    0
+ 50  Slith Mage             8  11.1     6    10    40    1    1   10    0    0    0    0    0    4
+ 51  Slith High Priest     12  11.6     6    18    70    1    1   10    0    0    0    0    7    0
+ 52  Slith Archmage        12  17.6     6    18    70    1    1   10    0    0    0    0    0    6
+ 53  Slith Chief           15  20.1    28    24   100    2    4   10    4   10    0    0    0    0
+ 54  Cave Giant            18  12.3    12    10    90    1    5    8    0    0    0    0    0    0
+ 55  Giant Shaman          22  18.6    10    14   110    1    5    8    0    0    0    0    4    4
+ 56  Giant Chief           28  23.3    28    24   140    1    6   10    0    0    0    0    0    0
+ 57  Mutant Giant          26  22.8    28    25   130    1    5   10    0    0    0    0    0    0
+ 58  Skeleton               3   2.6     4     2    15    1    1    8    0    0    0    0    0    0
+ 59  Ruby Skeleton         10   7.7    10     6    50    1    2    8    0    0    0    0    0    0
+ 60  Zombie                 4   2.6     5     0    20    1    2    4    0    0    0    0    0    0
+ 61  Ghost                  3   1.8     3     0    15    1    1    8    0    0    0    0    0    0
+ 62  Ghoul                  6   4.8     9     2    30    3    2    8    1   10    1   10    0    0
+ 63  Ghast                  8   6.4    13     2    40    3    3    8    1   13    1   13    0    0
+ 64  Quickghast            12   9.1    18     2    60    3    4    8    5    5    5    5    0    0
+ 65  Spirit                11  10.7     7     7    55    1    1   10    0    0    0    0    0    3
+ 66  Wight                 10   8.2    10     8    50    1    2    8    0    0    0    0    0    0
+ 67  Spectre               14  11.7    17    10    70    2    0    0    4    6    4    6    0    0
+ 68  Vampire               18  17.7    20     5    90    1    2   10    0    0    0    0    0    5
+ 69  Lich                  35  30.8    30    15   170    2    0    0    4    8    4    8    7    7
+ 70  Hraithe               14  13.1     8     7    70    1    3   10    0    0    0    0    0    4
+ 71  Vahnavoi              10   9.9    16    10    50    2    0    0    3    8    3    8    0    0
+ 72  Giant Lizard           4   4.1     7     4    20    3    2    6    1    8    1    8    0    0
+ 73  Fire Lizard            8   7.5    12     7    40    3    3    6    1   10    1   10    0    0
+ 74  Ice Lizard             8   7.5    12     7    40    3    3    6    1   10    1   10    0    0
+ 75  Cave Slime             3   2.0     4     0    15    3    1    8    1    8    1    8    0    0
+ 76  Ice Slime              7   4.3     7     0    35    1    2   10    0    0    0    0    0    0
+ 77  Viscous Goo            3   3.9     7     0    30    1    1   12    0    0    0    0    0    0
+ 78  Cave Rat               2   1.9     3     2    10    1    1    6    0    0    0    0    0    0
+ 79  Vapor Rat              4   3.2     5     2    20    1    1   10    0    0    0    0    0    0
+ 80  Mung Rat               3   2.8     5     2    15    1    1    8    0    0    0    0    0    0
+ 81  Shambler              18  11.4    15     1   100    2    0    0    4   10    4   10    0    0
+ 82  Bat                    2   4.2     4    10    10    1    1    7    0    0    0    0    0    0
+ 83  Drake                 18  18.1    18    12    90    3    3   15    2   10    2   10    0    4
+ 84  Imp                    7   9.4    12     8    35    2    0    0    1   10    1   10    2    2
+ 85  Demon                 20  18.0    18    14    70    3    3    8    1   15    1   15    3    5
+ 86  Mung Demon            30  22.8    24    22   150    2    0    0    4   10    4   10    0    0
+ 87  Haakai                35  35.2    33    20   200    3    6   10    4   10    4   10    7    7
+ 88  Hordling               5   4.1     5     4    25    1    2    6    0    0    0    0    0    0
+ 89  Vahnatai               3   3.2     5     2    20    1    1    8    0    0    0    0    0    0
+ 90  Vahnatai Child         1   1.5     3     2     5    1    1    3    0    0    0    0    0    0
+ 91  Vahnatai Warrior       9  12.3    12    10    90    1    3   12    0    0    0    0    0    0
+ 92  Vahnatai Warrior       8  11.1    12    10    75    1    1   16    0    0    0    0    0    0
+ 93  Vahnatai Shaper        7  14.0     8    14    70    1    1   18    0    0    0    0    0    3
+ 94  Vahnatai Shaper        7  11.0     8    14    70    1    1   18    0    0    0    0    3    0
+ 95  Vahnatai Keeper       18  21.0     8    14   120    1    2   12    0    0    0    0    0    6
+ 96  Vahnatai Keeper       18  15.0     8    14   120    1    2   12    0    0    0    0    6    0
+ 97  Vahnatai Master       25  24.8    23    18   190    2    5   10    4   10    0    0    0    0
+ 98  Vahnatai Lord         35  53.1    35    25   400    1    6   14    0    0    0    0    7    7
+ 99  Serpent                3   2.6     4     2    15    1    1    8    0    0    0    0    0    0
+100  Asp                    5   3.8     6     2    25    1    1   10    0    0    0    0    0    0
+101  Gazer                 24  19.2     7     8   120    1    1   10    0    0    0    0    3    6
+102  Eyebeast              18  10.8     7     8    90    1    1   10    0    0    0    0    0    0
+103  Basilisk              10   6.4     5     5    50    3    2    6    1    8    1    8    0    0
+104  Ur-Basilisk           25  14.5    12     9   120    3    3    6    1   10    1   10    0    0
+105  Statue                 7   7.0     0    12    35    0    0    0    0    0    0    0    1    1
+106  Living Statue          2   3.9     0    12    10    0    0    0    0    0    0    0    0    0
+107  Crystal Soul          28  27.9     0    18   200    0    0    0    0    0    0    0    7    7
+108  Lizard                 1   0.7     1     1     3    1    1    2    0    0    0    0    0    0
+109  Cat                    1   0.7     1     1     3    1    1    2    0    0    0    0    0    0
+110  Dog                    1   0.7     1     1     3    1    1    2    0    0    0    0    0    0
+111  Cave Cow               1   1.0     1     1     7    1    1    2    0    0    0    0    0    0
+112  Cow                    1   1.0     1     1     7    1    1    2    0    0    0    0    0    0
+113  Chicken                1   0.5     1     1     1    1    1    2    0    0    0    0    0    0
+114  Sheep                  1   0.9     1     1     5    1    1    2    0    0    0    0    0    0
+115  Wolf                   3   2.5     5     1    15    1    2    6    0    0    0    0    0    0
+116  Worg                   7   4.9     9     1    35    1    3    6    0    0    0    0    0    0
+117  Bear                   8   6.5    12     3    40    3    4    6    1   12    1   12    0    0
+118  Giant Spider           4   2.0     3     1    14    1    1    8    0    0    0    0    0    0
+119  Talking Spider         8   8.6    25     1    40    1    3    6    0    0    0    0    0    0
+120  Gremlin                3   2.5     5     1    15    1    1    8    0    0    0    0    0    0
+121  Black Shade           12  10.5     9     6    50    1    2    6    0    0    0    0    5    3
+122  Guardian              18  12.9    20     6    90    2    0    0    3   10    3   10    0    0
+123  Doomguard         30*     18.3    25     4   150    2    0    0    5    9    5    9    0    0
+124  Poison Fungi           7  10.0    35     8    10    1    1    2    0    0    0    0    0    0
+125  Shade                  5   4.4     5     5    25    1    1    8    0    0    0    0    0    0
+126  Deva                   8   7.0    12     5    40    1    1   10    0    0    0    0    2    0
+127  Salamander            18  12.2    15     7    90    3    3    6    1    8    1    8    0    0
+128  Ice Drake             22  19.4    24    10   110    3    4    6    2    6    2    6    3    3
+129  Ice Pudding           10   6.7    13     0    50    1    5    9    0    0    0    0    0    0
+130  Chitrach              12   8.3     8     7    60    1    4    6    0    0    0    0    0    0
+131  Chitrach Larva         6   3.2     3     2    25    1    2    6    0    0    0    0    0    0
+132  Null Bug              12   7.8    12     5    50    1    5    7    0    0    0    0    0    0
+133  Giant Slug            16  13.5    18    13    80    1    5   10    0    0    0    0    0    0
+134  Spore Beast            7   6.4    10     6    35    1    2    6    0    0    0    0    0    0
+135  Rakshasa              25  22.2     4    20   125    1    1   12    0    0    0    0    0    6
+136  Naga                  28  26.8    28    18   140    1    4   10    0    0    0    0    4    5
+137  Efreet                25  29.4    33    25   150    2    0    0    5   10    5   10    0    4
+138  Amber Slime            3   1.3     3     0     8    1    2    6    0    0    0    0    0    0
+139  Ochre Slime            3   1.3     3     0     8    1    1    8    0    0    0    0    0    0
+140  Emerald Slime          3   1.4     3     0    10    1    1    8    0    0    0    0    0    0
+141  Mauve Slime            4   2.4     3     0    10    1    1    7    0    0    0    0    1    1
+142  Alien Slime           14  16.4    12    10   140    2    2   10    2   10    0    0    0    0
+143  Cockroach              2   2.1     4     2    10    1    1    8    0    0    0    0    0    0
+144  Large Roach            6   4.4     6     3    30    1    2    8    0    0    0    0    0    0
+145  Giant Roach            8   5.7     7     4    40    1    3    8    0    0    0    0    0    0
+146  Mung Roach             8   6.0     7     5    40    1    2    8    0    0    0    0    0    0
+147  Guardian Roach        10   9.1    13     6    60    1    4    8    0    0    0    0    0    0
+148  Big Roach              4   8.6    30     0    30    1    2    8    0    0    0    0    0    0
+149  Troglodyte             5   4.6     5     6    25    1    1   10    0    0    0    0    0    0
+150  Troglodyte Warrior     8   7.5     8    10    40    1    2   12    0    0    0    0    0    0
+151  Troglodyte Shaman      7  10.7     6    10    35    1    1    8    0    0    0    0    5    4
+152  Troglodyte Khazi      10  14.8     8    12    50    1    1   10    0    0    0    0    6    6
+153  Troglodyte Defende    12  12.9    14    20    60    1    3   10    0    0    0    0    0    0
+154  Troglodyte Lord       14  25.8    22    60    70    1    4   10    0    0    0    0    0    0
+155  Hill Giant            10   8.6    12     8    50    1    3    8    0    0    0    0    0    0
+156  Hill Giant Fighter    12  12.2    18    14    60    1    3   10    0    0    0    0    0    0
+157  Hill Giant Shaman     14  12.8    10     8    70    1    3    8    0    0    0    0    3    3
+158  Hill Giant Chief      24  27.0    30    18   200    1    5   10    0    0    0    0    0    0
+159  Golem of Blades       13  15.0    20    20    70    2    0    0    3   10    3   10    0    0
+160  Fire Golem            18  13.2    15    17    70    1    4   10    0    0    0    0    0    0
+161  Ice Golem             18  13.2    15    17    70    1    4   10    0    0    0    0    0    0
+162  Jeweled Golem         22  14.6    13    18    90    1    1   10    0    0    0    0    0    0
+163  Demon Golem           22  21.5    26    25   120    1    5   10    0    0    0    0    5    0
+164  Power Crystal         10  14.6     0    25   100    0    0    0    0    0    0    0    0    0
+165  Mind Crystal          30  29.7     0    25   200    0    0    0    0    0    0    0    7    7
+166  Alien Beast           20  19.4    30    20   100    1    9   10    0    0    0    0    0    0
+167  Pack Leader           27  27.3    36    30   150    1   10   13    0    0    0    0    0    0
+168  Dark Wyrm             30  24.7    30     9   200    1   10   13    0    0    0    0    0    0
+169  Dryad                  7   4.1     4     0    40    1    1    8    0    0    0    0    0    0
+170  Drake Lord            30  54.7    26    15   500    3    8   10    4   10    4   10    7    5
+171  Spiny Worm            15  13.3    18     6   100    1    6   12    0    0    0    0    0    0
+172  Ursag                 12   6.9    18    10     8    3    3   10    2    8    2    8    0    0
+173  Gorgon                18  16.0    17    14   110    3    3   12    1   12    1   12    0    0
+174  Unicorn                3   3.4     6     3    17    1    1   12    0    0    0    0    0    0
+175  Slime Zombie           5   3.7     5     1    30    2    0    0    2    5    2    5    0    0
+176  Mung Slime             7   7.1    10    10    30    1    3    8    0    0    0    0    0    0
+177  Dragon            39**   227.1    35    40  2500    3    9   40    8   30    8   30    7    7
+178  Hydra                 20  15.8    20    14   100    3    4    8    4    8    4    8    0    0
+179  Pyrohydra             24  17.9    20    14   125    3    4    8    4    8    4    8    0    0
+180  Cryohydra             24  17.4    17    10   140    3    4    8    4    8    4    8    0    0
+181  Baby Hydra             8   6.2     7     6    40    2    3    9    3    9    0    0    0    0
+182  Pixie                  7  12.0     2    30    10    1    1    8    0    0    0    0    0    3
+183  Unicorn               25  17.0    16    20    80    1   12   18    0    0    0    0    2    2
+184  Kobold                 2   1.2     2     1     6    1    1    8    0    0    0    0    0    0
+185  Centaur               10   4.6     8     2    30    1    2    8    0    0    0    0    0    0
+186  Centaur Chief         18   8.0    14     4    50    1    3   10    0    0    0    0    0    0
+187  Blood Beast       24***   19.0    18    12   150    3    4   12    3   12    3   12    0    0
+
+Lvl = Level of monster     Calc = Calculated level     Skill = Skill     Arm = Armor     Hlth = Health
+AT = Number of melee attacks
+     D1-3 = Number of dice of damage for attacks #1-3     S1-3 = Sides on dice of damage for attacks #1-3
+     (so if D1=2 and S1=8, it's 2d8, or 1-8 twice, added together)
+PL, ML = Level of Priest, Mage spells the monster can cast
+
+
+ASTERISKS AND NOTES
+
+* A Doomguard is technically a level 4 monster, because a monster's x.p. value is based on its level.
+  A Doomguard splits up into many other Doomguards, so if this monster was given the level value it
+  deserves, it would give way too many x.p. when a party slew "one" of them. For scenario design
+  purposes, a Doomguard should be considered a level 30 monster, or possibly even higher.
+
+** Multiple regression determined that if a Dragon's level was derived the same way other monsters'
+  levels are (save the Doomguard), a Dragon would be a level 133 monster. And my regression didn't take
+  breath weapons into account!
+
+*** In the game, the Blood Beast is a level zero monster. That has to be an error on the game designer's
+  part. Regression techniques determined that a Blood Beast should be a level 24 monster.
+
+NOTES FOR THE STATISTICALLY INCLINED: I tried to find a theoretically sound set of variables to predict
+a monster's level, but my theories weren't backed up by the data all that well. So, I performed a
+stepwise regression, allowing the computer's algorithms to choose what order the regressors should be
+entered into the regression equation.  There are all kinds of reasons why such "automatic" regression
+strategies are inferior to theoretically based ones, but they didn't seem to matter much here.
+However, by examining the results, I did hypothesize (and then find) one interesting point. There's an
+interaction between the maximum amount of damage a monster can do in one round with its regular attack
+forms, and what level of mage spell it can use.  This interaction is statistically significant at the
+.001 level even when the other significant variables are entered.
+
+All in all, the following variables account for 85% of the variance in a monster's level (that is, the
+adjusted R-square is .85):
+
+Health, armor, level of mage spells, skill, maximum possible damage, and the interaction between mage
+spell and maximum possible damage.  Health, by itself, accounts for 72% of the variance in monsters'
+levels.  (Dragon, Doomguard, and Blood Beast data was left out of the calculations.  Also, the first
+7 Townspeople were removed, since all 8 are identical and I didn't want that skewing the results.)
+
+A monster's ability to cast priest spells has no significant effect on it's level, even with all the
+above variables accounted for (p>.17). 
+
+I did not enter a monster's special abilities (poison, disease, breath weapon, etc.) into the level
+calculations.  Things like that probably contribute greatly to the remaining 15% of variance, but there
+are so many special abilities of unequal strength that finding a good way to represent them was too
+annoying a task to bother with.
+
+
+CUSTOM MONSTERS
+
+Want to make your own monsters?  Great.  Here's the easiest way to decide what level your monster should
+be, while keeping it reasonably consistent with Jeff Vogel's current system. 
+
+LEVEL = HEALTH divided by 10, then add a level or two for special powers like causing poison, etc, and
+one level for every level of wizard spell the monster can cast. 
+
+But if you want to be more accurate, try this:
+
+LEVEL = 0.081 * HEALTH + 0.204* SKILL + 0.261 * ARMOR + Mage level, then add a level or two for special
+powers.  (Priest spells don't affect level, believe it or not, although they probably should.)
+
+Or you can do what Jeff presumably did, and just play around with the numbers until the game balance is
+right.  The above are just two estimates of what Blades of Exile's game balance is already set at, with
+the second estimate being more reliable than the first.  An even more reliable estimate would take six
+variables into account and require a bunch of extra math on your part on top of that, since two of those
+six variables are "composite" variables: special combinations of variables that already exist in the game.
+Not a big deal if you've got software to run complex statistical analyses, but a very big deal otherwise.

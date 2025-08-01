@@ -1,0 +1,23 @@
+To make a party for this scenario.
+
+Only 1 PC.
+
+Name; Mc. Donald
+Strength;  7
+Dextarity;  7
+Intelligence;  2
+Edged Wepons;  2
+Bashing Wepons;  2
+Pole Wepons;  2
+Thrown missles;  2
+Defense;  3
+
+Traits;
+Recuperation
+
+Race;
+Human
+
+No experience
+No gold
+5 food

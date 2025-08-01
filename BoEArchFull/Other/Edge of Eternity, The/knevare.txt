@@ -1,0 +1,440 @@
+1000 years ago, the Kingdom of Knevare was at its zenith.  More land than had ever been ruled by a single kingdom fell under its goverance, and peace was the norm.  The hostile creatures of epochs ago had been destroyed, and Knavare had enjoyed some 3 millenuim worth of prosperity, development and trade.  Foreign leaders from distant lands paid tribute, and Knevare was the undisputed driving force in the known world.
+
+Mages and priests came from all corners to study at the massive Knevare universities, the grandest of which was in the city of Elderhome.  The city itself was a marvel and testament to the architectural and magical achievement of the nation, grand towers climbed into the heavens, luxurious temples gave thanks to the gods that had granted such favor and the rulers lived in a grandeur that had never been known.
+
+Then it happened.  Some say the gods sent fire down from their dwelling among the stars, to punish the Knevarians for their arrogance.  Others say there was a battle between the great mages of Elderhome, and the outcome of their battle was the destruction that resulted.  Surely they were capable of such power, the legends say.  Whatever the cause, though, death rained from the skies that day.  The few remaining records are similar to the folktales' account of the destruction:  the earth seemed to explode, entire cities everywhere were destroyed in an instant, and the air itself did indeed seem to burn.
+
+The once-proud empire was humbled in an instant.  There were a few survivors, but they soon realized an even greater horror awaited them.  The Old Ones had returned.  Creatures, long banished from the face of the world by the might of Knevare, had come again to roam the earth.  Centaurs, elrek, trolls, and even worse, monsters that once inhabited only the tales of bards now once again ranged freely.  No one is still sure where these ceatures came from, perhaps they had somehow sensed the weakness of the humans, and 
+returned to reclaim their place in the land.
+
+Gradually, civilization began to rebuild.  The humans who survived the creatures' attacks formed small colonies, at first only for defense, then these became cities.  Much of the learning of Knevare was lost in these dark, early days, but a bit of the knowledge was preserved.
+
+After many generations, the pockets of civilization had developed into groups of small states.  A new culture, much different from the kingdom of Knevare, had developed.  Partly because many blamed them for the disaster, mages and priests were generally shunned, living in the shadows and barely tolerated.  Much of the ancient magic had been lost, so their power was greatly diminished.  They still occasionally held positions of importance in a few cities, but usually behind the scenes.  Cities that had formed solely to keep out the monster hordes became fiercely independant, normally distrusting one another, occasionally skirmishing.
+
+Now, 1000 years after, humanity continues its rebuilding.  The monsters still threaten, but for the most part the cities are safe.  Much of what was formerly Knevare is still barren wasteland, occupied by monsters and unsafe for humans.  Magic, at least among the humans, is rare, but some of the old knowledge is returning.  While much is still unknown, the events of 1000 years ago still are occasionally discussed.  Some still ask why, and worry about the future, but mostly it is a distant event of years past, hidden in the shroud of history.
+
+Elmindor
+Dragamir
+Kyrdeep
+Haven
+Stormkeep
+
+Iildirim - the Children of Light - a race of elfish-like people that disappeared after the Fires, spoken of only in legend.  They were devastated by the Fires, the survivors driven underground, have become the drow, dark elves!
+
+Moranna
+
+
+
+Eternity's Edge
+
+You start as a NEW party, with at LEAST 4 people.  You have some magical ability, so while you are 
+distrusted by the general populace, you are valued among the military, and have already been on a few 
+missions.  On the way back from a patrol where you found a strange, magical tablet with foreign writing 
+on it, you are ambushed by a band of trolls.  Assisted by two fellow warriors, Gariel and Barrachius, 
+you fight off the trolls, but your leader Astermine is killed.  The sage Klernime surmises that the 
+trolls could have been after the tablet, for some unknown reason, as they are rather far from their 
+home in the Archetoris Badlands.  You are sent ahead to return to your home Dragamir, with G and B, 
+and the rest of the patrol is never heard from again.
+
+Upon arrival General Norat is nowhere to be found, and the next-in-command, Adralinydd orders that the
+tablet be kept safe in the Command treasury until he returns.  The tablet is taken from you, and you 
+feel a strange draining when it is taken, weakened but at the same time as if a burden has just been 
+relieved.  You are sent out of the Command and told that the local guard needs some assistance.  
+Gariel volunteers to go with you, but Barrachius insists on waiting in Dragamir, so Adralinydd sends 
+the priest Moramus with your party instead.  Upon leaving town, you discover that the tablet has 
+mysteriously wound up in your inventory again.
+
+The tablet will not be discovered as missing for 10 days (or when you are attacked at Cruth's), 
+when Norat returns.  After this you will no longer be welcome in the Command center.
+
+Moramus suggests that you take the tablet to the Mages' Guild, where you at one time had some 
+training, but since then had a falling out with the purple-robed leader Zaalen.  He looks at the
+tablet (without touching it) and says that its magic is beyond even him, and you should should take 
+the tablet to Kyrdeep, and find Elmindor, reportedly one of the more powerful mages in the area.  
+Unfortunately, Kyrdeep is one of Dragamir's fiercest rivals, and you will not be afforded free passage.  Zaalen suggests you seek out the help of the Shadowhand, an association of thieves who provide 
+much of the commerce between warring cities.  His contact is Cruth, who lives on a farm near the edge 
+of Kyrdeep.  
+
+You arrive at Cruth's farm to find him murdered in a gruesome fashion, and then are immediately set
+upon by a large band of trolls, made up of three different tribes working together.  You defeat them,
+but Gariel sees a large band approaching from the distance, suggests you hide in the house, find
+some other way to escape, he is sure Cruth has some hidden exit.
+
+You have to find and open Cruth's hidden rooms, but eventually you escape into some caves below the
+cellar.  A well-trodden path leads a small thieves' outpost, where you are initally refused entry.
+Moramus speaks with the guard privately, and you are allowed passage through into Kyrdeep (this 
+described via text nodes).  You wind up in a small hut on the edge of the city of Kyrdeep, and your 
+first order of business is to acquire some local uniforms (armor, pants, need at LEAST 4 different 
+types equipped).  Then you can then roam the city freely, and the rest of the territory, and search 
+for Elmindor.
+
+At this point you also get a notice about a major troll incursion at Arl's Gap, everyone is called
+to support.
+
+Gariel suggests that you try asking around at the local garrison or government hall, as they are
+usually sympathetic with mages.  If you find uniforms, you can wander among the two states of 
+Kyrdeep and Dragamir, perhaps a side quest or two, a few NPCs to find and will join.  The Dragamir
+governing hall is closed to you, Norat and Barrachius are nowhere to be found.
+
+The garrison will be of no use to you, no one seems to have seen Elmindor lately.  You are sent to
+the residence of a wealthy counselman named Brutus, who is known by some as a friend of Elmindor.
+Once you find his name, he welcomes you in his home, but during dinner you are grabbed, the 
+tablet taken from you, and then thrown into a courtyard.  There you are attacked by a band of 
+soldiers under the command of Barrachius.  Elmindor magically appears and saves you from the
+battle, you rush into the tower of Brutus, regain the tablet, and sneak away with Elmindor.
+
+Norat would have taken the tablet immediately, as it contains the essence of Palanstenus.  You were 
+supposed to die in the ambush at Cruth's, but when that failed, Norat decided to use the tablet as 
+bait to catch Elmindor.
+
+Inn on the Frontier - called Inn at the Edge Of Eternity, they say it existed before the Fires Of Heaven,
+has been beseiged by monsters many times, but never destroyed.  Can meet NPCs here, release them
+from your party if wanted.
+
+Timeline (0 = Fires Of Heaven)
+
+- 3100 Joint Knevare / Orintar forces defeat Minataur forces at Kharzad Deep
+- 3000 Knevare signs unification treaty with Orintar, Elderhome made capital, age of Prosperity begins
+- 500 Ralmanor sets sail across Western Sea, never returns
+- 25 Palanstenus' treachery, disappears
+- 15 Palanstenus returns, Arwein exiled
+- 0 Fires Of Heaven, Knevare destroyed
+220 Earliest known existing records after Fires, log from Eternity's Edge Inn, describes Frontier as 
+  bitter wasteland, hordes of Minataurs, Greebils and Trolls
+250 First mention of established human settlements
+350 Kyrdeep founded
+375 Kyrdeep destroyed by Rockfist clan trolls, led by Managalor Palesbane
+376 Trolls and Minataurs began a brutal campaign against one another, both sides suffer heavy losses
+450 Dragamir, Kyrdeep (re)founded
+500 Trolls defeated at Arl's Gap, pushed back into Archetorius Badlands
+525 Last of large Minataur clans defeated, remaining are scattered into Frontier Caves
+550 Frontier wall, Enanth's Towers established by Dragamir
+560 Last of the large Greebil tribes eliminated, remaining driven into Gloomwood
+620 Contact made with cities of Haven, Mellyk
+640 Dragamir, Kyrdeep establish outer colonies
+740 Valeg's Revolution occurs, begins conflict between Dragamir and Kyrdeep colonies
+800 Patrols of Outer Frontier begin, first artifacts of Elder Age discovered
+900 Mellyk sailors reach Isle of the Sea Queen
+1000 Tablet of Ages discovered
+
+Oh, golden towers grand,
+rise up upon this barren land!
+The curs'ed dark and shifting sand
+conspires with the shadows long
+to blanket allw'th eternal night.
+
+The twisted trolls with piercing cry.
+Death reigns abound when arrows fly.
+By blade or gaping maw may die.
+Against doom's ever-present song
+the endless hordes strike down the light.
+
+Doom, doom, thou soulful dirge
+the ruins of Elderhome we cry
+Why hast thou brought us this dark bane
+that lasts upon your kin?
+
+Cry out, you stones, and golden streets!
+O citadel, that once reached high!
+The Fires of Heaven asundered what was
+The Iildirim [meaning unclear] lost nigh.
+
+Our weak wills waver, and stronghold crushed
+All stand at eternity's edge.
+Seek not the darkness beyond that lies 
+Be death, or doom, or the wicked axe,
+Man perch'ed upon perilous ledge.
+
+Portion of Haelchin's Lament, recorded by the Bard Carenza.  Found in Frontier's Inn, 
+dated 44 NAY (new age years).
+
+The Sea Queen - 
+
+Mages Arwein, Palanstenus, Cicero were members of the high council of Knevare.  Arwein and Cicero 
+were lovers, but Palanstenus (younger, less-talented brother of Cicero) secretly pined for Arwein.
+His jealousy for his brother burned over many years, he finally tried to frame Cicero for the 
+murder of fellow council member Dartenal, committed by Palanstenus when Dartenal discovered he was
+killing other mages in an attempt to gather the Council members' Transference Stones.  Cicero was 
+put in prison, but when Palanstenus hinted something to Arwein in an attempt to woo her, she 
+discovered his treachery, Cicero was freed, but Palanstenus escaped.  
+
+Years later he returned, twisted and broken, and confronted Arwein again.  When she again refused 
+him, he cast a strange draining spell on her.  She was able to cast a spell shielding her essence, 
+but her body was made open, and inhabited by an evil spirit, (somehow) brought by Palanstenus.  
+Arwein (controlled by evil) began to attack the council, and Cicero and the others were forced
+to destroy her.  But, Cicero could not bring himself to destroy his love, so (unknown to the
+other mages) he trapped her on an island, casting powerful warding spells to insure that 
+the spirit there remain trapped, and that no one could ever appraoch the island.  
+
+Cicero and the rest of the council thought that Palanstenus was destroyed, but rumors persisted that
+he was still alive, until the Fires occurred.
+
+One of Ralmanor's kin discovered the island, and being a competent mage himself, understood 
+the nature of what was there.  In the time since then, Arwein (the Sea Queen) has managed to weaken 
+some of the wards, she cannot leave, but can influence the immediate area around the island.
+
+In Dragamir, mages are called (insultingly) maggies, although Gariel sometimes uses it as a friendly
+jest.  Other names used are warricks, elrek spawn.
+
+(Item) protection from -
+Undead
+Demons
+Humanoids
+Reptiles
+Giants
+
+(Item) slayer types -
+Demon
+Undead
+Lizard
+Giant
+Mage
+Priest
+Bug
+
+Monster types -
+Human
+Reptile
+Beast
+Important
+Mage
+Priest
+Humanoid
+Demon
+Undead
+Giant (trolls,
+Slime
+Stone
+Bug
+Dragon
+Magical Creature
+
+
+Monsters -
+
+Greebil (goblins)*
+Hobgoblin
+Kroder 
+Elrek (orcs)
+Moruul
+Ardent
+Dreck
+Centaur
+Minotaur
+Stalker
+Dark Stalker
+Creepling
+Whisperer
+Morel
+Seared One
+Morgling
+Gug
+Troll - Bonecrusher, Stormhand, Rockfist, Stoneskin (type Giant)
+Mager
+Beholder
+Swamp Thing
+Living Fungus
+Giant Fungus
+Fungus Zombie
+Nydling
+Cadych
+Edered
+Goem
+
+
+Dragamir -
+
+Leather armor*
+Chain vest*
+Chain mail*
+Light chain mail*
+Plated armor*
+Full plated armor
+Full chain mail
+
+Short sword*
+Tempered sword*
+Mighty sword*
+Stinger*
+Crude blade*
+Cutlass*
+Cutless (cursed)*
+Deadly cutlass*
+Massive sword
+Battle sword
+Knight's blade
+
+
+Metal hammer*
+War hammer*
+MC Hammer (cursed)*
+
+Knife*
+Battle knife*
+Anklebiter (cursed)*
+
+Throwing spear*
+Battle spear*
+
+Battle Axe*
+Tempered Axe*
+Throwing Axe*
+
+Crossbow
+Bolts
+Piercing bolts
+Bow
+Arrows
+
+Simple shield*
+Wooden shield*
+Plated shield*
+Battle shield*
+Bladed shield (weapon)*
+
+Cap*
+Chain cap*
+Helm*
+Plated helm*
+Full plated helm
+Battle helm
+Balanced helm
+
+Gloves*
+Chain gloves*
+Plated gloves*
+Warrior's gauntlets*
+Spiked glove (weapon)*
+
+Kyrdeep - 
+
+Banded leather
+Tempered chain
+Forest cloak
+Resin shield - Prot. from Giants (troll)*
+
+Short Axe
+Axe
+Throwing Axe
+Balanced knife
+Throwing knife
+Resin blade - Giant (troll) slayer*
+Cleaver
+
+Hunter's bow
+Battle bow
+Piercing arrows
+Flaming arrows
+Stinging arrows
+
+Flail
+Balanced flail
+
+Boots*
+Hiking boots
+Plated boots*
+
+Potion of disease protection (Special Item) - full, half full, almost empty
+Health potion
+Energy potion
+Bitterleaf elixer (cure poison)
+Snake oil salve (cures disease)
+Favor's brew (bless)
+Gutroot extract (speed)
+
+Neutral salve (cures acid)
+
+Supplies:
+Medicinal herbs*
+Rope*
+Empty bottle*
+Empty bucket*
+Molotov cocktail*
+
+Special Spells -
+
+Dispel Summons - removes all hostile summoned monsters.  Summonable types are limited, should check
+to see which creatures can be summoned (demons, devas, the hard-coded ones).  Spell can have
+different levels.
+
+Walk On Water - Only usable over cave water
+
+Troll's Hide
+
+Arwein's Bane
+
+Thunderstruck
+
+Magic Resistance - limits/cancels effects of Monster Special Spells
+
+
+
+Valeg's Revolution
+
+in 740, a charismatic local leader named Valeg united a large group of Dragamir colonies, in an 
+attempt to separate from Dragamir because of what they felt were unjust trade policies an high 
+taxation, oppression against their own freedoms, etc.  Dragamir sent a large force to brutally
+put down the revolt, for reasons that are unclear.  Valeg and some of his supporters were found 
+there, but he escaped into Kyrdeep, but was wounded and eventually turned himself in to Kyrdeep 
+officials and requested asylum.  
+
+The battle was quickly over, but Dragamir soldiers also attacked some Kyrdeep colonies, because 
+Dragamir claimed) they were helping and fighting with the rebels.  The battle was short, and only 
+a few Kyrdeep citizens were killed, but in retaliation a day later a Kyrdeep patrol ambushed and 
+captured an entire Dragamir patrol near the border, they claimed they had entered Kyrdeep with bad intentions.
+
+Dragamir did not fight back, but they did threaten to pull back on the Frontier defenses, as they
+shoulder the main burden of that activity.  Kyrdeep reluctantly released the soldiers, and turned
+Valeg over to Dragamir.  After a short trial, he was executed for treason.  To this day relations
+between Kyrdeep and Dragamir are still frosty, with little (legitemate) trade between the states,
+The Dragamir colonies are still often at odds with the capital, although the large military force 
+stationed there has prevented any further troubles.
+
+Other Stuff -
+
+Party level - similar to FS Reputation Flag, but use SDF to track experience.  Increase when monsters
+die, good things done, missions completed.  Decrease if friendlies killed, houses broken into, towns
+can be made hostile if low enough.  If below a certain point, will slowly increase to a certain level.
+
+Could also use SDF to track Special Spell spell points
+
+Special Skills -
+
+Climbing (2) -> Scaling (2) -> Mountaineer (4)
+
+Stealth (1) -> Shadow walker (3) -> Invisible (5)
+Troll Slayer (2) -> Champion (4) -> Hero (5)
+
+Bishop (3) -> Paladin (4) -> Avatar (5)
+
+Adept (3) -> Magician (4) -> Sorcerer (5)
+Soul Drain (4) -> Soul Capture (5) -> Necromancy (7)
+
+
+Three level maze in 1 town, uses Transform Terrain, walls and floors cycle
+2 terrain groups required, F > W > W and F > F > W
+
+Art Gallery - party can collect paintings and statues, some only available at higher levels
+
+NPCs can gain levels too.
+
+Rename .sav file in order to carry party, items, SDFs Special Items to next game?  Our name the next 
+scenario also eternity.exs?  Probably have to rename .exs or edit .sav file
+
+One task Elmindor(?) asks of you is to help make a Transference Stone.  Doesn't actually have to be a
+stone, any small item can be enchanted, the mage puts a bit of his essence in the object, then is
+able to communicate through the object, no matter how far it goes from him/her.  Can be used to 
+communicate, cast spells though, spy, almost anything, depending on how powerful the enchantment is.
+
+The tablet the party picks up is a Transference Stone, of Palanstenus, but he put his _entire_ self
+inside, in order to hide from the Council.  Palanstenus also figured out that the magic of the
+Transference flowed in both directions, so that with such a stone, a more powerful wizard could 
+find the source and reverse the flow of magic, in effect being able to control or influence the 
+creator wherever they might be.  He tried to collect as many of the stones of his fellow council 
+members, killing the rightful owners when necessary, to control them all.
+
+Palanstenus was waiting until a powerful-enough mage to look at his stone, he would then be free 
+and trap the essence of the other mage inside the stone.
+
+Sometime, Elmindor (or maybe his apprentice) looks into stone, gets trapped by P, but then soon
+after gets killed, leaving P then dead, but Elmindor trapped in stone

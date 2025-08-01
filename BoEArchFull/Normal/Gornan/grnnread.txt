@@ -1,0 +1,136 @@
+Gornan: The House of the Dragon
+          A Simple vacation
+By Frahhamn(2001)
+
+HISTORY:
+v. 1.0.1  Rough outline of scenario/towns/missions &
+          Annifer graphic drawn.
+
+v. 1.0.2  Some major bugs fixed, including a bug
+          that wouldn't let you beat the scenario.
+
+v. 1.0.3  Many small bugs fixed & custom graphics
+          added for Draug & Magical Field.
+
+v. 1.0.4  Computer Crash - remade several towns & added
+          new dialog.
+
+Difficulty:
+High - This is because of bigger monsters, and
+       so you can use a party from, say, A Mild
+       Rebellion.
+
+Rating:
+PG - One or two objectionable words(for some people,
+     that is.)
+
+
+This scenario isn't very big, but I really like the story-line. It ended just
+the way I wanted it to.
+
+
+CREDITS:
+Gornan was created by Frahhamn.
+All custom graphics were drawn by Frahhamn(or warped) on
+   Mircosoft Paintbrush(Huzzah! :P)
+
+
+Thanks to:
+Jjudvven - Debugging
+Ariven - Debuggin
+Jeff Vogel for BoE
+
+HINTS & FAQ:
+If you want hints or answers, scroll down some ways.
+But if you're a real man or woman, you stop here.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Q: I can't get out of the caves. The guards keep locking
+    me in.
+A: Finish exploring the catacombs and speak to Annifer.
+    Accept what mission he gives you.
+
+Q: I can't find the fire of draug.
+A: It is north, in a passage. Head through the lava, then
+    go west.
+
+Q: I can't find all three pieces of Ogain's Staff.
+A: The first is in the catacombs, the second is in
+    Tipcon Forest, and the last is in the Dark Woods.
+
+
+
+HINTS:
+
+--- It's not a good idea to try to attack at the feast.
+--- Don't try to kill Annifer. His breath is worse than his bite.
+--- There is a small marketplace in Dragonshire(north)
+    that can be very useful.
+

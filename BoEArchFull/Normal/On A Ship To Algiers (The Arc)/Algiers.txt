@@ -1,0 +1,114 @@
+
+On A Ship To Algiers 
+
+
+A few quick things -
+
+First - the scenario is designed for a beginner
+level party, and I recommend against using the
+traditional, cookie-cutter approach many players
+(including myself) often use.  The scenario is
+designed to force the player to play a party
+distinct from the traditional approaches.
+
+Second - the "R" rating.  If there had been a PG-13
+option within the game, I gladly would have taken it.
+As it was, given some of the themes in the scenario,
+I decided to be better safe than sorry, hence the "R"
+rating.
+
+Third - there is no walkthrough, but I did include 
+some hints below.  Don't look if you want to avoid spoilers.
+Also, I'd be more than happy to answer any questions, comments,
+complaints, or anything else you might have.
+My email adress until 5/99 is : klinkham@pilot.msu.edu
+After that, try : klinkham@juno.com
+
+Finally - thanks for downloading, and enjoy!
+
+I want to acknowledge and thank my beta testers Serene and Peter 
+Hawkinson whose input significantly improved the overall quality 
+of this scenario.  
+
+Ian Klinkhamer
+
+
+
+FAQ's -
+
+These cover the most common questions asked of me,
+but is in no way an exhaustive list.  Feel free to
+email me with any other questions, or with these
+if the explanations aren't clear.
+
+Q - Who is this Vayla person anyway?  And when do I get to 
+meet her?
+
+A - Vayla is one of the Gods of this world.  She makes no
+appearance other than through her disciple, Xenophon.
+
+
+Q - How and when do I get my skills back?
+
+A - You don't, at least not without using the player
+character editor.  Throughout the scenario, various
+people will train you in various ways, giving you
+some skills.  However, you never regain the skills
+you initially lose.
+
+
+Q - I keep getting stuck in this Foreboding Tower!  How
+do I get the Staff of Orianna back?
+
+A - To bypass the section with all the teleporters, read
+the sign.  Each word contains only one cardinal direction
+letter (N,S,E,W), follow them in order, starting from
+the square directly west of the sign.
+Once you get to the Faeries, don't listen to Willy!  He's
+trying to trick you!  Instead, ask Nicky about the Staff,
+she'll tell you where to really find it.
+
+
+Q - I'm stuck!  Both towns have been destroyed, and the
+entire island is dead!  What do I do?
+
+A - Make sure you've done the following three things -
+1. Witnessed Meletus Get Killed
+2. Visited the shrine, and examined Elaine's body
+3. Searched the Slime Cave, and found a body that 
+gets up after you look at it.  It's in the north
+central area.
+Once you've done all three things, return to Pireaus,
+and enter the town hall.  Xenophon will be there,
+and he can help you proceed with the quest.
+
+Alternately, once you've beaten the Goblins, you can
+search the area around the Inn in Shenta.  Under a pile
+of rocks, you'll find a set of stairs.  Climb down
+them to proceed, but be warned!  The scenario becomes
+much tougher without Xenophon's help.
+
+
+Q - I've killed Anytus, but the Quickfire gets
+me!  How do I escape the cave?
+
+A - There are two ways.  First, if you've gotten 
+Xenophon's help, he'll be in the room just north
+of where Anytus was, but only for a short while.
+Go into that room, talk to him, and he'll create
+a portal for you to escape the island.
+
+OR
+
+There's a secret passage in the southeast 
+corner of the cave.  It's blocked by a couple
+of magic barriers, so you'll need to get
+the piercing crystals in the room north
+of where Anytus was.  
+
+
+Q - Okay, I've escaped the cave, Anytus is
+dead, but now what?
+
+A - Go to the Western Shore.  There's a boat
+there, that'll take you off the island. 

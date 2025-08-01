@@ -1,0 +1,52 @@
+*****************************
+
+Malkriss (1.03)
+
+A Scenario by Aleksi Läntinen (The Great Mister)
+
+*****************************
+
+Thank you for downloading this scenario! Malkriss is my second scenario (first to go public). It's a remake of Order Mage's scenario, Nephil's Cave.
+
+In this scenario, you play a young man called Damor. His hometown, Malkriss, located in Malkriss Cave, far south of the Great Cave, has been destroyed in a nephilim raid. You must find out why did they do it, how they did it, and take revenge on their leader, who- or whatever it is.
+
+SCENARIO DIFFICULTY:
+Malkriss should be a pretty difficult scenario, as it's to be played with the prefabricated starter-party, with only one member, Damor himself. This of course depends on your gaming skills, like my beta-testers pointed out. :)
+
+CUSTOM GRAPHICS:
+None. I didn't find an alternative cave set, and that was all I needed.
+
+KNOWN BUGS/MISTAKES:
+None that my beta-testers have informed me. Notice, however, that both the bad grammar and incorrect spelling in some parts of the game are intentional. Yes, I mean the notes and letters you find around.
+
+PASSWORD PROTECTION WTF:
+It's for your own good. Just that you don't have to see my horrible nodework. 
+
+THANKS TO:
+My beta-testers. To be exact, those of my betatesters who actually tested the scenario. :)
+
+Terror's Martyr
+WildKarrdeSmuggler
+Milla
+
+
+
+
+THE CREATION OF DAMOR:
+Just create a singleton-party, with whatever abilities and stuff you want. As long as it's male, human and named Damor,  I'm not complaining. Then enter the PC editor. 
+
+Give Damor 30 HP, 15 SP, an Iron Knife, and a Bronze Buckler.
+Strenght and Dexterity to 5,
+Intelligence to 2 (hey, we're talking about a stupid farmer here!),
+To your weapon-type of choice 4,
+Defense to 4,
+Priest Spells to 1,
+Assassination and Luck to 2,
+and the rest to 0.
+
+(Additional skills can be found in the scenario itself.)
+
+There, you have Damor. TM said it's pretty easy to beat the scenario with him. WKS said it's not. Meh, if you fail to solve the problem and just keep on dying, make him a bit stronger. It's your gaming experience we're talking about, after all! :)
+
+
+    ~ The Great Mister

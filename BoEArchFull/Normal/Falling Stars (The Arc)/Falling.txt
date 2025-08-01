@@ -1,0 +1,105 @@
+
+Thanks for downloading "Falling Stars"!
+
+If you have any comments, concerns, questions, or complaints,
+please feel free to email me at: alcritas@att.net.  Or post
+a message at The Lyceum's message board:
+http://pub26.ezboard.com/bthelyceum
+
+Updates and further information about Falling Stars may be found
+at The Lyceum:
+http://home.att.net/~alcritas/index.html
+
+Included in with this file, you should have found falling.exs (the
+scenario), falling.bmp (graphics file for PCs), falling.gif, and
+UGLI.gif. (Drizzt says that there's an error in the UGLI.gif.  He's probably
+right.  But I'm really just not motivated enough to fix it.  Consider it yet
+another torture device inflicted upon you be the UGLI.)
+If you are on a MAC, you will need to create a MEG file
+to play the scenario.  Inquiries/information can be made/found at
+the above URLs.
+
+This scenario is designed for high to very high level parties.
+If you do not have such a party, take a beginner level party
+into the scenario - there is a training dungeon at the beginning.
+
+This scenario is a continuation of many of my previous works.
+While not necessary to play this scenario, it is strongly suggested
+that you play my prior works, especially "Redemption", "An Apology",
+and "Lamentations" before beginning "Falling Stars".  The party
+you play is presumed to have completed "Lamentations".
+
+PLEASE, PLEASE Ensure that the Graphics are working properly
+before playing far into the scenario.  If you see a portal
+directly to your south upon beginning the scenario, the graphics
+are working.  If not, please contact me before going further.
+
+There are a couple of known BOE bugs which may occur during
+this scenario, to which there are no workarounds.  
+1- Empties, which look like Dwarves, may appear randomly.  No one
+knows for sure why the BOE editor places them in scenarios, but if
+you see one, don't worry too much.
+2- Scry Monster may produce the wrong graphic in the Scry Monster
+table.  This is due to BOE graphical limitations.  All the monster
+information, however, will be accurate.
+
+
+I'd like to thank my beta testers - Andrew Barton, Kattana,
+The Talking Spider, Big Words, Janet Cone, and Bob the Impaler.
+
+I'd also like to thank those graphical artists who contributed
+to this scenario-
+
+Aceron - Dwarf Thief, Dwarf Warrior 3, Dwarf Warrior 2,
+Dwarf Beserker, Dwarf Priest, Dwarf Warrior 4, Orc Warlock
+
+Cthulu - The Dark Angel, Liquid Viper
+
+Ryan Phelps - The Axe of Rage
+
+Luz - Potted Bonzi Tree, Potted Fern, Potted Flower,
+Alternate Carpet
+
+Jayne Holt - Archbishop, Headless Demon, Blue Demon
+
+Steven - The Blood Baron
+
+Zaloopa - Alternate Portal
+
+Tim Farland - Banshee, Araena Lord, Vampress, Giant Land
+Octopus 1, Giant Land Octopus 2, Giant Land Octopus 3
+
+Handea Yoshiyuki - Female Lich
+
+Relhan - Nightmare Demon, Earth Elemental, Water Elemental,
+Sorcerer, Templar, Dwarven Folk, Dwarven King, Dwarven
+Miner, Dwarven Sage, Dwarven Crossbownman, Dwarven Warrior,
+Magus, War Master, Elven Archer, Order Mage, Arch Warlock,
+Axe Master, Dojo Trainer, Flail Master, Future Mage, Orc,
+Orc Champion, Orc Chief, Orc Fighter, Orc Shaman, Orc Grunt,
+Orc Peon, Ettin, Wisp, Great Groundbeast, Dark Hunter, Wraith,
+Death Knight, Grave Keeper, Stairways, Uh Oh, Burning Village,
+Battle Standard, On the March, Banner with Crossed Spears, 
+DoomguardJuggernaut Golem
+
+Brave Sir Robin - Mage
+
+Ireland - Bent Tree
+
+Alan Evans - Inquisitor Talking Picture
+
+Draxis - Mimic, Illithid 1, Illithid 2, 
+
+Elwin Windleaf - Sorcerer
+
+The subtitle is a quote from Jean-Jacques Rosseua
+Parts of Songs from Paul Simon and Tori Amos are
+also quoted in the scenario.
+
+Portions of the programming in this scenario were
+adapted from Stareye's "Spy's Quest", Andres
+Gonzales' "Doom Moon II", and Drizzt's article,
+"How to Defeat Magic Map".
+
+Members of the BOE community mentioned within the scenario should,
+of course, take everything with good humour.

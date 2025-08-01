@@ -1,0 +1,30 @@
+"Nightfall" Readme File
+
+Hi, and thanks for downloading my scenario, "Nightfall," for Spiderweb Software's Blades of Exile.
+
+STORY:  What if you lived on a planet with six suns, of various sizes and orbits, so that there was always some amount of daylight in the sky?  Well, almost always.  On the world of Lagash, there is magic and there are monsters, but civilization is peaceful and sophisticated.  Only a small handful of people have come to realize that every two thousand years an astronomical event occurs that will cast the planet into darkness, and this is imminent.  A hundred successive generations of living in constant daylight has made most people innately fearful of any kind of darkness.  What kind of chaos will result when night finally falls?  You will be there to find out, and it will fall on your shoulders to help bring order out of the chaos.
+
+This scenario concept is adapted from the novel "Nightfall" by Isaac Asimov and Robert Silverberg.  It's a great book, and I highly recommend it.  The scenario is of "low" (but not necessarily easy) difficulty and can be completed by starting out with a newly created party of first level characters.
+
+In addition to this readme file, there should be a custom graphics file accompanying the scenario file.  The scenario file is titled "nitefall.exs."  I have written a hints file, as there are a good number of tricks and puzzles to solve in various places in the scenario.  This file is also included, called "nitehint.rtf".  It's in rich text format, so use a word processor that can read rich text files to open it.
+
+I must offer my undying thanks to Alan Evans and Tarl Roger Kudrick, both of whom beta tested this scenario mercilessly.  I couldn't have gotten it into shape without their help and insight.  If you want to try another scenario, I strongly recommend Tarl's "Islands of the Wheel."
+
+If you have any questions, comments, doubts, or difficulties, send e-mail to:  Scotto@brandx.net.
+
+Scott R. Evans
+
+P.S. Since the scenario's initial release, some players have told me that the custom graphics file doesn't work properly.  This has happened before with some other scenarios, and I believe it has to do with the unzipping process.  If you run into the first hobgoblin and find that he's invisible, you've got a screwed up file.  E-mail me, and I'll send you one that works.
+
+VERSION HISTORY	
+
+1.0.0
+Initial release.  Thorough playtesting and beta testing have removed all possible problems.  (Yeah, right.)
+1.1.0
+Fixed a number of minor bugs.  Superseded by 1.1.1 before being available for download.
+1.1.1
+Fixed a bug in which players could become trapped in a narrow valley after emerging from a dungeon.  Version released.
+1.2.0
+Fixed bugs at entrances & exits of Man-made Tunnels,  hostile/friendly monster problems in one place, & chance of being trapped in one other location.
+1.2.1
+Fixed a bug preventing you from entering the Nephilim Valley more than once.

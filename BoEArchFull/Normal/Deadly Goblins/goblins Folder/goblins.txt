@@ -1,0 +1,46 @@
+*****************************
+
+Deadly Goblins
+
+A Scenario by Stephen Ashby
+
+*****************************
+
+Thank you for downloading this scenario! Deadly Goblins is my second scenario (or third, if you count Ugantan Nightmare). It was made as a break from the story I began in my debut effort, The Isle of Boredom. Don't worry, I'll finish it.
+
+In this scenario, you play a band of eager youths trying out the glamorous life of adventuring. Having been told of a goblin problem in nearby Reconah Valley, you signed up to go and take care of it. After all, what better way could there be to begin an adventuring career?
+
+SCENARIO DIFFICULTY:
+Deadly Goblins is a very difficult scenario. Though it is intended for first level parties, it is also intended to be very hard for first level parties. The plot assumes that you have multiple members in your party, but you can use a singleton without (many) problems. It should be challenging for any kind of party structure, though some will find it more so than others. Some will probably even find it completely impossible. If you decide to use 6PCs, you may not be able to win without losing a couple on the way. With most fights, there is a (relatively) easy way to beat it if you have the brains to figure it out. Some fights can be avoided altogether.
+
+CUSTOM GRAPHICS:
+Deadly Goblins uses many custom graphics, and they are essential to the scenario. PC users will need a .bmp file and Mac users will need a .meg file. Both are included in the download. If the third dialog box in the intro town does not contain a picture of a dead goblin, they aren't working properly. Thanks to all the artists whose work I used. A list of them and which graphics they did can be found below. All others not mentioned are either originals or edits by myself.
+
+KNOWN BUGS:
+There is one painful little glitch in the starting town, where you'll see grass in places grass shouldn't be. I have tried and tried but can't fix this. I guess it's just one of BoE's little oddities. In the end I gave up since it's only an aesthetic thing and doesn't affect the gameplay.
+
+In the contest release, at one point there was a door that did not always become unlocked when it was meant to. I think I may have fixed this, but the bug only crops up sometimes and I don't know what causes it. If you find that a door is not unlocked for you after being told that it is, give yourself the following items with the Character Editor: Medium Healing Potion, Medium Strength Potion, Steel Axe, Steel Helm, Steel Studded Armor.
+
+Empties appear unpredictably throughout the scenario. In most towns I have placed "sweepers" that ought to deal with them. Unfortunately, I didn't always have enough nodes, so you may encounter these painful little things. They don't affect the gameplay, but they are annoying.
+
+THANKS TO:
+My beta testers: Khoth, iambobsushi and especially Drizzt.
+
+The artists whose artwork I used:
+Paul Henderson for the Goblin Archer.
+Relhan for the Goblin Warrior and Flame Fiend.
+HYZ for the Goblin Mage/Priest.
+Shisha for the Goblin Wizard.
+
+Alcritas, for organising the 1-10 contest, which this scenario was designed for.
+
+Chris Pelling, for (accidentally) inspiring the book thing.
+
+CONTACT INFO:
+If you think this scenario was awesome, think it could have been better, think it was pretty mediocre or even downright awful, why not email me at barcoorah@mail.com and say so? Alternatively, you can contact me by posting on one of the Blades of Exile message boards. I go by the screen name of "The Creator".
+
+HISTORY:
+
+Version 1.0.0. Beta version/1-10 contest release. Takes 1st place. Yeah.
+
+Version 1.1.0. Public release. A number of minor bugs fixed. More books added. Made the Goblin Corpse graphic less confusing. Armor is now available. Other minor changes.

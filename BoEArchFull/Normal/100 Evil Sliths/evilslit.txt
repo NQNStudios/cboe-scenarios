@@ -1,0 +1,102 @@
+100 EVIL SLITHS by Bain-Ihrno
+Readme file
+
+E-mail: bihrno@yahoo.com
+AIM: BainIhrno
+
+Blades-related forums: Shadow Vale Spiderweb, Calamity
+Refuge.
+
+Difficulty: Hi Level Parties
+Rating: PG (rough language)
+Player Skill: Not much, but if you're a newbie,
+some jokes may not make sense.
+
+Also please note: At one point, you will be stripped
+of all mage skill, and will only be able to get some
+of the skills back. Don't enter with more than two PC's
+with mage skills.
+
+The Story: Sliths are attacking Parmalee. Stop them.
+
+Yes, that's a terrible plot. So why write it?
+
+Well, this scenario is sort of a parody of bad scenario
+design. It has pretty much all the problems with bad 
+scenarios, except that it's playable.
+
+Files to place in BLADSCEN folder:
+evilslit.exs
+evilslit.bmp (convert to .meg if on mac)
+
+Yes, you get to use your OWN party, not some stupid
+pre-fab party! Lucky you!
+
+-----------
+Q+A
+
+Q: Are you depressed?
+A: No.
+
+Q: Then why did you make this scenario?
+A: The idea came from the spree of small, simple
+scenarios in BoA that have been going on as per TM's
+suggestion. I thought of doing one for BoE when I was
+getting bored with another scenario I was working on.
+So I did, and I decided to have a little extra fun with
+it.
+
+Q: Is the Goblin Wizard in this scenario really the
+one from Deadly Goblins?
+A: Yes
+
+Q: Did you get permission?
+A: No
+
+Q: Isn't that illegal?
+A: No, it's just one character and I used my own approach,
+it's not like I copied town layouts or anything.
+
+Q: How is there a sidequest in a dungeon that has a sign
+saying it's there for no reason other than the author
+was bored?
+A: I didn't plan for a quest to be there originally.
+I threw it in at the last minute.
+
+Q: How do I enter the Crypt of Doom?
+A: You don't.
+
+Q: What IS Bug Spray?
+A: Let's think about this. What is one reason why we
+ALWAYS test our scenarios?
+
+Q: How do I get my Mage Spell Levels back?
+A: There are some Mist Globes. They will help.
+
+Q: I didn't get all of them back! Why not?
+A: Your experiences in the Holy Realm just took
+some of your magery away permanently and you'll have
+to get them back on your own.
+
+Q: This is unfair!
+A: First, that's not a question. It's whining. Second, 
+it's not much of a problem if you have only one or 
+two mages in the party. Maybe you should quit relying 
+on magery so much.
+
+Q: I don't have any mages in the party.  Isn't this 
+cheating to get mage levels?
+A: No, if you defeated the whole scenario without mages,
+consider it an extra reward.
+
+Q: Anything else I should know?
+A: Yeah, I had plans to include some cruder humor. I
+never did actually write it in, though. If you want to
+know more, contact me directly. Also, avoid charming Sliths
+in the battle outside of the Slith Castle and the very
+last battle (not with Sss-Thuss).
+
+
+------------------
+
+Well uh... enjoy.  

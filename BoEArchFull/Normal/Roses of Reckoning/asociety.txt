@@ -1,0 +1,25 @@
+Roses of Reckoning by Terror's Martyr
+<terrorsmartyr@wi.rr.com>
+AIM: TerrorsMartyr
+
+Thank you for playing!  A few notes about this scenario:
+* This scenario was made in 2 days, a feat I am somewhat proud of, despite the scenario's mediocrity and simplicity.
+* This scenario is short.  Do not expect to spend a large ammount of time on it.
+* This scenario is for a level 1-5 party, varying based on your ability with Blades of Exile.
+
+This scenario has no walkthough or hints because of its brevity.  Most things one needs to do are explained in simplistic language.  If you are truly stuck, feel free to contact me, and I will be responsive.
+
+IMPORTANT- What is the true moral of this scenario?  Love is all-important?  No.  Society is corrupt?  No.  The true moral of this scenario as I intend it to be is that all people can make a short, simple scenario.  It's not very difficult to put out a small work of little effort and have it be decent.  Admittedly, I have years of scenario design behind my back, but most people who aren't good at designing shouldn't have any trouble figuring out what I'm doing in this scenario.  If you can't, then let me know, and I'll be happy to explain things.
+
+Files included-
+asociety.exs: The scenario file.
+asociety.meg.sit: The Mac graphics file, stuffed.
+asociety.gif: The PC graphics file in case the .bmp file doesn't work.  Convert to .bmp format using any basic painting application (even MSPaint).
+asociety.bmp: The PC graphics file.
+asociety.txt: The file you're reading right now!
+
+Thanks to Luz Piazuelo (especially Luz), Tim Farland, Relhan and DRK DRAXIS for the graphics I used in this scenario.
+
+Again, thank you for playing through (and dare I say enjoying?) my folly!
+
+-Terror's Martyr

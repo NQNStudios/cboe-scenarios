@@ -1,0 +1,103 @@
+Creating a Scenario Clock and Towns That Alternate Between Day and Night
+
+A BoE Programming Sequence by Chris Risberg
+
+PURPOSE
+
+The purpose of this sequence is to create a reliable scenario clock that the designer can use to 
+track time in his or her scenario, and show day and night passing by having the party enter 
+different versions of towns, using Variable Town Entry.  This was first extensively used in my 
+scenario Shadow Of The Stranger, and inspired by the scenario Election, by Nick Jones, where a 
+simpler (but still effective) version of day/night was used.
+
+NOTES
+
+In this implementation, "time" only passes outdoors.  This is done to avoid the intricacies of a
+day/night transition inside a town, which is rather difficult to do with the current Blades 
+engine.  I chose to enter this version into the contest because of its simplicity and the fact 
+that it can be used or customized relatively easily by most developers.
+
+This code borrows the use of SDF (291,0) which was first used in Stareye's Spy's Quest, and is a part
+of Skyle's Alternative Bladbase v1.3.  This flag is used to create pseudo-random outdoor and cave 
+sounds, which I further enhanced to create different surface sounds, based on the time of day.
+This is well documented in Skyle's Bladbase release, and is not repeated here.
+
+GLOBAL SPECIALS AND TIMERS
+
+BoE documentation states that a day in engine time is approximately 3700 moves.  Therefore, the 
+clock timer should be called every 370 moves, effectively splitting the day into 10 pieces.
+This was done in an attempt to keep day and night synchronized with the BoE engine Day counter,
+but it has been reported this is not always the case.  The designer should NOT assume that the
+IF DAY REACHED? Special Node will always be consistent with this counter.
+
+SDF (200,0) is used as increment clock, and time of day or night check.
+
+SDF (200,1) is used as day/night flag, and for Variable Town Entry, 
+(200,1) = 0, day.
+(200,1) = 1, night.
+
+SDF (291,0) is set based on the type of outdoors,
+(291,0) = 1, surface - time messages.
+(291,0) = 2, caves - no time messages.
+(291,0) >= 2, elsewhere - no time messages.
+
+Day time is defined as (200,0) = 0 to 5, night time is 6 to 9.  When (200,0) is incremented to 10,
+it is immediately reset to 0.  This is of course adjustable.
+
+Set Scenario Event Timer, 370 moves, call Global Special 0
+
+0 Town Block (Can Enter), if not blocked GOTO 2   // Time does NOT pass in towns.
+
+2 Increment (200,0) by 1 GOTO 3
+3 IF (200,0) >= 7 THEN GOTO 5; if < 6 THEN STOP, ELSE GOTO 4
+4 FLIP (200,1) GOTO 7
+5 IF (200,0) >= 10 THEN GOTO 6; IF < 10 THEN STOP
+6 SET (200,0) = 0 GOTO 4
+7 IF (200,2) >= 1 THEN STOP; IF < 1 THEN GOTO 8   // Transition messages can be turned off by setting (200,2) = 1
+8 IF (291,0) >= 2 THEN STOP; IF < 1 THEN STOP, ELSE GOTO 9
+9 IF (200,1) >= 1 THEN GOTO 10; IF < 1 THEN GOTO 11
+10 DISPLAY SM MSG "The sun sets.  It's now dark outside."
+11 DISPLAY SM MSG "The sun rises.  Another day is here."
+
+TOWNS
+
+Any town that has day and night versions should use (200,1) as its Variable Town Entry Flag.
+Plan carefully, as there are only ten slots available for this!
+
+The night version of the town must immediately proceed the day version.  If town 11 is Warrior's
+Grove during the day, then town 12 must be Warrior's Grove at night.  In the example that comes
+with this entry, Bobling (day) is town 1, and Bobling (night) is town 2.
+
+SPECIAL ITEMS
+
+You can also make a Special Item that allows the player to check the time, if the party is in a 
+location that would allow them to do so.
+
+Name Of Special Item = "What Time Is It?"
+Special Item Description = "When you use this special item, you will be told what time of day or night it is."
+When Used, call Global Special 16
+
+16 IF (291,0) >= 3 THEN GOTO 65; IF < 2 THEN GOTO 18, ELSE GOTO 17
+17 DISPLAY SM MSG "You have no way to know what time it is here."
+18 IF (200,0) >= 4 THEN GOTO 21; IF < 2 THEN GOTO 19, ELSE GOTO 20
+19 DISPLAY SM MSG "It's early in the morning."
+20 DISPLAY SM MSG "The sun is high in the sky."
+21 IF (200,0) >= 8 THEN GOTO 23; IF < 6 THEN GOTO 22, ELSE GOTO 24
+22 DISPLAY SM MSG "It's late in the day."
+23 DISPLAY SM MSG "It's the middle of the night."
+24 DISPLAY SM MSG "It's early in the evening."
+
+65 // Any further time messages, perhaps specific to location, can be determined and displayed here.
+
+EXAMPLE
+
+See towns 1 and 2 in the .exs file.  You enter town one during the day, and if you leave and wait
+long enough, night will come.  Then re-enter the town, and the party will enter a different town,
+requiring Light spells or torches, with new personalities, sleeping people, locked doors, or 
+however the designer wishes to change the town.
+
+As a tip for designers, I have found that, to minimize repeated town design, it is best to 
+finish the town drawing first, and any Special Node sequences that are required both during the
+day and night.  Then copy the town, so that the day and night versions look identical.  At this
+point it is easy to make customizations to the day or night without affecting the other, and 
+you won't have to draw the same building twice!

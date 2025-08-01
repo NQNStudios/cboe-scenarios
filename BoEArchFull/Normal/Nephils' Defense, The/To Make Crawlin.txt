@@ -1,0 +1,49 @@
+These are instructions to make Crawlin for "The Nephils'
+Defense" if you are on a MAC and are creating the MAC
+.sav, or if yours doesn't work. If a training item
+does not appear on the list, leave it at 0. You may need
+to use the Character Editor
+
+CHARACTER NAME: Crawlin
+
+GRAPHIC: Nephil archer graphic
+
+RACE: Nephilim
+
+ADVANTAGES: Nimble Fingers, Good Constitution
+
+HEALTH: 100
+
+STRENGTH: 10
+
+DEXTERITY: 19
+
+EDGED WEAPONS: 5
+
+THROWN MISSILES: 5
+
+ARCHERY: 20
+
+DEFENSE: 3
+
+POISON USE: 3
+
+LUCK: 2
+
+GOLD: 2000 (that may seem like a lot, but...)
+
+FOOD: 200
+
+EXP: 2010
+
+ITEMS: Pants (I used the blue pants, but I'm not complaining if
+you use brown), Iron Broadsword, Fine Crossbow, Lamp, 
+Leather helm.
+
+- - - - - - - - - - - - - - - - - - 
+
+Enjoy the game, 
+
+Bain-Ihrno
+
+

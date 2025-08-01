@@ -1,0 +1,237 @@
+An alternate Bladbase.exs (rename Bladba13.exs to Bladbase.exs)
+Update v 1.3
+
+The files included are:
+Bladba13.exs     scenario file
+Bladba13.txt     readme file (this file)
+Bladba13_nodes   list of the scenario nodes used for Special AP spells and sounds
+
+Major changes to the bladbase.exs scenario source file (from Spiderweb's Bladbase v 1.01):
+
+Items
+  - Made weights (number of stones) more similar.  Players could tell by the item's weight whether boots, shields, crystals, rocks, necklaces, and some other items were valuable or magical
+  - Clothing (Armor 0 gloves, shirts, pants, armor 0 boots, armor 1 Steel-toed boots), light sources, and books grouped together for a general store shop.
+  - 3 Rocks (3, 4, 5 stone weights)
+  - Garbage should disease party (like the Uranium bar)
+  - All gloves (normal and magical) weigh 8
+  - No darts
+  - Vahnatai weapons grouped, added Magic Razordisks
+  - Added Mithral plate and mithral chain resist fire armor
+  - Grouped magic and mithral armor
+  - Studded leather 2+1 with 0 encumbrance (i.e. between 2+0 and 0 Leather and 3+1 and 1 Bronze Studded), mainly for spell casters
+  - Lowered bucklers by 1 armor (removed crude bucklers)
+  - All shields weigh 30, all large shields 50 (normal and magical), removed crude shields
+  - Lowered shields by 2 armor (1 encumbrance for shields, 2 for large)
+    Bucklers and shields were giving too much protection, there are side and rear attacks and a shield can only be in so many places at once
+  - Lowered all boots, gloves and gauntlets, and helms by 1 armor (no leather helm)
+  - No Runed helm (couldn't logically put a good Armor value on it after lowering the encumbrances on the others)
+  - Grouped magic bow, crossbow, arrows, bolts
+  - Grouped the 3 lockpicks, poisons, and gems with sapphire last
+  - Made all magical shields with abilities Large shields and 50 stones (i.e., they were 30 stones and Large shield icon = magical, now they are harder to tell from other Large shields), most kept their 2 encumbrance (per Large shield)
+  - Removed Knowledge Brew - there are enough Add Skill point items
+  - Removed duplicate Brew of Lethe
+  - Changed Powder of Lethe to Brew of Nisus (drains spell points) - suggested by Tony Wilsdon
+  - Cursed armor (studded, chain mail, plate mail)
+  - Lowered AC value on Shield Mace (11 was way too high, now 4 + 3)
+  - Flaming Sword is 9+5 and unidentified as Broadsword
+  - Raised value of Power Geode and Firestone, way undervalued
+  - No Scroll: Shockwave, Scroll of Disease that diseases the party (similar to some found in Exile II - secret lab in the old Vahnatai house)
+  - All potions have the same icon (except always IDed Ressurection Balm and Graymold Salve).  Only two were changed - 212 and 213
+  - Empty slots: 4, 113, 119, 150, 164, 210-216, 221, 244, 273, 282, 362, 388-395, 399.  Of course, items can be changed depending on the scenario's needs.
+  - Used a hex editor to restore Rods of Lightning to ability of 20, spelled out Large and most Potions
+  - Be sure to check Item special abilities.  The BOE Scenario Editor has a nasty habit of removing those abilities (or setting them to 0) if Cancel is pressed in the Ability screen.  Of course, this may be a feature of the Win 3.1/95 version of the Scenario Editor.
+  - Note, the bonus slot applies to only armor and weapons.  To be safe, any magical shields with a bonus value had that value moved to the protection slot.
+  - Made the Lifeshield (241) and Lifesaver Amulet (327) acidic weapons of ability strength 10 in order to use the lifesaving feature
+
+
+Monsters
+  -Guards were changed so their abilities were less than Dervishes
+  -All slimes (except Cave Slime) are non-summonable
+  -Order Mage and all Vahnatai are Monster Type Important so they could not be Soul Captured (may also mean Order Mages are not affected by Mage Slayer weapons)
+  -Blood Beast is level 24 monster (as suggested by Tarl Kudrick's MonsterData file)
+  -Have a chance of dropping items proper to them (20% to 30% to factor in items not broken or otherwise made unusable during combat).  Note: the BOE engine only allows so many items in a town/dungeon at once - past this limit and items get destroyed (this includes items in containers).  Meaning, you don't want an Archer dropping arrows causing the BOE engine to remove a more valuable item from that town/dungeon.
+   Monsters include the Soldiers to Dervishes, Archers and Expert Archers, Priests and Mages, Monks, Nephil Archers, Sliths, and Vahnatai.  The Giant Lizard, Cave Cow, Cow, Worg, Bear, and Ursagi have a chance of dropping Q-steak (i.e., you can get food for eating them).
+
+
+Terrain
+  -Allowed Campfires (3d6 fire) and Firepits (4d6 fire) to be walked through
+  -Piles of filth are containers
+  -Potted plants are containers
+  -Basalt wall (when stepped on) changes to an outlined door (similar to stone and adobe secret doors)
+  -No Good or Evil altars, just altars (except for Black altar - with a skull design)
+
+
+Note: Warrior's Grove has been altered to reflect the changed item groupings (no guarantee though).  Most scenarios rarely use it anyway.
+
+
+ITEM TYPE FLAGS (to combine items into one inventory slot)
+
+Official bladbase v 1.01      Alternative Bladbase (Item number)
+
+ 1  Darts                     Not used (no darts)
+ 2  Iron darts                Not used (no darts)
+ 3  Magic darts               Not used (no darts)
+ 4  Throwing knives           Throwing knives (101)
+ 5  Iron throwing knives      Iron throwing knives (102)
+ 6  Arrows                    Arrows (103)
+ 7  Iron arrows               Iron Arrows (104)
+ 8  Magic arrows              Magic Arrows (117)
+ 9  Iron razordisks           Iron razordisks (95)
+10  Steel razordisks          Steel razordisks (96)
+11  Javelins                  Javelins (99)
+12  Iron javelins             Iron javelins (100)
+13  Torches                   Torches (18)
+14  Lockpicks                 Lockpicks (169)
+15  Rock                      Rock (27, 3 stones)
+16  Bolts                     Bolts (105)
+17  Iron bolts                Iron bolts (106)
+18  Magic bolts               Magic bolts (118)
+19  Sapphire                  Sapphire (179)
+20  Empty                     Empty
+21  Holly                     Holly (363)
+22  Comfrey root              Comfrey root (364)
+23  Glowing nettle            Glowing nettle (365)
+24  Wormgrass                 Wormgrass (366)
+25  Graymold                  Graymold (368)
+26  Ember flowers             Ember flowers (369)
+27  Mandrake root             Mandrake root (370)
+28  Smoky crystal             Smoky crystal (178)
+29  Fine lockpicks            Fine lockpicks (170)
+30  Magic lockpicks           Magic lockpicks (171)
+31  Weak poison               Weak poison (172)
+32  Medium poison             Medium poison (173)
+33  Strong poison             Strong poison (174)
+34  Killer poison             Killer poison (175)
+35  Lightning rods            Lightning rods (274)
+36  Cleansing powder          Cleansing powder (191)
+37  Empty                     Empty
+38  Candle                    Candle (17)
+39  Diamond                   Diamond (178)
+40  Emerald                   Emerald (177)
+41  Basic powder              Basic powder (350)
+42  Powder of Lethe           Not used (no Powder of Lethe)
+43  Empty                     Empty
+44  Empty                     Empty
+45  Empty                     Empty
+46  Silver ore                Silver ore (380)
+47  Gold ore                  Gold ore (381)
+48  Empty                     Empty
+49  Empty                     Empty
+50  Asptongue mold            Asptongue mold (367)
+
+51 to 56                      Not used
+57                            Magic razordisks (98)
+58                            Rock (28, 4 stones)
+59                            Rock (29, 5 stones)
+60 to 65                      Not used
+66                            Ruby (176)
+67 to 71                      Not used
+72                            Piercing crystal (182)
+73 to 78                      Not used
+79                            Dust of Hiding (189)
+80                            Dust of Choking (190)
+82 to 91                      Not used (could be for scrolls)
+92                            Crystal (222)
+93 to 123                     Not used (could be for S/M/W potions)
+124 to 125                    Not used
+126                           Arrows of Light (276)
+127                           Arrows of Life (277)
+128                           Burning arrows (278)
+129                           Exploding arrows (279)
+130 to 133                    Not used
+134                           Bolts of Light (384)
+135                           Bolts of Life (385)
+136                           Burning bolts (386)
+137                           Exploding bolts (387)
+138 to ~200                   Not used (200 is the approximate limit)
+
+
+SPECIAL CLASS FLAGS
+
+1 to 19 Unused
+20 Book
+21 Book
+22 Book
+23 Bones
+24 Skull
+25 Garbage
+26 Garbage
+27 Rock
+28 Rock
+29 Rock
+30 to 54 Unused
+55 Dust of Choking
+56 Scroll of Disease
+57 Cursed helm
+58 Glue Gauntlets
+59 Dancing Boots
+60 Cursed Boots
+61 Cursed Large shield
+62 Poison Potion
+63 Potion of Doom
+64 Brew of Lethe
+65 Bow of Kag
+66 Wand of Carrunos
+67 Wand of Vorb
+68 Gold Ring of Weight
+69 Silver Ring of Weight
+70 Bronze Ring of Weight
+71 Feldspar Charm
+72 Uranium bar
+73 Lodestone
+74 Brew of Nisus
+75 Potion of Paralysis
+76
+77
+78 Cursed Bardiche
+79 Cursed Axe
+80 Cursed Broadsword
+81 Cursed Greatsword
+82 Cursed Knife
+83 Cursed Shield
+84 Cursed Mace
+85 Cursed Ring
+86 Cursed Halberd
+87 Cursed Studded
+88 Cursed Chain Mail
+89 Cursed Plate Mail
+90 to 99 Unused
+
+You can use these items for specials that check Have Item with Class? (and take).  For example, there may be a healer that wants bones and skulls, an eccentric mage that wants cursed items, fishermen for rings of weight or lodestone, etc.  A fancy night club wants Equipped Item with Class? (or a bar that accepts patrons with cursed items equipped).
+
+Items with Special Class Flags will be removed from the party when they enter the next scenario.
+
+
+Credits:
+
+Monsters dropping items was suggested by Stareye and is a carry over from Exile III's Golems dropping Golem Gems and Black Unicorns dropping Horns.
+Special AP Spells were created by Stareye and used extensively in his scenario Spy's Quest.  See Bladba13_nodes.txt
+
+
+Change 1.1
+  -Order Mage and all Vahnatai are Monster Type Important so they could not be Soul Captured (may also mean Order Mages are not affected by Mage Slayer weapons)
+  -Allowed Campfires (3d6 fire) and Firepits (4d6 fire) to be walked through
+
+Change 1.11
+  -Item type flag values can be up to about 250 (values seem to change higher than 300).  Have set item type flag values closer to their item number (ie skipped weapons, armor, and non-combinable items)
+  -Removed Brew of Ironskin and Brew of Battle (duplicates of Medium Invulnerability and Strong Strength potions)
+  -A skeleton drops a skull 90% of the time (to go with the bones)
+
+Change 1.2 (was designated Change 1.3)
+  -Made the Item Type Flags compatible with Spiderweb's Bladbase.exs v 1.01 (actually a superset of the 50)
+  -Edited the Terrain type names with more lower case lettering, added directions to conveyor belts
+  -Edited the Item type names with more lower case lettering
+  -Piles of filth are containers (inspired by Ben Frank's The Fog)
+  -Basalt wall (when stepped on) changes to an outlined door (similar to stone and adobe secret doors)
+  -Changes per Alcritas' Things that Don't Work article
+     Made the Bear, Wolf, Worg  type As
+     Made all Slimes (except the common Cave Slime) as No summon (Mauve was level 3)
+  -Used a hex editor to clean-up the name section of items
+
+Change 1.3
+  -Added random sounds (outdoors or for a situation) to the Scenario nodes 130 - 149
+  -Added 13 Special AP spells to the Scenario nodes 150 - 234
+  -Potted plants are containers
+  -Restored Assassin's Knife and Alien Blade as poisoned weapons (the cursed poisoned weapon bug was fixed I guess)
+  -Made the Lifeshield (241) and Lifesaver Amulet (327) acidic weapons of ability strength 10
+  -Blood Beast is level 24 monster

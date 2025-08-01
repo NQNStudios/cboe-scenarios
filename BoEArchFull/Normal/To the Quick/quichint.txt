@@ -1,0 +1,173 @@
+QUICKHINT.TXT
+A supplement to "To the Quick," a Blades of Exile scenario by Lew Titterton
+Copyright 1999
+Blades of Exile Copyright 1997 by Jeff Vogel/Spiderweb Software
+
+SPOLIERS AHEAD--PLEASE TRY TO SOLVE THINGS YOURSELF BEFORE CONSULTING THIS
+FILE.
+
+OUTDOORS
+Q) What secrets and specials can be found outdoors?
+A) There are three outdoor encounters and three outdoor stores. Some are
+hidden. All are useful, but none are necessary. In addition, the Goblin
+Forest is a hidden level found with a map in Elyssia's Chambers. 
+
+MOON POINT
+Q) Are there any major secrets here?
+A) Two hidden staircases: one in Elyssia's bedroom, and one in Wanda's room.
+
+Q) How is the door in Elyssia's Bedroom opened?
+A) Two conditions must be met: Azad is dead and Elyssia is alive. Look 
+at the door and it will then open. If they are both alive, looking will 
+prompt a message. If Elyssia is dead, something interesting happens.
+
+Q) How do I kill Elyssia?
+A) Get the Magebane (name borrowed from Ultima VII) in the Furnace. Free
+Sss-Sslyss in the Cells of Torment. (She can be killed without doing either,
+but it's very hard.)
+
+UNDER MOON POINT
+Q) How do I leave the Tome Room?
+A) Search the NE. Don't take the visible teleporter--look for another.
+
+GOBLIN FOREST
+Q) How do I reach this place?
+A) Get the map from Elyssia's shelves.
+
+Q) How do I reach the Warlord?
+A) Search for secrets in the Chamber of Magical Trickery.
+
+PRISON (GROUND FLOOR)
+Q) What's with the strange evil priest in the SE?
+A) Johns, the priest, wants to discourage you from entering because he fears
+you will discover his cult, hidden deep in a cave connected to the prison.
+
+DEPTHS OF DESPAIR
+Q) The Stairs to the Cells of Torment keep killing me! What gives?
+A) Talk to the prisoners in the Depths of Despair. That should clue you in.
+
+Q) What do I need in the Divine Maze?
+A) Nothing, but the Divining Rod, found in the Control Tower, helps a lot.
+
+CELLS OF TORMENT
+Q)How is the "Phoenix" riddle solved?
+A) The number sequence looks somewhat random; all you can tell from first
+glance is that they keep getting bigger. The trick, however, is finding the
+pattern. The first number is 1. The next is 3. The next, 8. Observe that 2
+comes directly after 1. 5 comes two spots after 3. So, the way it works is,
+for whichever number you're looking at, go that many spaces to the right
+and add. (For example, 19 is the fourth number. Go four spaces to the right
+to get 23. Add 19 and 23. Voila, the answer is 42!) Thus, 375 is the eighth
+number. 8 spaces to the right is 383. Add the two to get 758. The rest is
+easy. The riddle tells you to take the last digit (8). 8 converted to letters
+is "H". Since "Phoenix" starts at the north, H is the teleporter
+one step southwest of the northernmost one.
+
+CONTROL TOWER
+Q) I found the LifeChamber but can't get in! How do I open the door?
+A) You need Glyn's notes, found in the west of the Depths of Despair.
+
+Q) What's the answer to the ghost's riddle?
+A) Wind. The clue is the word "Breeze."
+
+TOWER ROOF
+Q) How do I get to this board?
+A) Solve the LifeChamber. Keep in mind that you may only get one chance on
+the roof. If the ghost in the LifeChamber dies, you won't be able to return.
+
+Q) How do I reach the rest of the board (outside of the statues)?
+A) Some statues can be walked through.
+
+THE FURNACE
+Q) What's the point of this level?
+A) Get the Magebane. Learn more about Azad and Elyssia. This level is not
+necessary for scenario completion, but it helps, and enhances the plot.
+This board is also my homage to modern hard rock band Buckcherry.
+
+ALI-AZAD'S LAIR
+Q) The door to the Kwikblayd won't open. Why?
+A) Search the room to reveal the right door.
+
+Q) Why is the Kwikblayd cursed and valueless?
+A) It's priceless, not valueless. I didn't want anyone to sell
+it. I think it would be lame to complete my scenario and just cash in the
+prize for some gold. Plus, I wanted it to always bear Azad's mark...sort
+of like evil radiation.
+
+Q) First I had to fight Azad, now I have to fight two huge demons! In
+quickfire, no less! Isn't this a bit hard?
+A) There is a way to avoid the demons. It's still somewhat tough, and
+gross, but definitely your best option. First you'll need to visit
+the Endless Cave and defeat the Divine Armada. Then, go to the Kwikchamber.
+Before getting the sword, search for a hidden hall. Use your key from the
+Armada to open the door and throw the lever. Only then should you get the
+Kwikblayd. Then, escape west.
+
+Q) So I don't really NEED to visit and defeat the Armada, do I?
+A) True. All their key does is open the escape passage. However, in all my
+beta testing, I always got my butt kicked trying to fight the demons in
+the quickfire.
+
+Q) Why is the Kwikblayd called "Enilno?"
+A) This is another homage to the Ultima series. In Ultima II, the best weapon
+was the Quicksword "Enilno." (How Origin got the name I have no idea!)
+
+ENDLESS CAVE
+Q) How do I get here?
+A) This board can be reached from either the east or the west of the Cells of Torment.
+
+Q) What do I do at first?
+A) Look for secret passageways in the middle north of the board.
+
+Q) How do I enter the Temple of the Divine Armada?
+A) Keep stepping on the corners until the number four appears. Then, kill the
+demon. (The exact order of stepping is NE, SW, NW, SE.)
+
+Q) Entering and leaving doesn't make sense. No matter 
+which direction you go, you end in the Cells of Torment. Why?
+A) The magic of the cave suspends the laws of geography.
+
+Q) What's this business of the "Papacy" of the Divine Armada?
+A) Foreshadowing to a scenario I may or may not make.
+
+Q) I found the Wicked Bishop's bedroom, and a strange pool puzzle near it.
+How is it solved?
+A) The clue is "Boreas," Greek for the North Wind. The clue tells you to
+go across from Boreas, thus drinking from the south pool.
+
+Q) In the Wicked Bishop's bedroom there's a passage that reads, "The Empire
+probably never knew about this cave." How can that be when there's a ledge
+leading right to it?
+A) The underground river could have reshaped the caves and created the ledge
+recently.
+
+Q) Is the second key to the Kwikchamber here? If so, where?
+A) Yes, it's hidden under the throne in the altar room.
+
+MISCELLANEOUS
+Q) How come a fair amount of this scenario is only loosely related, or unrelated 
+altogether to the Elyssia-Azad main plot?
+A) Technically the main plot is Elyssia-Azad, although I consider the total
+plot to be the prison itself: its history, mystery, battles, and secrets.
+When viewed that way, nearly everything in the scenario, with the exception 
+of perhaps the Goblin Forest, is relevant to the plot.
+
+Q) Don't you think there are too many custom items?
+A) No. While there are probably 25 or 30 custom items, I feel none are overly
+easy-to-get, and they are all useful. As long as gameplay is good and 
+risk/reward is well-balanced, then I say the more custom items the merrier.
+
+Q) What's the correct way to win the scenario?
+A) There is no "correct" way. You could argue that Elyssia is more evil,
+and serves an evil regime, and that Azad was simply driven mad by captivity.
+Still, Azad has committed many atrocities too. Also, keep in mind that
+freeing Azad could have grave ramifications on the Empire's wellbeing,
+and would probably cause lots of innocent death. Perhaps the best solution is 
+to kill them both, although this requires you kill Azad first (he leaves if
+Elyssia is killed first). It's up to you to decide what is right.  
+
+***NOWHERE NEAR ALL THE SECRETS OF THE SCENARIO ARE REVEALED IN THIS FILE.
+LOOK AROUND! USE MAGIC MAP!***
+
+***QUESTION NOT ANSWERED? BUG TO REPORT? COMMENT, CRITICISM, CONGRATULATION?
+EMAIL ME: LTITTERT@TUFTS.EDU***

@@ -1,0 +1,90 @@
+*************************************************************
+
+Ugantan Nightmare
+
+A movie scenario by The Creator
+
+*************************************************************
+
+Thank you for downloading this extremely brief scenario. The
+.zip file should contain the following items:
+
+uganta.txt
+uganta.bmp
+uganta.meg
+uganta.exs
+
+uganta.txt - The readme file, which you are reading right now.
+
+uganta.bmp - The custom graphics file for PC users. These are
+essential to the scenario and must be working properly. 
+
+uganta.meg - The same thing, but for Mac users.
+
+uganta.exs - The scenario itself. This is likely to be the 
+shortest scenario you will play in your life. Play time should 
+take less than a minute.
+
+Strictly speaking, this isn't even a scenario. It is, for all 
+pratical purposes, a movie. The prescence of your party is only
+because there is no other way to do it in Blades of Exile.
+
+I don't know for certain how well it will work on other computers. 
+It has not been beta-tested. I didn't really see the point in it 
+for something so small.
+
+This scenario was constructed for two reasons. First, to 
+form part of the story that was begun in The Isle of Boredom.
+If you have not played it, you will most likely understand
+none of the events of this scenario.
+
+Secondly, and more importantly, to showcase a new animation
+technique. details of this technique can be found below if you
+wish to use it yourself.
+
+Thanks to Shisha for the "Robed Figure" graphic and to Tim 
+Farland for the "Blackheart" graphic, both of which are used 
+in this scenario. All other custom graphics are either originals
+or edits by myself.
+
+******************
+Frame Animation
+******************
+
+This is the method that I used to create this scenario. I have
+several towns full of frozen scenes, each slightly different 
+from the next. With stairway nodes, I moved the
+party from one to the next in rapid succession. I would 
+occasionally intersperse this with various nodes such as sound
+effects or explosions.
+
+One problem with this is speed. Everything happens very fast. To
+slow everything down enough for the player to absorb what is
+happening, it is often necessary to enter the same scene 
+multiple times. I also recommend playing sounds at every 
+opportunity, as these take some time to play. For example, you 
+will hear footstep noises very frequently in this scenario.
+
+Another problem that can arise is an inability to see everything
+clearly. I got around this by making all terrain transparent.
+
+A third and much more serious problem arises when you approach
+the 50-node chain limit, and trust me, this doesn't take long at
+all. To beat this, you paste several different nodes (using the 
+paste command on the toolbar) that each start an animation chain
+onto the same spot. When the first node chain ends the next one 
+will begin. 
+
+The order that the node chains are called in depends 
+on the number of the first node in the chain. i.e. If the nodes 
+pasted on the one spot are 0, 5, 2, and 7, the chain that begins 
+with node 0 will go first, followed by the one that begins with 
+node 2. Then will come nodes 5 and 7, in that order.
+
+Every chain that is followed by another MUST end in the same town 
+that it started in. You can flip from town 34 to town 73 to town 8
+in the meantime, but it has to end in the same town as the first
+node of the next chain.
+
+More detailed information can be found at http://www.personal.psu.edu/staff/b/x/bxb11/boe/progcontest/Contest.htm
+ by downloading "Complex Animations".

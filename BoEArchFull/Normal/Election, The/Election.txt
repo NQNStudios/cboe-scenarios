@@ -1,0 +1,43 @@
+			The Election, by Nick Jones
+
+First off, I ought to warn you that this scenario is plot/puzzle based, and contains little of
+interest to the more combat-orientated, tactical puzzler types. The rest of you...
+
+This scenario should only be played with the party save file included - just load either
+elecpc.sav or elecmac.sav as appropriate before starting the scenario. Using your own party will
+ruin the atmosphere, mess up a few of the puzzles, and be counted as cheating, in my book.
+
+WARNING - Do NOT overwrite the initial saved file - you will need it when you come to start 	 	  again. It is advised that you make a back-up copy, or just don't delete the .zip file.
+
+Mac and PC graphics files have been included - put these in your scenario folder as usual.
+Other than this, there is little more you need to know. There is a time limit, so don't
+necessarily expect to win on your first go. You should also know that there are two
+seperate ways of winning the game, one significantly harder than the other, (though which you
+consider better is up to you), so expect to have to play it through at least twice before seeing
+everything. The scenario file is unpassworded, so if you really want to you can see how it was 
+put together. Don't expect a beautiful demonstration of how to use the editor, though - this is 
+my first scenario, and was quite messily constructed.
+A walkthrough/hint file, elecwalk.txt, is provided in case you really get stuck, but expect to
+find out more than you wanted to know. To be used as a last resort only.
+
+If you're playing on a Mac, there might be a few dialogue text messages which are too long to
+fit. I've spent long hours trying to remove them, but if you find a few remain - don't panic.
+If you think something important might have been contained in the cut off sections, just press
+record, quit the conversation and look at your journal - the complete text will now be there.
+You can then go back into conversation and ask about anything that might have been suggested by
+this new information. If you do find a fair few of these, I would appreciate it if you sent me
+details (who you asked what), so I can fix them for any next version that might be coming.
+
+I would like to sincerely thank my beta-testers, Silver and Alcritas, for their miraculous work,
+turning the hugely buggy scenario I first showed them into the gleaming example of perfect
+scenario craftsmanship you see today. Oh yes.
+Additional thanks go to Drakefyre and Drizzt, who helped with the beta-testing to some small
+extent. Praise also to Jeff Vogel, obviously, and apologies for the unlicenced use of his name.
+It just seemed right, somehow.
+
+This scenario is freeware. Do what you want with it, as long as what you do does not
+involve profit or removing the credits.
+
+Any comments, bug reports, angry letters of condemnation etc. should be addressed to
+nckjones@hotmail.com. But I won't tell you the answer to the crossword clue, however much you
+beg.

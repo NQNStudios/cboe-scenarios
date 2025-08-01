@@ -1,0 +1,16 @@
+Northern Kingdom 0: Prologue
+by Kelandon
+tomwatts@berkley.edu
+http://my.sanbrunocable.com/tomwatts/public_html/home.htmlABOUT THE GAMEThis scenario was suppose to be a prologue to a huge, massive, monumental series of five epics. None of the epics never got finished, but this scen did. The idea was that the Northern Kingdom was north of that lake where you find the Empire Archives in A2. Each scen was supposed to reveal a section of the kingdom.
+
+The obvious question is: will I ever write these scenarios? Sadly, the answer is: probably not. At some point in the distant future, I may return to BoE to write NK1: Oalen as I originally intended, but it won't be for a while, and it's unlikely that I'll write the whole series.
+This scenario is designed to be played by a six-person party. It can be played with a smaller party, but the plot won't make as much sense.
+If "your favorite character" dies during the scenario while your party is split, you absolutely MUST start over. If you don't, the entire rest of the story will not make sense, and some of the specials will malfunction.
+BASIC GUIDELINES1. IF YOU DON'T KNOW WHAT TO DO, EXPLORE. If you have an incomplete map of a town, you probably just haven't explored enough yet.2. BE THOROUGH. There are lots of little hidden things, like in the Exile games. 3. IF YOU'RE REALLY, REALLY STUCK, WAIT A WHILE. Generally, the way you get out of areas is through something that you can't control, like a dragon attacking a city or something. There are puzzles within cities, but you don't have to solve anything. At all. Ever. I think. 
+HINTS N' STUFFIf you're stuck, a hint file is included. It has some extra things you might not have noticed, some hints, and a walkthrough.
+BUGS AND STUFFIf you find any bugs, contact me at the e-mail address above. The scenario has no password, so if you really want to be cool, you can look at the game itself and tell me what has gone wrong. Also, I would love feedback about the game. Comments, complaints, etc. are always welcome.Thank you to Djur and Chris "Flamefiend" Pelling for beta-testing this scenario.
+
+
+CHANGES FROM V1.1
+1. Updated the e-mail addresses and name
+2. Updated this readme to reflect, err, present realitiesCHANGES FROM VERSION 1.0.0Minor fixes... 1. Less time spent in Unillen and on the ship2. Polonius's children can't wander off from the cage after you open it3. Polonius no longer is hostile after he leaves and finds his kids -- why doesn't anything mention that the Place a Monster node automatically makes that placed monster hostile?4. Duchy of Verona changed to Province of Verona5. Fixed a typo in the Hints6. Fixed wandering doomguard in Karthax's Cave7. Changed wandering monster entrance points in Cave Wilderness

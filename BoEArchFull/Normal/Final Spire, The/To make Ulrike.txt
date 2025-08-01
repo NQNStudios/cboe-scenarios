@@ -1,0 +1,47 @@
+TO MAKE ULRIKE:
+(If a statistic is not listed, it means '0' or 'none.')
+
+Name: Ulrike
+Graphic: Green female mage
+Race: Human
+Advantages: Magically Apt, Highly Alert, Recuperation
+Health Points: 200
+Spell Points: 140
+Strength: 7
+Dexterity: 7
+Intelligence: 20
+Edged Weapons: 10
+Mage Level: 7
+Priest Level: 4
+Alchemy: 5
+Luck: 5
+Experience: 3438
+Gold: 100
+Food: 300
+
+MAGE SPELLS:
+All mage spells EXCEPT Summon Beast, Weak Summoning, 
+Summoning, Capture Soul, Simulacrum, Daemon, Major 
+Summoning, Protection, Kill, Death Arrows, Mindduel, 
+Flight, Shockwave.
+
+PRIEST SPELLS: 
+Minor Bless, Minor Heal, Weaken Poison, Location,
+Sanctuary, Minor Manna, Stumble, Bless, Curse, Wound, Charm Foe, Heal
+Holy Scourge, Manna, Forcefield, Cure Disease,
+Restore Mind, Curse All, Martyr's Shield.
+
+Items:
+Steel Wave Blade, Robes, Blue Pants, Four sets of 
+Power Geodes, Wand of Death.
+
+NOTE: To make sure Ulrike is at the appropriate level,
+go into another scenario and kill a monster. Then
+adjust the HP to 200 (if it's an odd number, I'm
+not complaining as long as it's either 199 or 201.)
+
+That is all.
+
+Enjoy the game,
+
+Bain-Ihrno

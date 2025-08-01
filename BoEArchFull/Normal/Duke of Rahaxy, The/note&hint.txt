@@ -1,0 +1,40 @@
+THE DUKE OF RAHAXY
+A Blades of Exile Scenario.
+
+ACKNOWLEDGEMENT:
+Juliet Rowley is responsible for the map included with this scenario.  Have a look - it should be very useful.
+
+NOTES:
+1.  First of all, I must ask your pardon, gentle BoE player.  This is not only my first published scenario, but my first ATTEMPT at a scenario.  As such, I can easily see things I wish I had done differently - well, perhaps next time.
+2.  This is a big scenario.  Too big, I suppose.  There is one big-enough main mission, several side missions, and not a few encounters.  Also LOTS of detail for the sake of color.  But there's no time limit on anything (okay, ONE thing, but if you miss it, you won't even notice), so if you are the type who likes a scenario that will take several sittings, you may well enjoy the Duke.
+3.  Some general things as you play:
+a.  All the side missions will help you in some way with the final encounter, but none is essential.
+b.  All innkeepers will respond to "advice."
+c.  Usually, when talking to NPC's, asking about the last word of four or more letters will advance the conversation.
+d.  You can find all fourth and fifth level spells, along with a few sixth and seventh, somewhere in the scenario.  Also to be found are the first fifteen recipes.  For those who, upon seeing Gordian Knots, immediately reach for their axes, you can buy all fourth and fifth level spells in the first town - at unspeakable prices.
+e.  It's probably best not to use Word of Recall, particularly after you leave the Labyrinthine Lair through the portcullis.
+f.  If you're stuck, talk to people.  If you're still stuck, e-mail me at jearwolf@splitrocktel.net
+
+
+SIDE MISSIONS
+In this town - ask this person - about this
+Central Rahaxy - Telier - mission
+East Bouchette - Nell - help
+First tunnel - Evan - appreciate
+Lemurie - Aron - time
+Lotegn - Julia - Anna (This one isn't so much a side mission as a mini-scenario.  Without it, you won't be able to get into the main plot.)
+Matabec - Harrison - mission
+St. Gall - Leofric - favor (You will find this mission in the normal course of the main plot.  Again, success is not essential.)
+Tulaire - Lassie - timmy (x2)
+West Bouchette - Dietrich - mission
+West Rahaxy - Jean-Claude - broser
+
+
+SPOILER (sort of)
+Recommended order of town visits is as follows.  Towns in parentheses are not part of the main plot.
+Lotegn - Forest tower - (Anywhere, to kill some time and look over the whole province.  This would be a good time to see Matabec.) - Forest tower, abandoned - Lotegn - East Bouchette - (West Bouchette) - Dosquet - East Bouchette - West Rahaxy - Valcourt - Lemurie - Plaingate prison - Cedar Haven - Lemurie - St. Gall - (Tulaire) - (Old Mill) - (Tulaire) - (Lotegn) - St. Gall - East Rahaxy* - Central Rahaxy - (West Rahaxy) - Cedar Haven - Lemurie - St. Gall - Cemetery - First tunnel - (Bandit camp) - Labyrinthine Lair** - Hot cave - Battlefield - Central Rahaxy - East Rahaxy - Cathedral.
+* = after this trip to East Rahaxy, all of Rahaxy will be closed to you until the final assault.
+** = after leaving the Labyrinthine Lair through the portcullis, only those towns listed after this point will be open to you.  Get your side missions done first.
+
+Version 1.0.1 spoiler:
+After having the original uploaded for a while, I found the most frequently asked question, by far, was the one about the coded tape measure.  For those who couldn't decipher it, here's the message, backward: THGINOT NAC I TAHW TUO DNIF LLIW I DEVLOVNI SI SUITNOP THGIR EREW UOY RETLAW

@@ -1,0 +1,42 @@
+"Truffle Days" Readme file
+
+This is the readme file for the Blades of Exile scenario, "Truffle Days," by me, Scott Evans.  Thank you for downloading and trying this scenario.  I hope you enjoy it.
+
+STORY:  You have decided to take a few weeks of rest and recreation in the quaint town of Amelia, located in one of the more remote regions of the underground labyrinth known as Exile.  However, (and as you might expect), Amelia is not quite as insulated from turmoil and danger as its inhabitants would like.  You quickly find yourselves on a search for allies with which to save the town, and possibly much of central Exile, from destruction.
+
+This scenario, rated PG, is designated as "high" difficulty and is designed to be best played with a party of characters of 20th to 22nd level on average, with at least the fourth level spells.  If your party is much higher than this, and has many of the sixth and seventh level spells, you will probably find much of the combat too easy.
+
+Having said that, I should mention that I have created a hints file for the various problems, puzzles and riddles in the scenario.  There are quite a few "thinking" challenges in it; this ain't your little brother's hack 'n' slash dungeon.  This file is included, and is in rich text format, so use a word processor that can read rich text format to open it.
+
+For those who don't have an appropriate party already, I have included a customized version of Tarl Kudrick's High Level Party Maker.  Take a brand new party of first level characters through this "mini-scenario" and in under an hour you'll have a party with suitable levels, stats, spells and equipment for Truffle Days.
+
+The following files should have been included in your download package:
+
+truffle.exs (the main scenario file)
+truffle.meg (custom graphics file for macs)
+truffle.bmp (custom graphics file for pcs)
+truffle.txt (this readme)
+truflmkr.exs (the party-maker scenario)
+trufhint.rtf (the hint file)
+
+Regarding the custom graphics files, anyone who wishes may use the modified terrain graphics that I created, without need for permission.  They were simple to do.  The dialogue faces, however, were custom made from scratch by my brother, Alan Evans, who is a professional illustrator and graphic designer.  If you wish to use these in your own scenario, do so, but please include the following line in your scenario's readme file:  "Custom dialogue faces created by Alan Evans."  Some of his professional work can be seen at http://www.valkyri.com.
+
+Thanks very much to the following people:
+Alan Evans - for dialogue faces and story help
+Eric Golden - beta testing, story help, and feedback on riddles
+Tarl Kudrick - beta testing, and High Level Party Maker
+Tony Wilsdon - beta testing, and website publicity (now & previous)
+
+If you enjoy this scenario, you may wish to try my previous effort, "Nightfall," a somewhat larger scenario for low-level characters.  I would also recommend, from personal experience, Tarl Kudrick's "Islands of the Wheel," his upcoming "Tatterdemalion" (still in creation as of this writing), and Tony Wilsdon's epic "The Wreck of the Slug."
+
+Send all questions, comments, doubts, difficulties, neuroses, & psychoses to me at:
+Scotto@brandx.net
+
+Version history:
+1.0.0 - initial release
+1.0.1 - fixed several small to middlin' sized bugs
+1.0.2 - Virtue of Fortitude bug fixed
+
+Thanks for playing Truffle Days!
+Scott Evans
+September 26, 1998

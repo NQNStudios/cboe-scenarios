@@ -1,0 +1,18 @@
+Wanderer's Emporium v1.05 - by Valen Kerr
+
+The Emporium is somewhat of a utility; if you're looking to purchase any mundane item or spell that you just can't seem to find a merchant for, he's probably among the other peddlers here. In addition, there are randomly generated items for sale here, so that oh-so valuable artifact is likely stashed here as well. Furthermore, I've noticed a certain lack of enhancing merchants in most scenarios, so he's decided to join in as well. Of course, such free-style shopping has its price, so the costs have been augmented (without raising the value of the item, anyway). So wander in and see what wares may interest you!
+
+-5 randomizing shops
+-All level priest/mage shops
+-Common item shops
+-Trainer
+-Tools, armors, accessories, weapons
+-Alchemical recipes and ingredients
+-Potions, scrolls, magic items
+-Identification and selling
+
+//////Be warned, however, that this is a powerful utility, and I fear it may ruin the game to some extent. I mean, don't you love the thrill of finding that scrumptous Godly Death Wand of Demonic Disasters without having to shell out your life savings and selling your grand-parents on the black market? Either way, it may make treasure hunteing too easy.\\\\\\
+
+Tip: You can produce your very own Wand of Flame! *roar of the crowd* Obtain a stick, any old twig will do, and bring it to the blacksmith. For a wee fee of 800 bones, the smith will dip it in his superheated forge and enable it to fling a number of flame spells! Of course, you can always buy/find a normal wand cheaper, or hey, even learn the spell itself, but it's not half as fun and humorous!
+
+Have fun, an' happy huntin'

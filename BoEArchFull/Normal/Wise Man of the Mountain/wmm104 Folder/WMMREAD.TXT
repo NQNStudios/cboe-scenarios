@@ -1,0 +1,12 @@
+_Wise Man of the Mountain_
+Version 1.0.4
+
+Notes:
+1.  Sorry about the bugs in the previous versions!  I *thought* that we'd caught all of them during testing.  (Humph.  Some tester Chatty turned out to be.)  Anyway, if you find anymore, you can e-mail story_of_joe@hotmail.com, which is my temporary e-mail for now.
+2.  Remember when I said, "If you ever see an evil altar in an odd place, be certain to try and get rid of it ..." ?  Well, forget about it for now.  It isn't working properly yet.  Something went really screwy with the nodes or something. ;-(
+
+That's all ...
+
+-- Cavenewt
+
+^_______________________________________^ <== Joe the demented frog.

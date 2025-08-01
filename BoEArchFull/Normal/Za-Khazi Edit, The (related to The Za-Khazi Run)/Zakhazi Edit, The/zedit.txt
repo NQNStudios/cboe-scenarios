@@ -1,0 +1,28 @@
+"The Za-Khazi Edit", by Jeff Vogel,
+edited by Alcritas.  If you have any
+comments, concerns, or questions, email me
+at: alcritas@att.net, or post on my message
+board at: http://pub26.ezboard.com/bthelyceum
+I'm not really interested in complaints, but 
+if you have to make them, use the same method
+as above.
+
+MAC Users - No Meg file is included, but it's
+not big problem.  Just make a copy of zrun.meg,
+and rename it zedit.meg.  Ta da!
+
+I'd like to thank The Talking Spider for proving
+a bit of beta testing help.  Lew Titterton deserves
+some of the credit/blame for inspiring this.
+
+This is basically "The Za-Khazi Run", but
+harder.  How is it harder?  Well, for starters,
+you're only given 12 days, instead of the usual
+20.  
+
+(And yes, that's right.  In the initial version,
+you were told you had 21 days, but the game starts
+on day 1, and the fort falls on day 21, giving you
+only 20 days.  In this version, you start on day 1,
+and the fort falls on the beginning of day 13 which 
+= 12 days to reach the fort before it falls.)

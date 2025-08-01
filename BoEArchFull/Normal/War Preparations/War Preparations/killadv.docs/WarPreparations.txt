@@ -1,0 +1,123 @@
+War Preparations - BETA VERSION 0.9
+
+--------------------------------------------
+
+CONTENTS
+---------
+General Info
+Tips & walkthrough
+Credits
+
+
+GENERAL INFO
+--------------
+
+This is a short scenario for low level parties. Six characters is recommended.
+
+This version was released in december 2007.
+
+
+TRIVIA
+
+This scenario was originally supposed to be named Kill Adventurer, Win Goblins To Your Side, and it was supposed to be a very short joke scenario. Then I got too greedy and the scenario took me two years to make. 
+
+Town 1 in the scenario was my worst problem. The scenario has no password, so the town nodes are available for all who wish to see a good example of how one shouldn't design a town with nodes. Town 1 should have been at least three towns, and it uses over 200 nodes. It took me a year to test it and patch it.
+
+-------------------------------------------------------------------------
+
+
+TIPS & WALKTHROUGH
+--------------------
+
+TIPS
+
+* There are at least two ways to "win" the scenario.
+* Search everything. There are some secret doors in the game. Few of them are essential, though.
+* Keep unusual items. They might be useful later on.
+
+
+MAIN QUEST
+
+1. Go southwest to find the hermit.
+
+2. Talk to him. Don't threaten him, at least not yet. Ask him about things.
+
+* SOLUTION 1: THE ORIGINAL PLAN
+3. Search Nirr's home. And garden.
+
+4. Search the desk in the study.
+
+5. Take the book back to the palace. Show it to an expert.
+
+6. Go downstairs. Step into the trap. Fight. 
+
+7. Find a lever in the laboratory. Pull it.
+
+8. Search the library and then the potion closet.
+
+9. Read your book carefully.
+
+10. Go back to the adventurer's house and talk to every golem.
+
+11. Attack the adventurer.
+
+(You must say the magic word to the golems before attacking.)
+
+
+* SOLUTION 2: THE ADVENTURER'S ADVICE - this way is much longer than the first one.
+
+3. Go to the old ruin, which the adventurer told you about.
+
+4. Go through an old building and set off a trap. You should find a tunnel entrance, one that's not blocked. Go in.
+
+5. Go north through the caves.
+
+6. In the next area, search everything. Collect five metal bars and all Red, Green and Blue gems that you find. Talk to the golem that you can find here.
+
+7. There are stairs in the west part of the area. Climb them. Talk to the ghost in the kitchen.
+
+8. Find oil in the north part of this area. Take it to the golem.
+
+9. Follow the golem to a room northwest.
+
+10. Go to the northernmost room. (Note: there is a trapped doorway leading north here. You must go through it to get enough gems.) Examine the signs next to the levers. Experiment with the levers now that the cart is on the rail.
+
+11. There is a pile of large rocks blocking the rail. You must find rock shrinking liquid and apply it to the rocks. It's here somewhere. (Not for internal use, except if one has swallowed a rock.)
+
+12. Now the rail is clear, and you can start making your own golems! Go to one of the western rooms, where there's a machine with a marble table and a wood table. Examine the sign. Move the cart to this room (by pulling the levers in the northernmost room). Pull the lever in this (= west side) room. The parts should now go to the cart. 
+
+NOTE: Later you should bring the gems and metal bars to this room and follow the instructions of the sign. First place all necessary golem parts on the wood table (only the parts for one golem, no more). Then pull the lever when there is an empty cart in the room.
+
+13. Move the cart forward once. It goes to the northeast room with conveyor belts. Operate the controls there until you have a golem in the cart. 
+
+(If you don't succeed, use the levers in the material storage just southwest of the conveyor belt machine, empty your cart and use the machine controls again.)
+
+NOTE: If the machine breaks, you must fix it before you can go on. Enter the hatch and send one party member down the ladder. Read a summoning spell on a wall, kill three spirits and talk to the fourth.
+
+14. Move the cart to the cart control room. Use the machine here. Then move the cart again. 
+
+15. The cart is now in the golem storage room southeast. Go there, and the golem will climb off the cart.
+
+16. Repeat this procedure to make 5 golems altogether.
+
+17. When you finally have your five golems, talk to them and ask about "time". Then go back up.
+
+
+SIDEQUESTS
+
+* Twisted Herb - Can be found in the adventurer's garden.
+
+* Old paper containing a table - Two people are willing to buy it: a goblin shaman (outdoors) and an alchemist in Distantbay.
+
+* Lizard Fangs - Lizards can be found in the Old Ruin and below it. 
+-------------------------------------------------------------------------
+
+
+CREDITS
+--------
+
+Thanks to:
+
+_______ for beta testing.
+
+Luz Piazuelo and Drakefyre for graphics. (The palace graphic by Luz Piazuelo was brutally modified by me.)

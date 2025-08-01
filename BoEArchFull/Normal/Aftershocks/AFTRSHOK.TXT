@@ -1,0 +1,91 @@
+************************
+* AFTERSHOCKS - v1.0.4 *
+************************
+
+This is the fifth release of Aftershocks, Which is my first scenario attempt. I tried to design it with a medium-level party (Starting at about level 20) in mind. I've played through the game in as many different ways that I can think of, but although I'm pretty sure there are no serious bugs left in it, there are some other things I'm not too sure about. Any comments on how difficult it is to fight through, how easy it is to make a living in this scenario, and how easy it is to understand plotlines and clues would be greatly appreciated. Comments so far have helped make the game more playable (Some of the version revisions listed below are fairly petty, but that isn't a bad thing. These little problems have to be corrected if the game is going to run smoothly).
+
+Aftershocks is written as a sort of prelude, so if you think the ending is a little inconclusive don't worry; I'm working on the sequel inbetween other things. Also, there are several side-quests to go on. All are optional, but all except for one will help make completing the scenario easier. The one exception is very difficult to find, and thoroughly pointless. Most things are fairly puzzle-based.
+
+Setting:
+You are completely lost in the Honeycomb - a twisting network of small tunnels in Southern Exile. While trying to get your bearings, you happen upon a settlement in a newly excavated area. Things are not as dull as they seem...
+
+General hints:
+-Bookcases can be useful sources of information. However, they can also be other things.
+-Talk to people carefully. If they say they have an interest in a certain topic, check back with them when you've found something out about it. They may be able to help further. Also, record anything you think may be important. Apart from a few less vital plot-related messages, all important text can be read again.
+-Anyone interested in alchemy should know that all of the alchemical plants are to be found in replenishable sites somewhere in the game. However, the more valuable they are, the more hidden they are.
+-When all else fails, try moving diagonally.
+
+Unsolved Bugs -
+-Due to the way that Blades of Exile works, there is a memory that prevents monsters from reappearing in towns if you leave to take a breather. This also stops important people from appearing or disappearing if you do something that makes them move, but have visited their town recently. This happens in the towns of Erimin (Menak-Te) and Dassakar (Gerain and his troops) only. This can mean there is a lag between you doing something and seeing the effect. The only way around this is to visit about four other towns to remove it from the memory.
+
+-There have been problems with the Macintosh dialogue. The Windows version displays more talking text than the Macintosh version does. I have corrected all dialogue by making it take up about 3/4 of the screen on Windows, but if you notice any more text truncation on the Macintosh, please let me know. Dialogue is generally the backbone to any scenario. If all else fails, someone pointed out to me that if you record truncated text, it is recorded in full.
+
+Any comments or bug reports should be sent to m.meek@uea.ac.uk (Which should be my email address until about May 2000) headed with 'Blades' or 'Aftershocks' or something. I wrote the scenario on the Windows version. The only Macintoshes I have access to are at University, and they don't take a shine to playing games on them (Plus I don't have the Macintosh version) so I don't know if there are any more problems on that platform.
+
+There is a complete solution included with this release, but remember that reading it when you are only slightly stuck will probably spoil your enjoyment of it and also spoil any further refinements of the plot.
+
+Version History
+
+1.0.4
+-Apparently, Yedrin-Bok kept casting Avatar when he was about to die, thereby restoring all of his life. Limited him to level 6 mage and priest spells to make it less of an endurance test.
+-All alchemical plants are in the scenario. Now, there are actually some spells to use them for. You'll have to find them for yourself.
+-Put a fletcher in Fort Achates.
+
+
+1.0.3
+
+-Looks like I didn't take enough text off. This time truncation should not happen...
+-People could get buried in rock in the Spiral Pit. Fixed that one.
+-The sliding wall puzzle in the Northern Seismology Tower had a mixup of coordinates. Dunno why I never noticed the corner of the room vanishing before.
+-Removed a redundant special at the end of the game.
+-Corrected the spelling of Captain Darius' name.
+-Made the Vahnatai patrols appear.
+-Reduced the number of hydras in random encounters. They can be really nasty in groups.
+
+1.0.2
+
+-Corrected all dialogue to take up only 3/4 of the space in Windows. Hopefully this should cure the problem with the Macintosh finally.
+-People could get buried in rock in the Prison of Ardrin. Not any more.
+-New special in the Weird Shrine.
+-Made sure you couldn't rent armour from someone for 10 Gold then sell it for 200 Gold
+-Saw a need for some more dialogue on the part of the Graet Leeder, so I added some.
+
+1.0.1
+Here we go...
+
+-Corrected 'Wall entombment' error in Carenia.
+-Made sure Artemis and Dlaik don't sell mist globes anymore.
+-Made it easier to get to the Haakai by removing some barriers and secret doors. Replaced a few with fire barriers.
+-Corrected the Haakai's dialogue, so it cannot become hostile before it gives you information.
+-Left a hint in Ankra for getting to the Haakai in the first place.
+-Removed some other barriers in Ankra.
+-Altered Maglen-Tel's dialogue to make something a bit more obvious.
+-Made Barrikki able to buy general items.
+-Edited Genrad-Ihrno's dialogue to make it painfully obvious that going to see Yedrin-Bok without protection WILL kill you.
+-Edited the dialogue at the final staircase just in case you weren't listening to Genrad-Ihrno.
+-Left clues in the pyramid and elsewhere to infer there are solutions elsewhere.
+-Edited a special in the Ruined Town to help point something out.
+-Created some other new specials to help point it out further.
+-Realised that something else in the scenario didn't make sense, so I fiddled it.
+-Changed the Entice-O-Text for the scenario selection screen.
+-Named a few previously unnamed areas.
+-Altered text in the seismology stations to say where to search.
+-Altered a few nodes to help clarify things further in the seismology stations.
+-Left hints as to where the Platinum Keycard is.
+-Made it possible to close metal doors.
+-Made all items in Erimin owned.
+-Corrected stairway error in Eyebeast lair.
+-Trap in Eyebeast lair now works once only.
+-Made the undead tunnel work better.
+-Closed a few 'loopholes' used against Yedrin-Bok.
+-Put a stuff done flag in an outdoor special encounter.
+-Put another stuff done flag in the Observation Post, so you could only get the gold keycard once.
+-Entering town diagonally counts as entering from the side. Made sure this didn't encase you in solid rock in some towns.
+-Changed the nodes at the end to remove the special items it is possible to obtain.
+-A few text alterations and corrections here and there, and a bit more dialogue added.
+-Edited this file to clear up a few points.
+
+Phew.
+
+1.0.0
+First release. Wrote the whole scenario.

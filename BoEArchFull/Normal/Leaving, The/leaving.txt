@@ -1,0 +1,92 @@
+The Leaving - version 2.0.1
+
+The Leaving is designed for a medium-level party (Level 8-15). It is set to "High" level for technical reasons, otherwise the monsters might double their hit points.
+
+I recommend playing the game with a six-member party.
+
+The scenario was designed and tested by Milu and "SP".
+
+Please send comments, questions, bug reports and opinions about the game to milu@arcticmail.com. Though it may take a few days for me to answer, I'm interested in all feedback.
+
+The original version (1.0.0) of this Blades of Exile scenario took part in a competition over half a year ago. I planned to release this version much sooner. However, better late than never...
+
+The scenario has no custom graphics.
+
+The language might look strange at times (in spite of the positive feedback I've got...) If it does, it's because my native language is Finnish.
+
+Milu
+
+June 7. 2002
+
+--------------------------
+WHAT'S NEW
+in version 2.0.1
+
+- added a couple of new side missions
+- added more details to almost every town & outdoor area
+- added more "room rectangles" to towns & outdoors
+- fatal bug fixed in the collapsed caves
+- bugs fixed in a (previously unreachable) side mission
+- no more getting stuck in Bairus jail (hopefully)
+- language improved in some dialogues, typos fixed
+- rebalanced combat a bit
+- a number of small errors & bugs fixed
+- a number of other improvements
+
+--------------------------
+HINTS
+
+
+A quick hint: communicate often with your village elder.
+
+If you are stuck in the game, scroll down and read the other hints. They might help.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hints
+
+(WARNING! The text below contains spoilers!)
+
+To cross the chasm...*
+
+To continue south from the big cave...**
+
+To cross a pit east of the volcanic caves...***
+
+To earn the Nephil Leader's trust...****
+
+To find what the witch is looking for...*****
+
+
+* you must use your communication orb and then look for a hermit.
+Go southwest to find him and talk to him. Do what he asks.
+If you can't get out of Bairus...
+
+...Wait in the cell until the wizard arrives. Mention the hermit's name to him. Wait until the wizard returns, then follow his instructions. 
+If you can't get a portcullis open...
+
+...go upstairs to get a long metal bar.
+
+
+** talk to the captain in Graystone. Then talk to the mayor. Attack the slith fort far east of Graystone. Afterwards, ask the mayor for permission to use the library. Also, talk to the wizard Taneli in Graystone.
+
+*** find a demon.
+Search the volcanic caves. Look for secret passages.
+
+**** you must kill all the three ice drakes.
+Talk to her son to find the third one.
+
+***** Go to the lava caves and find three very similar encounters. After defeating all the demons in them, you should be able to find a cave entrance in the middle of the lava caves.

@@ -1,0 +1,333 @@
+NEW LIFE WALKTHROUGH
+
+I have split this up into segments because that's the way the
+story advances, really.
+
+1: Getting equipped.
+AIM: To find as much free stuff as you can in Terath and the
+surrounding area, then contact Volf, Fletcher and Restet.
+
+Free stuff in Terath City: 
+-Don't buy beer from Hatty, it's a waste of money. And trying the trick
+on her just gets you attacked by bandits.
+-You can push the barrels near the left gate into a more secluded spot 
+and steal the goods inside.
+-There are some hidden passages in the castle with goods inside.
+-There's also a lot of good shops here so spend some time and money and
+skill points, if you have any. Getting l4 mage/priest skill is handy 
+because free spells abound in this scenario. Slow Group and Curse All
+don't work that well because many bosses are totally immune to magic,
+but they'll still give you an edge in places like the Quad of Inquity
+or Acidbeat Shrine. They also make outdoor encounters (esp. the Mould
+Fort) a lot more enjoyable.
+
+Free stuff in the Throne Room:
+-Find a secret passage near the stairs to get onto the ledge and
+another secret passage from there to find some treasure 
+
+Free stuff outdoors:
+-There's an encounter in the Bony Valley with some skeletons which
+gives you a nice weapon.
+-Follow the rock trail north and walk through a wall to find the
+Small Cave. If you behave well you will receive a very good sword.
+-Bhor-Tak's hut: Don't try the Quad of Inquity until you're very ready. 
+There's a boat you can take to Aquatis or the Acidbeat Shrine (or later,
+to the Mysterious Tower)
+
+Aquatis:
+-If you play the stock market you can either win a lot or lose a lot.
+Notably you can get the Energy mace, which is a decent Bashing Weapon
+and fills up your SP to boot. But save before.
+-The monk can train you, which Harmeni won't after Terath Rooftops.
+
+Acidbeat Shrine:
+-Acidic Acolytes drop Acid Bottles, which are thrown and cover the
+target in acid.
+-Acid Priests drop Basic Powder.
+-Acidbeats spit acid and are very nasty.
+-Acidbeat bottles summon acidbeats (naturally enough)
+-Get the acid from the labs and use it on the Big Basalt Block to
+clear a path. Do it quick or get burned.
+-You have to take quite a winding path to get round the doors which
+'you aren't going to get through'.
+-The final fight is against 4 Priests and 4 'beats. Finish them, and
+good spells and an acid-spraying shield are yours.
+
+Quad of Inquity:
+-Don't try this until you've got quite a high-level party. It's very
+hard.
+-To start, ask Bhor-Tak about 'quad' then 'visit' and he'll give you
+directions.
+-The Quad itself is a big, invisible, black maze with nasty, invisible,
+black Quad Guardians. Some have L3 magic skills. The ????? they drop
+is money.
+-Keep automap on to see roughly where you are. 
+-The Quad is four seperate mazes, joined by a + shaped Quadwalk. In
+the middle of the Quadwalk is the grass section you need to go to to
+leave.
+-In each section is a door and a statue (somewhere). The doors give you
+a spell and heal you up, while you need to visit each statue to leave.
+-For finishing the Quad you get the Quad Memory (blesses, hastes,
+heals, removes all negative effects and makes one character
+invincible), and a Wave Blade from Bhor-Tak.
+
+Terath Rooftops:
+When you're ready, talk to Volf, say 'infestation' to Restet, and go
+into his lounge to read the papers. You end up on the rooftops, with
+a lot of slimes to hack through.
+-You need to go west, south, then east.
+-The Dragon's Tooth is almost the end of this section.
+-Heal, bless and haste before you fight Fletcher.
+
+Boss 1: Fletcher
+
+Fletcher has level 4 mage and priest spells, and is immune to magic.
+Your best bet is to haste and bless yourselves as much as possible then
+kill him before he can fight back. Luckily he doesn't have any special
+spells.
+
+SECTION 2: Swarmer hive.
+
+Aim: To capture a live swarmer
+
+Talk to Volf and Restet again, then head east to the Swarmer Hive.
+-There are some spells behind a cracked wall
+-Picking mushrooms wastes time
+-You're headed for the north end of the hive, where 2 Swarmer Mages
+and 3 Warriors await. There's a secret passage you need to find in the
+north end.
+
+Boss 2: Probatus-EGG
+
+The egg is a good spellcaster, but the tentacles are pretty weak- a few
+good fireballs should sort them out.
+The egg creates 4 Nightmares (invincible), a fire field around itself,
+and finally some Sleep clouds. All are nasty, and it's level 5 spells
+which means Firestorms. This may take some tries. The Quad Memory is
+handy here.
+
+-Fletcher has some nice treasure left behind.
+
+SECTION 3: Detectives
+
+Aim: To find Fletcher's accomplice.
+
+Report to Restet, then Volf. Think about who's missing
+(spoiler: inemrah) and ask Volf about him/her. If you haven't done
+the Quad yet, now may be a good time.
+
+Hut: The front way in is full of sword-blade traps. Go through the
+forest round the back (the rocks are trapped too) and go in the
+back way. You fight a Mage, two archers and some bandits but at
+least you're coming from behind so you can get hand-to-hand with that
+mage nice and fast. Look for some more secret passages in the bandits'
+bedroom.
+
+Under Hut: You have to follow a secret passage (again) and chop up
+a hell of a lot of Vapour Rats, then go down the Stream of Filth.
+There's another mage to fight as well as some more bandits, before you
+can get the letter and the key (don't forget some more treasure).
+
+SECTION 4: The School of magic
+
+Aim: To enter the school of magic and get to the basement.
+
+-There's a friendly bandit, Raven, in the dormitories, behind a secret
+passage. He doesn't give you anything but advice, food and rest.
+-Stalkers: Throw darts, use poison, but not too bad.
+-Chameleon Slime: Fireballs work well because this stuff splits, but
+the chances are you won't notice it's there until it's too late.
+-There's a friendly Stalker to the northeast end, where you can get
+the Stalker Potion (adds Skill Points)
+-To finish this section, go to the long passage in the southwest
+corner of the lava viewing gallery and enter the secret passage just
+south of the sign.
+
+SECTION 5: The Slod-Kedbolm
+
+Aim: To kill the Slod-Kedbolm that is blocking the waste disposal
+system.
+
+-Get to the control panel on the platform, using fireballs to take
+out tentacles and go down to L2
+-The Slod-Kedbolm stops the system going all the way down to the
+basement. Get off the platform and find the main hall. Open the letter
+there.
+
+Boss 3: Harmeni
+
+Harmeni appears in the Main Hall. She's extemely fast and a great
+fighter, but doesn't use magic so you can cover her in summons or
+wuss out and bless-haste again. A good tactic is to hide behind the
+table and use Conflagaration, because she can take some time getting 
+round it.
+
+-The ring you get will summon the ghost of Lytrian Mancis.
+-Ask the ghost about the Slod-Kedbolm and he'll give you a lot of
+information.
+-Get his key from the north-east and go to the room with the lava
+spout, making sure you're high on SP.
+-First, pull the lever in the east wall.
+-Go to the pedestal and try to turn the barrier off. Insert the key
+and say his password. Now run like hell to the north portcullis- it'll
+open at the last moment. Follow the passage. You end up trapped in a
+room with quickfire, so Light Heal your party to keep yourselves alive.
+After about 5 turns you'll be saved. 
+-Head east and rest until the panel informs you that it's safe.
+-The Slod-Kedbolm should now be dead.
+-After you take out the Slod-Kedbolm, you can take the waste system
+down to the basement.
+-Once in the basement, talk to Harmeni, bless and haste, then enter
+the north door.
+
+Boss 4: Probatus-LARVA and Fletcher.
+
+Another fight with Probatus, then. Try to keep him away from your
+weakly-defended characters, because he can do a LOT of damage in one
+turn, especially because Fletcher'll Major Haste him.
+Probatus will summon Nightmares as he moves, but they're not likely to
+hit you.
+You can't hurt Fletcher easily. He's behind a forcefield which makes
+him immune to weapons, he's already immune to magic, resists fire,
+and too strong to hurt with missiles. When Probatus dies, Fletcher dies
+too, so just concentrate on Probatus. Hasting a Priest and Wounding
+him works well but you'll have to be fast.
+Luckily there are no special spells.
+
+SECTION 6: Journey to the centre of the earth
+
+-Head back to the castle and talk to Volf again. You can now enter the
+southeast area of the map.
+-While you're there, you may want to visit Carding.
+-Or the Mysterious Tower.
+
+CARDING:
+Carding is a sort of cross between a town and a dungeon. You can play
+it either as a fight or as a town or a mix of the two.
+-If you fight the guard who asks for money, the town becomes hostile.
+Give him 100 gold and he won't bother you again. If you choose 'leave'
+then you now have to choose between 200 gold or a fight, and worse, the
+guard'll bother you again.
+-There's a secret house somewhere with no signs. Try some secret doors
+and you'll find Blackthorne the Witch, who sells you spells and
+recipes.
+-Blackthorne also buys food off you, but it's not a good rate, only
+really useful if you're extremely rich on food or short on cash.
+-The Unspec Services Liason, Kranen, sells you good weapons, armour and
+projectiles, as well as some interesting tools.
+-Don't drink anything. It's a waste of money. In the case of the
+cocktail, you'll lose all your cash.
+-You also get pickpocketed with time, so avoid Long Waits.
+
+MYSTERIOUS TOWER:
+The Mysterious Tower is one long gauntlet of puzzles, east of the river
+in the Restricted Area.
+To get in, touch the northwest, southeast, northeast, and southwest
+trees in that order. You get a bell, which you can use to get out. 
+The first floor is solved by going west a room, north a room, through 
+the east portcullis then through the west one you're teleported to. 
+Then south one room, walk up to the south portcullis, then go
+east (the portcullis will open), south, and finally west again.
+
+The answers for the riddles on the second floor are shadow, then
+keeping to the north are bookkeeper and air.
+
+Next you'll get hurt by the floor and quizzed on classical music. The
+answers are Elgar (not Greenday!) and Handel.
+
+Don't kill the dog. Just walk around it. Then ignore the chests to meet
+Ikal.
+Tell Ikal about Probatus, and enjoy all the other stuff you get too.
+Remember to search the bookcases! You get some L5 spells, very handy.
+
+In Carding you can try to asassinate Grouse, the crimelord. This gets
+you the Ebony Sceptre, a nice item which completely heals your party.
+However, the fight is hard. You're up against Grouse, (who is roughly
+equivalent to a Bladesman), and a Mage, Priest and various smallfry. 
+To find Grouse, either enter the slums via the secret passage in the
+east wall of the bar or Move Mountains the cracked wall in the Trash
+Pit. Then it's just a case of fighting your way through the slums
+to the secret door in the house marked PRIVATE. If you kill Grouse,
+Carding becomes hostile forever, and the secret door vanishes. Life
+will be easier if you can kill Grouse on the slums-side of the secret
+door, but that's not likely. If you don't, the previously locked door
+in the wall will unlock itself and you have a dash through a hostile
+town ahead of you. Luckily you don't have to worry about super-strong
+Guards, but Carding citizens are pretty tough and there are four
+archers at the gate.
+When you leave, open the package you find for the Ebony Sceptre.
+
+THE DESCENT:
+Make sure you're ready, then enter the cave to the northeast of this
+area. Walk along the gangplank into the Voyager and sit down.
+When it crashes, enter the south section and talk to Rannis. He will
+explain your new objectives: Find a source of heat to get the Voyager
+moving again, and some remains of Probatus. Now leave Voyager, into the
+Deepest Caverns.
+The two things you need are the Smashed Egg, which is at the top right,
+and the Magic Crystal which is at the bottom left. On your way you'll
+have to fight several Deep Slimes. These are HARD. They only have 20 hp
+but are immune to everything except fighting and Wound, and are L7(!)
+mage and priest spellcasters. This makes it VITAL for you to finish
+them as soon as you see them. One of the best ways is to move any
+priests you have to the front line.
+The Magic Geysers that the slimes sit upon completely refill your
+SP, which is basically the only way you'll survive this.
+When you have both items, return to Rannis and sit in the chairs.
+
+BOSS 5: Commander Restet
+
+Get out of the Voyager as quickly as you can, or it's instant death.
+(Although you don't need go into combat mode)
+Once you're out, you're up against Restet. The two mages are friendly,
+so let them form the front line. Restet resists magic and fire, but
+isn't immune, so pile spell effects onto him. It doesn't make any
+difference whether you finish him off or not, he dies anyway. Another
+casualty.
+
+SECTION 7: Return to Terath
+Terath has been destroyed! The only survivor is Lakos, the priest.
+Walk through the barrier in front of his temple and talk to him. Make
+sure he mixes up the anti-sleeping elixir for you, or you won't win.
+Now, if you've missed any side quests that you want to do, do them now.
+The most important are the Small Cave, Carding and the Quad of Inquity.
+If you've done any of these, go back to the area to get yourselves some
+allies for the up-and-coming battle. When you're done, rest, mix alchemy
+if you can, and then go to the hive entrance just south of Hatty's.
+You're faced with a horde of Swarmers. The Swarmer Soldiers and
+Enforcers are immune to most magic, so summoning and fighting hand-to
+hand is your only hope. Soldiers aren't much harder than Warriors,
+and Enforcers only have L4 magic. If you have all the allies, it'll
+be a doddle.
+
+SECTION 8: Terath Sewers
+You've got a long sewer hike ahead. Head clockwise round the sewers to
+get a boat, then go west and south to find a secret entrance into the
+hive. There's a corpse hidden with lots of potions, but his spirit will
+fight you.
+The hive is full of Swarmers, although the walls can be Move Mountainsed
+to pass hard bits. Chop your way through it, drink potions,
+use the Ebony Sceptre if you want (although it's more useful later)
+and then enter the basalt-wall area.
+
+BOSS 6: Probatus-MATURE
+Okay, this is it! Probatus' final form is really going to test you.
+You can kill it by attacking the head-section, but you'll probably
+want to weaken it a bit first by taking out the spellcasting tentacles.
+Also, after 11 rounds, you lose invincibility, so save Ikal's gem for
+the next fight.
+
+What's this? Where's the nice ending sequence? Why aren't I getting a
+fat cash reward? What's happening...?
+
+Head up the Dragon's tooth, to find...
+
+BOSS 7: Fletcher
+Fletcher is strong, but uses no magic and dies after five rounds, so
+just stay in town mode if you want.
+
+FINAL BOSS: Probatus-AMALGRAM
+Fletcher's mutated state is HARD. Great fighter, good spellcaster.
+Good luck. You'll need it. Use all the special items you have left.
+The Ebony Sceptre is useful for removing the effects of Spray Filth
+and Major Ravaging.

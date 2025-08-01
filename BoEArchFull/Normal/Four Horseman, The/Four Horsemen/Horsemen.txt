@@ -1,0 +1,11 @@
+The Four Horsemen
+By Glynn Reaper
+A tale of old gods and new, of plague and war and famine and death.  Of the four Dooms that will infect humanity to the end, and the few who stood in their way.
+Rated R
+For Medium to High Level Parties.
+
+KNOWN BUGS - READ
+
+- The Bizaar Bazaar exits don't work.  They'll take you to the town, but when you exit you'll exit to that towns location on the outdoor map you were on when you entered.
+
+Alpha testing was minimal, and there was no beta testing.  Please report bugs to g.r.s@flashmail.com

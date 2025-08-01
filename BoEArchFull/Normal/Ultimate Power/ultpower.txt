@@ -1,0 +1,6 @@
+Name:KJ Matossian
+Address:1728 Lakeland Hills Dr.
+Name of Scenario:The Ultimate Power
+e-mail:strfx1@whoever.com
+
+Here is the lowdown on whats going on.  I've used a different method for dialogue.  Whenever someone says something you can expand on, there will be a sentence that you can say to that person by just clicking the last word.  Ex. "I know where to find the Ultimate Power."     Can you tell me its location?.  If you click location, you will ask that person Can you tell me its location.  Need help?  E-mail me at the listed address.  If you just need help finding a temple, go to the Ultimate temple and step on the central special encounter, it'll help you out.  Also so you don't encounter a "friendly" screw up, make sure to exit fight mode right after killing a boss then leave because you might get stuck inside the chamber.  Anyhow have fun!

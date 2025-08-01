@@ -1,0 +1,42 @@
+Stuff Done Flags for The Foolish Giant, V 1.00
+by Desert Plah
+--------------------
+--------------------
+0,1
+Intro dialouge
+2,1
+Putnam emergency on/off flag, (add 5)
+4,0
+Balthazar 1st encounter
+4,1
+Mountain peak dialog+outdoor wolves+sound
+4,2
+Wolves encounter
+5,0
+Putnam (2nd) entry encounter
+5,1
+Ellen spotting
+5,5
+1=Know where Morris is
+5,6
+1=Know where Balthazar is
+35,0
+Mountain encounter
+100,0
+1=gate 2 open
+101,0
+0=not set yet/reset/third gate
+1=first pull
+2=second pull
+101,1
+1=first gate open
+102,0
+1=third gate open
+3,5
+Balthazar encounter final
+75,0
+end game
+15,X
+Spells in Balty's library
+
+These are all flags used before beta-testing.  Some were created after testing, and are not recorded here.

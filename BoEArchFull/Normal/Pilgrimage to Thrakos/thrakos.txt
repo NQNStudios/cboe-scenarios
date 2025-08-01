@@ -1,0 +1,81 @@
+PILGRIMAGE TO THRAKOS
+Read-Me File (v1.0.0)
+
+CONTENTS:
+1. Credits
+2. Version Notes
+3. Changelog
+4. Compatibility Notes
+5. Gameplay Issues
+6. SDF Reference
+7. Links, support, etc.
+8. A Quick Message
+
+== Credits ==
+This scenario was created by Sylae Corell (sylae@calref.co.cc) for the First Randomized Scenario Contest. Special thanks to the following people for beta-testing:
+* Jewels - http://truesite4blades.com
+* Nioca - http://calref.co.cc/nioca
+
+== Version Notes ==
+To download a more up-to-date version, please visit the pages in the Links section of this file.
+
+* v0.0.1 - Prealpha/alpha development
+* v0.1.0 - First betatester release
+* v0.1.1 - Second betatester release
+* v1.0.0 - First public release - Contest Release
+
+== Changelog ==
+
+v1.0.0
+- Fixed some ambush issues
+- Tweaked Taern Battle - removed in-gate boundary.
+- Tweaked overall difficulty
+v0.1.1
+- Fixed town boundaries and OSZ
+- Added dialogue to town 0
+- Added small clarification on end scenario text
+- Tweaked Taern Battle timer
+- Tweaked readme file info, changed EOL from UNIX to Windows.
+
+== Compatibility Notes ==
+This scenario was developed using Classic Blades of Exile v1.1 on a Windows machine. It has been confirmed to work with the following setups:
+* CBoE 1.1 - Win7
+* CBoE 1.1 - XP
+* CBoE 1.1 - Vista
+* CBoE 1.1 - Ubuntu 10.04 LTS over WINE
+
+== Gameplay Issues ==
+To report any gameplay issues or errors, please see the relevant pages in the Links section of this file.
+
+== SDF Reference ==
+0,0 - Intro Text
+0,2 - First Goblin Overlord Death
+
+== Links, support, etc. ==
+The following web pages are relevant to the scenario:
+
+=== Download Locations ===
+* The Blades Forge - http://blades.ermarian.net
+* Rathole - http://rathole.calref.co.cc
+* TrueSite for Blades - http://truesite4blades.com
+
+=== Support ===
+* Calamity Refuge - http://calref.co.cc
+* Spiderweb Software Message Boards - http://spiderwebforums.com/forum
+
+=== Contact the Designer ===
+Email - sylae@calref.co.cc OR emigrantofcorellia@gmail.com
+Fora - Member 12899 on SpidWeb OR Member 16 on CalRef
+AIM - Telaverin
+
+== A Quick Message ==
+While this is technically my second scenario, I consider it my first, since Cleanup of Skalmir Cave (The first) was a really bad scenario. No, really. It was horrid. If I could erase its very existence from the Internet, I would. However, PtT feels to me like it'll be a lot better. I went through all sorts of hell to get this in on time.
+
+This scenario was part of the Randomized Scenario Contest. I was in college at the time the contest began, but I lost my flash drive for two weeks (about half of the original contest design time). I found it in a pair of socks. Around this same time I was dealing with a lot of crap in Real Life, including finding a new host for my website and dealing with familial troubles. Anyway, I got Pilgrimage done, sure, not as well as it could've been, but it's done. More than I can say for a lot of my other ideas.
+
+I was originally planning on making it friendly for both singletons and group parties (I personally prefer singletons myself) but that never really panned out. So, if you play as a singleton, pretend you have severe multiple personality disorder or something.
+
+But most of all, have fun, and feel free to rate this sucker in the CSRs...
+
+Thanks,
+Sylae.

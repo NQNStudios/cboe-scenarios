@@ -1,0 +1,59 @@
+Ominous Tides: Lost City of Arillin.  
+Party: Should be played with a party just out of Ominous tides: Wrath of the Claw, i.e. a party of level 8-11 with average items.
+
+Walkthrough:
+
+Meeting Camp: Not much to do here.  Get the items in the boxes, rest if you need to and go listen to the announcement.
+Entry Cave, Level One: Bit of a portal puzzle.  Not much to it.
+Level Two: Need to get to the secret portal.  Go through the secret door at 40,29.
+Level Three: Fight the elementals and go through the exit.
+Northern Barrier Fort: Pull the levers at 35,33 12,30 and 27,15.
+Southern Barrier Fort:Go through the secret doors into the side (they aren't hard to find) and get rid of all the crates and/or barrels then go through the secret door at 21,31 or 22,31 and onto the white dot.  The one on the left checks for crates and the one on the right checks for barrels.  It will create a path across the void.  Go through the secret door at 23,42 and sit on the throne.  It will summon some nasties and get rid of some outdoor barriers.  P.S. Use the scrying stone or magic map then check out the auto map.  It's funny looking.
+Tower of Air: Friendly town where you can buy stuff.  Do the mission for Avrilde to get the air key and some health or xps.  Talk to malevgor about 'revenge' to get him mad then kill him to complete the mission.
+Tower of Fire:  Go west while killing the fire elementals.  Fight the quickfire elementals at the end then check the box to get the key.
+Tower of Water: pretty straightforward.  Get the boat, go through the cracked building and into the undamaged building.  Fight the nether beings and go through the secret passage at 6,29 and check the chest.  
+Tower of Earth: a bunch of portals to go through, each with its own hardship to pass.  The nether lord is pretty tough, but shoudn't be too much so with calia and Q-29-Z tp help.
+Tower of Ice: Like the tower of air but with less shops.  The mission that Melinnron sends you on is in the tower of magma, and cryovera's is in the tower of smoke.  Be sure to do them since you need all the keys.  
+Tower of Magma:  To get the cooling talisman go tho the end of the narrow passage.  Talk to the nether lord to get the talisman and check the box to get the magma key.  Be sure to sanctify the evil altars, you get expeience for doing so.
+Tower of Ooze: Pretty tough, but doable.  Go to the building with the nether beings in the far northwest.  Once you've killed the nether lord and his henchmen, check the altar to find the ooze key.
+Tower of Smoke Level1: just a battle.  If it's too hard to fight, rush for the stairs.
+L2: See level one.  Quickfire elementals live here.
+L3: Really dark.  Go through the secret door and kill the nether lord and the two quickfire elementals, then sanctify the dark altar.  It's kind of weird, but that's how you get the Smoke key.  Once you've killed the nether lord return to cryovera for a reward.
+Tower of Aether Level 1: You need smoke and ooze keys to get in at all, you need the fire, magma and earth keys to get into the nether levels and the air, water and ice keys to get into the memory vault.
+Tower of Aether L2, Memory Vault: Just a plot tool.  Proceed right through but read the dialogue.  'Nuff said.
+L2, Nether Barracks: Make sure the good Aether elementals are right near the door then open it.  Fight your way through or haste the party and rush through.
+L3: Amulet of repair: Go through the portal.  Go northeast through the pillar to avoid the quickfire trap, then go through the portal.  Disarm all of the traps.  Go through the next portal.  Wait for the blade wall to dissipate then look for secret passages in the pillars.  Next Talk to rivaldine and get him to open the door.  Get the amulet then go through the portal back to the first room.
+L3, Avilor's Chambers: Go through the pillars and fight the final battle. Good luck!
+Aftermath: Go back out of the tower of aether and you will be rewarded.  You get 350 moves to go train and buy and sell stuff.
+
+FAQ:  
+Q.I'm trying to get into the tower of smoke but the game won't let me!
+A. You need the ice key.  It's kind of weird.  I suppose it would let you bypass some sort of barrier or ward.
+
+Tips:
+
+1.Quickfire elementals are dangerous creatures.  They have low Health, but if you let them stay around they can do alot of damage to you.  
+2.Be sure to magic map/scry the southern barrier fort.
+3.I MIGHT have left a non-important secret passage in a barrier fort out of the documentation (evil grin).
+4.Be sure to step on pentagrams.  They can do many things.  They are my little element of chaos.
+
+Credits:
+Story: Me
+beta testing: Catherine Joubaud and Scott _______ (sorry folks, I don't think I ever learned his last name)
+Non-basic monsters: Me
+Non basic terrain: me
+graphics:
+Plasma elemental-Me
+Air Elemental-Me
+Sand elemental-Water elemental modified by me
+Ice Elemental-Jeff Vogel, but modified by me
+Water Elemental-Zaloopa
+Aether Elemental 1-Relhan
+Aether elemental 2-Relhan, but modified by me
+Ooze Elemental-HYZ
+
+Ominous Tides: Lost City of Arillin by Joseph Parmalee, 2000
+Email: tiger5@erols.com
+
+
+

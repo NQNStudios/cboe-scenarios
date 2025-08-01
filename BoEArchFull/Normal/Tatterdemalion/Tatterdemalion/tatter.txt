@@ -1,0 +1,54 @@
+FIRST THINGS FIRST: IS THERE A HINT FILE FOR THIS SCENARIO?
+
+	Yes. Write to "tarl@charm.net" if you want it. I think I managed to make the hint file truly cross-platform this time, but we'll see. If you can't read it, let me know and I'll send you a plain-text version.
+
+OKAY. WHAT IS TATTERDEMALION?
+
+	Tatterdemalion is a Blades of Exile Scenario by Tarl Roger Kudrick. This is Tarl's second scenario. His first was the generally well-acclaimed "Islands of the Wheel". But THIS one won the 1998 Scenario Design contest and netted me $500. No, you can't have a loan! 
+
+WHAT LEVEL OF PARTY IS APPROPRIATE FOR THIS SCENARIO?
+
+	This scenario was designed for a party of first-level characters. I know that officially, this is a "high" level scenario. Don't worry. That just means the monsters won't double their hit points until parties get to about 18th level. Your characters will probably not become 18th level, so monsters won't double their hit points, which was my goal all along.
+
+WHAT'S THE GOAL OF THE SCENARIO?
+
+	To join one of Triane's three Groups--the Bodyguards, the Holy Ones, or the Sorcerers--and then stop the Tatterdemalion and any other foes of Triane before the valley of Triane is destroyed.
+
+DOES IT MATTER WHETHER I BECOME A BODYGUARD, HOLY ONE, OR SORCERER?
+
+	Absolutely! The ENTIRE PLOT hinges on this decision. NPCs who are your friends in one version may be your enemies in a second version, and they may not exist at all in the third version. 
+	Each plotline has at least three unique missions, and several shared missions as well. A lot of the shared missions may LOOK alike, but they really aren't. For instance, just because you've solved the ogre cave as Sorcerers doesn't mean you can apply the same solution if you play as Bodyguards. It won't work. And even some of the outdoor encounters which are the same become uniquely challenging because of the composition of your party when you're with each group.
+
+SO REALLY, "TATTERDEMALION" IS LIKE THREE SCENARIOS IN ONE.
+
+	Right. Think of it as a cross between regular Blades of Exile and Diablo, but where the whole plot changes instead of just your own strengths and weaknesses.
+
+ANY OTHER DIFFERENCES I SHOULD KNOW?
+
+	The Bodyguard storyline is rated PG-13, the Holy One storyline is PG, and the Sorcerer storyline is, oh, either G or PG. 
+	Also, one of the stories eventually becomes a comedy, another is a straight drama with an upbeat ending, and the other borders on tragedy. But I'm not saying which is which, and I don't think you can guess from the ratings. 
+
+
+CREDITS:
+
+AUTHOR AND ARTIST: Tarl Roger Kudrick
+
+PRIMARY BETA TESTER: Tony Wilsdon
+
+OTHER TESTERS: Scott Evans, Bethany Granger
+
+ACKNOWLEDGEMENTS TO:
+
+	Jeff Vogel, for the Talking Spiders, and for the Blades of Exile engine, and more generally, for the years of work he's put into the whole Exile series. Everyone else at Fantasoft deserves credit too, but I don't know them by name.
+
+	Jon Richards, who let me use his "Ground-ridden Vulture" as the basis for my "Avian Royal".
+
+	Katie Foreman, who inspired this whole thing nine months ago. She said that the problem with Exile games is that once a party gets to be high enough in level, all high-level parties start to look the same. I thought "what if you made a scenario where the parties HAD to be different somehow?" A month later, I had a set of ideas, and eight months later, I had "Tatterdemalion".
+
+	My beta testers for "Islands of the Wheel" (Scott Evans, Kate Hunter, and Sean Rea), who taught me things about scenario design that I haven't forgotten, and I hope it shows.
+
+RELEASE DATE:
+
+Version 1.0.0: October 30, 1998. No known bugs.
+
+Version 1.0.1: November 26, 1998. I discovered that I won the Scenario Contest, but players told me there were still about eight very minor, cosmetic flaws (not really bugs) in the game. So I cleaned them up, and changed all references to my mailing address, and re-released the scenario. 

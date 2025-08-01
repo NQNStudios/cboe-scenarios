@@ -1,0 +1,59 @@
+"A Band of Wanderers" is a small level 1 sceanrio with only two outdoor areas and 
+7 towns. It is intended for begining parties. I tested with the 
+default party. Feel free to play with any level one parties 
+you have. Singletons should be no problem (although I did not test 
+with one). There are no mage level checks.
+
+
+I know that there is cave floor visible at the edge of some towns. When I first drew 
+them I did not quit eunderstand how town boarders worked. I just do not have the 
+time or inclination to redraw a number of towns. I am sorry about that, but please
+do not email me about it.
+
+Please email me at eseme_r@yahoo.com with any otehr comments you have. If 
+they reach me bofore April 20 2002, I will be able to mention player 
+responses in the honors paper I am writing concerning this project.
+
+Thanks again!
+
+Eseme
+
+P.S.- the full text dump was worth the hour it took to spell check!
+
+Graphic Credits:
+
+The following were found at Koth's site  
+http://www.srcf.ucam.org/~eet23/
+
+Townsperson. by Y Z Heng 
+
+Woodswoman. by Haneda Yoshiyuki  
+
+Beaker. by Brett Bixler
+
+Push Cart. by Elvin Windleaf
+
+Townsperson Male by Motrax
+
+The following were found at Drakefyre's site 
+http://www.geocities.com/boe_drakefyre/boemonsters/
+
+sage by HYZ 
+
+
+Luz Piazuelo was also kind enough to send me her nephil child graphic.
+
+
+I also found the step by step advice and template for making custom 
+graphics at Rabbitlord's site very useful.  
+http://members.tripod.com/lair-of-blades/
+
+
+Beta testers:
+
+A big thank you to everyone who beta tested my scenario and sent me 
+comments. Thanks to Sarachim, iambobsushi, Terror's Martyr, and Xex.
+
+Special thanks goes to The Creator, who sent me PAGES of detailed and 
+nit-picky comments which were very helpful. Not to mention playing it again later
+to look at the changes I made. Wow, thanks for the warm welcome to the design community!

@@ -1,0 +1,53 @@
+Blades of Exile Scenario
+
+Title - Amazonian Saga -
+
+by HANEDA Yoshiyuki
+haneda@dragon.mm.t.u-tokyo.ac.jp
+
+------------------------------
+Small Descriptions
+
+The story is 100% original (non-Exile-related).
+Your ship was attacked by catapults and you're stuck on
+an island. The people in the island are led by women.
+The island has three tribes - Amazons, Immigrants and
+Woodswomen. And all of them are suffering from carnage
+by one man, who's called Death Header.
+
+The island of Amazons is heading for death...
+
+Level - Middle
+Rate - PG
+
+------------------------------
+Hints
+
+For hints and comical images of Amazonian Saga...
+Access to http://members.xoom.com/bladesman/a-saga.html
+
+For Japanese players, there's also Japanese Support Center.
+http://bahamut.mm.t.u-tokyo.ac.jp/~haneda/boe/a-saga.html
+
+------------------------------
+History
+
+v0.5.5 The First Half is made. Only two women played it.
+v0.8.5 Released and awarded. In fact, it lacked a good ending.
+v1.0.1 The 2nd release.
+       'Area Name' descriptions are corrected.
+       Some empty boxes now contain items.
+       Some changes in the custom graphic sheet.
+       Much more detailed ending is added.
+       Many small bug fixes/grammar corrections.
+v1.0.2 The 3rd release.
+       Word of Recall bug is fixed. (I think it's an ugly fix)
+       Some dialogues are shortened.
+v1.0.3 The 4th release.
+       Word of Recall bug wasn't really fixed in v1.0.2, so
+       I finally fixed it.
+       Some dialogues are altered.
+------------------------------
+Thank you
+
+P.S. Sorry for all Samantha, Nancy and Mary who play this game.

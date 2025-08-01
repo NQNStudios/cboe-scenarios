@@ -1,0 +1,62 @@
+"Redemption" is a Blades of Exile scenario by Ian Klinkhamer, [C] 1999.
+It is designed for high level parties, and is rated R.
+
+If you have any comments, questions, concerns, or complaints, feel free
+to contact me at: klinkham@juno.com.  Before playing, please make sure 
+the graphics are working properly.  Ask the sheep for more information.
+
+There are two ways to play this scenario, to *FINISH* and to *WIN*.
+Finshing should prove relatively easy.  Winning should be very
+difficult.  Finishing is likely to leave you wondering exactly what
+the heck happened, and is intended to leave many questions unresovled.
+
+There are many distinctions between the two paths, the most notable
+being the ending.  Each ending will inform you of what you have
+achieved, indicating whether you have either finished or won the
+scenario.
+
+As of the current version, 1.01, the Hall of Fame is still open.  The
+Hall of Fame consists of those players who were the first to go above
+and beyond the most basic aspects of this scenario, and truly explore
+the world.  There are four wings of the Hall of Fame.  The first wing
+will contain the first ten players to win the scenario.  To enter this
+wing, email me with the results that occurred when you won, and how you
+got there.  The second wing consists of the first five players to 
+correctly identify the seven characters who appear in both "Of Good And 
+Evil" and "Redemption".  To enter this wing, email me with their names,
+and where you found them.  The third wing consists of the first five
+players to recover the Amulet of Doran.  To enter this wing, email me
+telling me how and where you recovered the amulet.  The final wing 
+consists of the first player the enter all three other wings.
+
+To see the current status of the Hall of Fame, visit it at:
+http://members.dencity.com/Alcritas/redemhall.html
+
+My BOE Page, The Lyceum, can be found at:
+http://homes.arealcity.com/Alcritas/index.html
+
+*Until each particular wing of the Hall is filled, I will NOT
+answer questions about how to complete the requirements of that
+hall.  For example, until five people recover the Amulet of Doran,
+I will not answer any questions about how to recover the Amulet of Doran
+I will answer general, how-to-finish questions.*
+
+
+I'd like to thank all the people that helped make this scenario possible
+- my very capable beta testers, Peter Hawkinson, Andrew Barton, and
+Tharma. 
+
+I'd also like to thank the artists who helped me create this world - 
+Relhan, Tim Farland, Birdy, Dante, and especially Zaloopa.  Below you 
+will find a list of which graphics were created by which artists.  All
+custom graphics not listed are either originals or edits by me.
+
+
+Relhan created the Mill Wheel, Order Mage, and Death Mist.
+Tim Farland created the Grey Werewolf and the Banshee.
+Draxis created the Red Rune and the Desert Terrain.
+Dante created the Pick Axe.
+Birdy created the Cardinal, which I edited into the Crow.
+Zaloopa created the Scarecrow, Portal, Sack of Wheat, the two
+Dead Mages, and the severed head.
+

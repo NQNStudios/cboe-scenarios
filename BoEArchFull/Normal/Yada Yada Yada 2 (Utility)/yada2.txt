@@ -1,0 +1,8 @@
+Thanks for downloading Yada Yada Yada, Part II!  This is a short,
+utility scenario by Alcritas (boelyceum@hotmail.com).  All of the 
+graphics contained in this scenario are by Alcritas, and may be used
+freely, except the stairway graphics, which are by Drizzt.
+
+If you are on a Mac, you'll need to convert the graphics file into
+a .meg file.  Good luck with that.
+

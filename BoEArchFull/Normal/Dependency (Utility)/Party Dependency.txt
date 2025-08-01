@@ -1,0 +1,222 @@
+
+MAKING THE PARTY DEPENDENT ON SOME SUBSTANCE
+
+A BoE Programming Sequence by Brett Bixler
+
+PURPOSE
+
+The purpose of this programming sequence is to make the party dependent on some substance for their survival. This particular example will use water as the dependent substance. You can substitute virtually any substance you desire, however. Please don't use this to make the party drug dependent. Drug dependency is a serious issue and should never be treated lightly, even in a fantasy game. The whole Scribbane issue in Exile III always bothered me a great deal.
+
+
+SETUP
+
+Timers
+
+Set a Global General Timer, 1200 moves, CALL Global Spec 0
+
+
+Special Items
+
+Create 10 Special Items (1 = 1 Unit of Water to 10 = 10 Units of Water)
+Special Item 1 Description = "You should replenish your supply as soon as possible!"
+Special Item 2 Description = "You are running low."
+Special Item 3 Description = "You are at 1/3 capacity."
+Special Item 4 Description = "You are at slightly less than half capacity."
+Special Item 5 Description = "You are at half capacity."
+Special Item 6 Description = "You are at slightly more than half capacity."
+Special Item 7 Description = "You are at roughly 2/3 capacity."
+Special Item 8 Description = "You are at 3/4 capacity."
+Special Item 9 Description = "You are at slightly less than full capacity."
+Special Item 10 Description = "You are at full capacity."
+
+As the party uses up a Unit of Water (based on a set time interval) the current special item 
+(say Special Item 10) is removed and the next lowest Special Item (Special Item 9) is given to the party.
+Finding a source of water at any time removes all Special Items 1-10, then gives the party Special Item 10. 
+In other words, the party fills up on water units.
+
+
+Stuff Done Flags Needed
+
+SDF 240,0 is the counter for Units of Water the Party current is carrying. SDF 240,1 and 240,2 
+are used to illustrate examples of water acquisition routines. 
+
+When SDF 240,0 = 20 the party has 10 Units of water.
+This counter is decremented by 1 via a global set timer interval until it reaches 10, 
+indicating no water remains.
+
+Finding a source of water at any time resets this counter to 20.
+
+The counter continues to decrement by 1 after the party runs out of water, causing the following effects:
+
+At SDF 240,0 = 10 there is no water. A warning message appears.
+
+At SDF 240,0 = 9 health damage occurs between 8-20 points. Another warning message appears.
+
+At SDF 240,0 = 8 health damage occurs between 18-50 points and the party is dumbfounded. 
+A final warning message appears.
+
+At SDF 240,0 = 7 the party dies.
+
+
+Water Sources
+
+There are two types of water sources: limited and unlimited. 
+A limited source may be usable only one or possibly several times. 
+An unlimited source is usable indefinitely.
+
+
+Creating a Limited Water Source
+
+To create a limited source, use a Stuff Done Flag of your choice, assign it an initial value, 
+and decrement it by 1 each time the party uses the source. When the SDF = 0, the source is depleted. 
+For example, if you were using SDF 240,1 at a limited water location and wanted water available 
+to the party only three times, you would set SDF 240,1 = 3 via a one-shot node 
+either at the beginning of the scenario, or when a special is stepped upon:
+
+0 One-Time and Set [240,2]
+1 Set SDF 240,1=3
+
+Then use this code sequence within the town/dungeon/outdoor location:
+
+0 IF SDF 240,1 >= 1 GOTO 2; IF < 1 THEN GOTO 1
+1 Display Msg. ("This water source has dried up! Too bad."); END
+//Set Water Unit Counter to Max.
+2 Set SDF 240,0=20 ("You top off your water supply! This water source is drying up; 
+it may not be of use in the future.")
+//Now Call the Global Water Unit Routine.
+3 Increment SDF 240,1 by -1
+4 Call Global Spec 0; END
+
+
+Creating an Unlimited Water Source
+
+When the party arrives at an unlimited water source (a lake, river, etc.), use this code sequence:
+
+0 - Set SDF 240,0 = 20 ("You top off your water supply!")
+1 - Call Global Spec 0; END
+
+Global Code
+
+//Sequence for using up a unit of water. Called every 1200 turns.
+//Remove all Special Item Water Units.
+0 Give Special Item 1 "1 Unit of Water" (Take Away)
+1 Give Special Item 2 "2 Units of Water" (Take Away)
+2 Give Special Item 3 "3 Units of Water" (Take Away)
+3 Give Special Item 4 "4 Units of Water" (Take Away)
+4 Give Special Item 5 "5 Units of Water" (Take Away)
+5 Give Special Item 6 "6 Units of Water" (Take Away)
+6 Give Special Item 7 "7 Units of Water" (Take Away)
+7 Give Special Item 8 "8 Units of Water" (Take Away)
+8 Give Special Item 9 "9 Units of Water" (Take Away)
+9 Give Special Item 10 "10 Units of Water" (Take Away)
+
+//Determine & give current Units.
+//10 Units
+10 IF SDF 240,0 >= 20 GOTO 11; IF < 20 THEN GOTO 13
+11 Give Special Item 10 "10 Units of Water" (Give)
+12 Display Sm Msg ("You have 10 Units of water."); GOTO 50
+
+//9 Units
+13 IF SDF 240,0 >= 19 GOTO 14; IF < 19 THEN GOTO 16
+14 Give Special Item 9 "9 Units of Water" (Give)
+15 Display Sm Msg ("You have 9 Units of water."); GOTO 50
+
+//8 Units
+16 IF SDF 240,0 >= 18 GOTO 17; IF < 18 THEN GOTO 19
+17 Give Special Item 8 "8 Units of Water" (Give)
+18 Display Sm Msg ("You have 8 Units of water."); GOTO 50
+
+//7 Units
+19 IF SDF 240,0 >= 17 GOTO 20; IF < 17 THEN GOTO 22
+20 Give Special Item 7 "7 Units of Water" (Give)
+21 Display Sm Msg ("You have 7 Units of water."); GOTO 50
+
+//6 Units
+22 IF SDF 240,0 >= 16 GOTO 23; IF < 16 THEN GOTO 25
+23 Give Special Item 6 "6 Units of Water" (Give)
+24 Display Sm Msg ("You have 6 Units of water."); GOTO 50
+
+//5 Units
+25 IF SDF 240,0 >= 15 GOTO 26; IF < 15 THEN GOTO 28
+26 Give Special Item 5 "5 Units of Water" (Give)
+27 Display Sm Msg ("You have 5 Units of water."); GOTO 50
+
+//4 Units
+28 IF SDF 240,0 >= 14 GOTO 29; IF < 14 THEN GOTO 31
+29 Give Special Item 4 "4 Units of Water" (Give)
+30 Display Sm Msg ("You have 4 Units of water."); GOTO 50
+
+//3 Units
+31 IF SDF 240,0 >= 13 GOTO 32; IF < 13 THEN GOTO 34
+32 Give Special Item 3 "3 Units of Water" (Give)
+33 Display Sm Msg ("You have 3 Units of water."); GOTO 50
+
+//2 Units
+34 IF SDF 240,0 >= 12 GOTO 35; IF < 12 THEN GOTO 37
+35 Give Special Item 2 "2 Units of Water" (Give)
+36 Display Sm Msg ("You have 2 Units of water."); GOTO 50
+
+//1 Unit
+37 IF SDF 240,0 >= 11 GOTO 38; IF < 11 THEN GOTO 40
+38 Give Special Item 1 "1 Unit of Water" (Give) ("You have only 1 Unit of water! 
+You better replenish your supply as soon as possible!")
+39 Display Sm Msg ("You have 1 Unit of water."); GOTO 50
+
+//Out of water
+40 IF SDF 240,0 >= 10 GOTO 41; IF < 10 THEN GOTO 42
+41 Display Msg ("You are out of water! You better replenish your supply as soon as possible!"); GOTO 50
+
+//Out of water a second time
+42 IF SDF 240,0 >= 9 GOTO 43; IF < 9 THEN GOTO 44
+43 Do Damage 3d5 + 5; Type = Physical 
+("You are out of water! Thirst racks your bodies as dehydration set in! You better replenish your supply as soon as possible!"); GOTO 50
+
+//Out of water a third time
+44 IF SDF 240,0 >= 8 GOTO 46; IF < 8 THEN GOTO 49
+45 Do Damage 8d5 + 10; Type = Physical 
+("You are out of water! Thirst racks your bodies as severe dehydration continues! You are near death! You MUST replenish your supply as soon as possible!")
+46 Affect Dumbfounding by 3 (Adds); GOTO 50
+
+//Party is dead, Jim.
+47 Kill/Raise Dead; Dust (Kill) 
+("Falling to your knees in a haze of dry agony, the world goes black around you... You die of dehydration.")
+48 Kill/Raise Dead; Dust (Kill)
+49 End Scenario; END
+
+//Decrement SDF 240,0 by 1 to indicate a drop in Units
+50 Increment SDF 240,0 by -1
+//Play a swallowing sound
+51 Play Sound 56; END
+
+Possible Variations
+
+Many exist. Here are the more obvious:
+
+* Instead of 10 units, use only 5 or less. Less coding, less use of Special Items. 
+The current programming sequence uses 1/5 of the available Special Items and a large chunk of global code. 
+This may cause difficulties in larger scenarios.
+
+* Prolong the agony of the party after they run out of the substance. 
+Currently, the party dies when lacking the substance after being checked three times. 
+With the current setup, you could add as many as 7 more checks.
+
+* Make the "punishment" for not having the substance more severe.
+
+* To increase the challenge, decrease the global timer from 1200 to 900, 700, etc. 
+This will increase the use of the substance.
+
+* Add code to turn the global timer off and on. 
+In this example, you may decide to check the water supply only in desert conditions.
+
+* Have the supply robbed from the party, forcing an immediate panic. Great chase possibilities here.
+
+* Instead of making the substance naturally available, force the party into quests, etc. to acquire it. 
+For example, oxygen for the Chlorine Swamps.
+
+* Provide places where only a Unit or two is available.
+
+
+See the Code Sequence in Action
+
+The code sequence is programmed in the accompanying "Water" scenario, 
+Town 0 and the Global Code for the scenario.

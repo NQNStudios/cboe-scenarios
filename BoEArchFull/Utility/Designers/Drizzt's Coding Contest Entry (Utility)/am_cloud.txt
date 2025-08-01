@@ -1,0 +1,97 @@
+Creating a Special Spell that Simulates An Anti-Magic Cloud Spell
+
+A BoE Programming Sequence by Chris Risberg
+
+PURPOSE
+
+The purpose of this sequence is to simulate an Anti-Magic Cloud cast by a monster.  Special Spells
+are of course widely used and well known, but this sequence, first used in my scenario Shadow Of 
+The Stranger, creates a new challenge for the party.
+
+The walls that block a party via a Can't Enter Special Node were first used (to my knowledge) by
+Alcritas in his scenario Lamentations, and documented in the Designer's Forum article
+"Some More Innovations".
+
+NOTES
+
+As there is no Special Node for placing an Anti-Magic Cloud, this is faked by placing a creature
+in the walls around the party that radiates Anti-Magic fields.  These creatures are invisible, have
+no attacks, and set to radiate 100% of the time.  As it is not intended that the party be able to 
+kill these creatures, they should be immune to everything and given maximum health and armor.  
+They need to be Hostile and able to move, otherwise they won't radiate any fields.
+
+In order to allow these creatures to move, the walls around the party (a narrow hallway is by far 
+the best application for this) need to be Walk Through, Opaque, but call a Can't Enter Local 
+Special Node.  In this way the creatures can walk through the walls and radiate freely, but the 
+party is blocked.
+
+To prevent these creatures from leaving the walls, the terrain around them must be either Blocked
+or have the Special Property Blocked To Monsters.  This means that the hallway that the party is 
+in must also be Blocked to Monsters, and that "normal" monsters should also be blocked from the
+squares next to these special walls, otherwise they too will be able to roam through these walls
+as well.  In the example included, there are monsters in the hallway with the party, but they
+are given the Can't Move property to avoid this problem.
+
+LIMITATIONS
+
+As mentioned above, a narrow hallway is probably the best implementation for this special spell,
+otherwise the party can easily move away from the Anti-Magic cloud.  A two-square wide hallway
+could also be used, with the monsters on either side.
+
+Caution should also be used with monsters nearby that can summon other creatures, something I
+carelessly overlooked in my scenario.  These summoned monsters could be placed next to the 
+special walls, creating "magical" Shades or Sliths or whatever that can seemingly walk through 
+walls.
+
+TOWN AND SPECIAL NODES
+
+Monsters of type 215 (see below) are sprinkled in the walls around the party where the effect is
+desired, and given the property Special Encounter Group #2.  The rest of the hostile monsters are
+Special Encounter Group #1.
+
+Hallway is Blocked To Monsters, and any monsters that appear in the hallway (to block the party's
+progress), must be set to Can't Move.  Any open terrain on the other side of the walls must also
+be Blocked To Monsters.
+
+Wall Properties:
+
+Terrain number:  249
+Terrain Type Name:  Basalt wall
+Terrain Blockage:  Walk through, Opaque
+Special Properties:  Call local special
+Number of special to call:  50
+
+Monster Properties:
+
+Monster number:  215
+Monster type name:  Basalt wall
+level:  40
+health:  2500
+speed:  1
+type:  Important
+attacks:  all 0
+attitude:  Hostile A
+Special Ability:  Invisible
+Create Monster/fields:  Radiate antimagic fields 100%
+Resistances:  immune all
+
+37 LOOKING BLOCK GOTO 52   // Called when party steps on space in hallway (24,10)
+52 Destroy All Monsters (Friendly) GOTO 38   // Not important for Special Spell sequence
+38 One-Time Town Enc [22,6] 1, "You are attacked!" GOTO 42   // Place hostile monsters
+42 Change Terrain 24,8 to 'Closed Portcullis' GOTO 33   // Party is trapped in hallway
+33 Set SDF (22,5) = 0 GOTO 39
+39 Display Sm Msg "Empire Wizard Casts:  Anti-Magic Cloud" GOTO 40
+40 Play Sound 25 GOTO 41   // Cast Mage Spell sound
+41 One-Time Town Enc [-1,-1] 2, GOTO 44   // Places wall monsters
+44 . . .    // Nodes continue, but not relevant for AM Cloud special spell
+50 Can't Enter (no enter)   // Called whenever party moves into a wall around the hallway
+
+EXAMPLE
+
+Enter the fort (town 0) just to the west of the starting town, and pass through the portcullis 
+to start the battle!  Do not play in Debug Mode, otherwise the wall monsters will not radiate 
+Anti-Magic clouds.  In this example the monsters have been significantly weakened, but in my
+scenario the Empire Centurion and the others in the hallway are rather tough, meaning the party
+must spend several turns hacking, without the benefit of Major Blessing or Haste spells.
+
+Once you are finished, the exit is through the southern passage.

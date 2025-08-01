@@ -1,0 +1,29 @@
+Thank you for downloading the best scenario ever, "Terror From The Park" by The Almighty Doer of Stuff!
+
+It's intended for parties of any size and any level.
+
+           |***************|
+Here's the |***IMPORTANT***| info:
+           |***************|
+
+Here are the files in this folder:
+
+ TERRPARK.EXS - The actual scenario. Put this in your BLADSCEN folder (or whatever folder holds the scenarios in your version of BoE).
+ TERRPARK.sit - This contains three files: 
+         terrpark.meg - the graphics file for Mac computers, which should be decompressed and placed in the same folder as TERRPARK.EXS
+
+                                   |**************|
+         TERRPARK.EXS - This is an |***OUTDATED***| version of this scenario which you SHOULD NOT USE!.
+                                   |**************|
+
+                        I can't open the SIT in Windows without corrupting the MEG graphics file, so I can't change the EXS inside it.
+                        If you do for some reason want to use the old version (1.1.0), it will still work properly.
+                        However, I say this is important because I changed the content rating from G to PG.
+                        I don't want to be harrassed or sued by angry parents for traumatizing their kids with my graphic descriptions
+                        of vomiting, grievous injury and death because they thought it was appropriate for young children.
+           readme.txt - An older version of what you're reading. Ignore it.
+ terrpark.bmp - The graphics file for Windows. Put it in the same folder as the scenario.
+IMPORTANT.txt - What your are reading right now.
+
+
+Have fun!

@@ -1,0 +1,34 @@
+You should start with level one characters.
+Alendrica: in Alendrica, the main objectives when you first get there are to talk to carmen and Leria (and possibly Q-29-Z) about the claw.  Stuff: in the dressers at 25, 22; 22,22;22,21; and 24,21.  Go through the secret door at 11,15 to get a weapon. There is another secret door at 4,27 which contains some traps and damaging floors, plus a really important special item (or you could just ask carmen about authorization or treasury).  Also, you can get a pretty good potion at 40,29.  Carmen is at 7, 33 and Leria is at 11,35.  
+Outside there will now be an encounter with a group of claw.  After this, you should proceed to the small claw base, which is about thirteen steps south-south-west. 
+small base: pretty self explanatory.  Rule of thumb throughout the game: always check the area around where the leaders were, as there are often spells/special items there.
+Every time you beat a claw base in this section of the world, go back to carmen for a 250 gp reward.  Next you should head to the claw river fort.
+river fort: lots of archers and spell casters, including the nasty ‘mega archer’.
+next up is the claw base (1): this dungeon is divided into two sections: the breeding pit and the spell casters.  The breeding pit holds a lot of monsters, but none have very much power or treasure.  The spell caster chambers have a nasty fight, but have plenty of treasure.   Now go back to Alendrica and go to carmen.  She’ll give you 500 gp and the password to Rammia.  Now leave the town.  Battle!  If you win, you should go south to Rammia and talk to commander Jacynth.  She says that when you go to the claw cave (if you don’t know what I’m talking about, talk to Q-29-Z) and take a boat (and she’ll also teach you spells).  Take it to the mysterious altar, up north.  Here, a bit more of the plot will be revealed to you, and you get some more xp.  Next go to Zerron ruins, to the southwest.  There isn’t anything necessary to win, but there are some nice items. 
+next you should get trained and get your items IDed, then you should head for the portal that leads to  the claw lands.  You will find a cave where you'll fight a large battle, and then afterwards you can proceed through.  
+Claw outpost: get in, beat the archmage, get the amulet, and leave through the other exit!
+After this, you enter a big, nasty battle (BNB), and either fight it or run away.  Don’t run away, you’ll regret it.  
+Claw base II: not particularly significant.....
+Claw Base III: not much to say, except, when it comes to the equipment room, there are diamonds in the rough (alright, you want spoilers, you got 'em one of the helms is steel, the others leather.  One of the spears is iron, the others stone.)
+Major Base, Level 1:  Go through one passage and defeat all of the claw therein.  Unlock the door and go up the stairs.  Tip: don’t unlock more than one passage unless you want a big fight!
+Major base Level 2:A little portal puzzle.  This kind of spoils it, but the portal to take you to the portal that takes you to the stairs is at 11,24.
+Major base Level three: tough fight.  Take out the arch-spellcasters, then go for avilor.
+Go through the Portal, which will take you to near the Claw’s Abode.  You will fight a group of Claw, with the help of some Storm Bringers just outside of the Sanctum. 
+Claw’s Sanctum: Go on the conveyor belts, they’ll take  you to the claw.  If you don’t have the special items you need to get in, then by all means you shouldn’t be this far.
+I hope you have Avilor’s Ring, because if not the final battle will be Really hard.  After the fight: talk to Calia, if she’s there, but either way get the prismatic blade.  It’s one nice item.
+Warning: you must get all three claw staves and the amulet of the claw (which are in the claw river fort, small claw base, claw base 1, and the claw outpost) or it will make the game unwinable.
+Credits: 
+Alpha testing-Me
+Beta testing-Andrew Barton
+Green wall graphic-DRK Draxis
+Waterfall-Jon Richards
+Hive/breeding pool-Me
+
+Ominous Tides: Wrath of the Claw by Joseph Parmalee in 1999 a.k.a. Ner-Vyle a.ka. Garzahd.
+
+Installation: 
+Put Omintide.exs and Omintide.meg in the scenario folder, run blades of exile, and choose custom scenario.
+*IMPORTANT*  The scenario will turn up in the custom scenario menu as scen name, but it will say my name and email address, which should be tipoff enough.
+
+
+

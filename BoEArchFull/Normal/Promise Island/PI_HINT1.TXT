@@ -1,0 +1,47 @@
+Promise Island - Goldtooth McGraw's Cave Lever Puzzle Hint/Solution.
+
+Most of the scenario should be fairly easy to figure out (I personally don't
+like playing games that make it too difficult).  The one place that may catch
+you is getting into Goldtooth McGraw's cave (see hint below).
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+The lever puzzle used to get into the cave is a binary number.  You are told
+what number you need by the sign by the gate.  By inspecting the signs on the 
+wall behind the levers, you will see that the lowest lever represents the
+least significant bit (bit 0) up the the upper lever lever which represents
+the most significant bit (bit 7).  When you pull a lever, it toggles the bit
+it represents to one or back to zero.  The levers all start in the zero
+position.  By stepping out of the cave, then back in, the levers are reset 
+back to the zero position (solution below).
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+The binary representation of 221 is (starting with most significant):
+ "11011101"
+So to open the gate, you need to (starting from the bottom lever up and in the
+zero position): pull, skip, pull, pull, pull, skip, pull, pull.
+
+-----

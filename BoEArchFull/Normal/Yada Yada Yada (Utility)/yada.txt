@@ -1,0 +1,50 @@
+
+Mac Users!  You will need to create a MEG file for this
+scenario.  However, the graphics in it are irrelevant (so
+long as they're 40 rows or less).  Just make a copy of
+the "Valley of the Dying Things" meg, and rename it
+yada.meg.
+
+"The Debug Check"
+
+The principal things to remember for the Debug Check are:
+
+1. Make sure you place the two creatures somewhere the party 
+(or quickfire the party unleashes) can get to.  The best place
+is a single, enclosed room.
+2. Make sure that either one monster is always guaranteed to lose
+the fight, or that both monsters have the same life flag.
+3. Make sure the monsters are set to types that will fight each
+other.
+4. Make sure the monsters can see each other.  In dark areas,
+include a light source near them.
+5. Finally, make sure the party cannot progress without the
+key stuff done flag being set to 1.
+
+Obviously, customization of "The Debug Check" is entirely up
+to you.  You can attempt to integrate it into the scenario proper
+(See generally "An Apology") or just leave it lying out there
+with no justification whatsoever ("Falling Stars").
+
+
+"The Shadow Effect"
+
+Things to keep in mind here:
+1. It works best on PCs.  MAC users see a bunch of funky colors.
+2. It needs a graphics file to operate.
+3. You can play around with terrain, but I've found that often
+becomes nothing more than headache.  Still, if you can find a
+good use, go for it!
+
+
+"The Way Out"
+Things to keep in mind here:
+1. Make sure the party either (A) starts with "The Way Out" or
+(B) gains possession of it very early on.
+2. Make sure you've checked the "Special Item Can Be Used" box.
+
+The coding for the way out:
+(Where the special item calls scenario special node #1)
+1. Display Dialogue, "Are you sure you want to quit the scenario?"
+Yes/No Options.  If yes, go to 2.  If no, do nothing.
+2. End Scenario.

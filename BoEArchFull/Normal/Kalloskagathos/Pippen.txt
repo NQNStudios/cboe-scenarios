@@ -1,0 +1,72 @@
+
+Thanks for downloading Kallaskagathos!
+If you have any comments, questions, or complaints,
+feel free to write me at alcritas@att.net.
+
+I'd like to thank my beta testers, Stephen Masel, Skyle,
+Andrew Barton, and Kate for all their hard work.  I'd also 
+like to thank I'd like to thank DRKDRAXIS (Pulsing Rune) 
+and Tim Farland  (Fireplace) for allowing me to use their 
+custom graphics.  All other custom graphics were taken 
+from Jeff Vogel's "Valley of the Dying Things".
+
+
+WARNING! SPOILERS BELOW!
+
+FAQ's 
+
+1. What the heck is with this scenario anyway?
+
+The scenario deals with the death of Lord Edwin
+Pippensworth, whose murder you try to solve.  But,
+there's a twist - there are 16 different versions
+of the murder. Everytime you enter the scenario,
+you will be randomly placed in one of the sixteen
+different versions.  (You can control which version
+you are placed in by saying "CHAOS" to Becker, and
+then following his instructions)  The versions don't
+vary much - the motives and history of the characters
+are always the same.  The only thing that changes
+is who the killer(S) is/are, what his/her/their motive
+was, and how to catch them.
+
+
+2. What's with the title?
+
+Kalloskagathos means Nobleman, literally 
+beautiful and bold.
+
+
+3. What's with this forest?  I wander and
+wander, and can't seem to find anything.
+
+Picture the forest sections like this :
+
+0
+1 2 3
+4 5 6
+7 8 9
+
+You enter in section 7, that's where Roger
+and the stables are.  Other than section
+7, there are only four interesting things
+in the forest - a wolf den at 0, the
+entrance to the dark caves at 2, a small hut
+at 6, and the hint node at 9 (more on that
+below).
+
+
+4. I'm stuck!  What should I do next?
+
+Because of the nature of the scenario, it
+would be impossible for me to write a walkthrough,
+because the walkthrough varies from version to
+version, and it's not evident to the player
+what version they are in.  To combat, this
+I placed a special node that, when triggered,
+will provide a fairly detailed walkthrough
+to whatever version you are currently in.
+The node is located on a sign, in section 9,
+at 36,36.
+
+

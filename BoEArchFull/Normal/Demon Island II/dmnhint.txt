@@ -1,0 +1,413 @@
+TABLE OF CONTENTS
+1) Puzzle Solutions
+		a) using coordinates
+		b) Getting through the distortions - Below the Wizards' Cave
+		c) Saving Castle Velius
+		d) Key to Chaos Maze - Under Castle Velius
+		e) Chaos Maze
+		f) Key to Ice Castle - Castle Zerivix
+		g) Ice Castle
+		h) Key to Air Castle - Realm of the Animator
+		i) Air Castle
+		j) Key to Earth Guardian's Forest - Cave with changing walls
+		k) Earth Guardian's Forest
+		l) Password to get in Xebon's Tower - Harold's Crystal
+2) Battle Tips
+		a) general tips
+		b) Under Wizards' Cave - 6 Crystal Guardians
+		c) Top of Castle Velius - Battle with Zerivix
+		d) The Fire Guardian
+		e) Castle Zerivix - Final? Battle with Zerivix
+		f) Ice Castle - The Ice Krakan
+		g) The Animator
+		h) The Air Guardian
+		i) The Earth Guardian
+		j) Xebon's Tower - 6 Dragons
+		k) Xebon
+3) Optional Quests.
+NOTE - Many of the optional quests will not be listed here and the ones
+that are will not be complete solutions.  Why, you ask?  Because they are
+not part of the completion of the scenario (hence the name 'optional') and
+should be figured out on your own.
+		a) The 25 orbs - Stoping the aliens
+		b) How do I get these @#%# spikes to stop hurting me?
+		c) The blue chests
+
+-------------------------------------------
+				Puzzle Solutions
+-------------------------------------------
+a) using coordinates
+		In some of the puzzle solutions in this hint file, you will
+be told of the coordinates of something.  To figure out where it is, use
+the level 1 priest spell Location.  The more you go to the east, the more
+the X value increases, and the more you go to the south, the more the Y
+value will increase.
+
+b) Getting through the distortions - Below the Wizards' Cave
+		To get protection from the distortions so that you can walk
+through them, you need to go to Valgoth's cave (East of Castle Velius).
+When you go below you will encounter 2 puzzles, the one on the right is a
+test of memory.  When you flip the levers they will make different sounds,
+and when you step on the rune it will make several sounds, repeat the
+sounds that the rune makes by fliping the levers.  Can't remember all the
+sounds?  Flip them in this order: (1 is northwest, 2 is northeast, 3 is
+southwest, 4 is southeast) 3 3 1 3 2 4 1, now you will hear more sounds so
+now flip the levers in this order: 2 4 4 2 3 4 1 2 3, now there should be
+an explosion on the rune, step on the rune and a barrier will disappear.
+The right room needs you to turn the 9 objects in the middle of the room
+into the one at the north end of the room (Make them all statues).  To
+change them, you must search the objects.  Search them in this order:
+(Pretend the objects are numbered like on the number keypad on your
+keyboard, northwest is 7, south east is 3, etc.) 4 6 2 9 9 4 4 1 6 3 3.
+Now step on the rune and the statue at the north end of the room will turn
+into an anvil, now you must change the statues into anvils, so search them
+in this order: 8 8 4 4 6 6 2 2 5 5, now step on the rune again and the
+other barrier will disappear.
+
+c) Saving Castle Velius
+		To get into Castle Velius, you need to first need to get
+the Protection Crystal from the Wizards' Cave (To the east).  Once you have
+it, step on the coordinates 52, 42 and you will be asked if you want to
+walk behind the castle, say yes and you will end up on the other side of
+the castle.  Now find the cracked wall and walk through it (Don't cast Move
+Mountains, it is not used in this scenario) to get inside.  As you search
+the castle, you will notice that most of the stairways are blocked by
+barriers, so you will need to climb out the windows (Just walk into them).
+Eventually you will come to an area where you will have to avoid spots on
+the floor that will break, avoid all of them except the very last one and
+it will drop you to an area where you can walk on the clouds.  Soon you
+will end up in the throne room and fight the possessed King Velius (And
+yes, there is a way to win it without killing him, but you will have to
+figure it out on your own).
+
+d) Key to Chaos Maze - Under Castle Velius
+		If you go to the dungeon and talk to the old man, he will tell you about
+a demon carrying a key entering a secret passage in his cell.  You will
+need to get put in jail, so do what he did to get thrown in, go to the top
+of the castle and walk around until you walk onto a weak spot that will
+drop you down into the treasury.  Once you are in jail, you must flip the
+lever by throwing rocks at it.  Once open, run around until you reach the
+old man, he will tell you to search the wall, do so and he will tell you
+the demon had a password but he forgot what it was.  He will mention that
+the demon said something about 33 and 38, so search the coordinates 33, 38
+and you will find that the password is mystique.  Say the password to the
+secret passage and you will enter the fungi caverns.  When you get to the
+level with the huge swamp, you will need to find the area with 2 chests, 2
+small pools, and a dead guy.  Search this area until you find a weak spot
+that drops you down.  From here take the stairway up.  Find the giant slug
+and kill it and you will find the key to the Chaos Maze.
+
+e) Chaos Maze
+		If you get completly lost, you can always cheat and use the
+auto-map.  Find the 2 runes and step on them to dispel the barriers near
+the entrance.  Go up the stairs and find your way through the next maze
+(Don't worry, there are no teleportations this time).  Cast Stealth if you
+want to avoid fighting the enemies.  After a while you will find your way
+to the Fire Guardian.
+
+f) Key to Ice Castle - Castle Zerivix
+		Before you can get into Castle Zerivix, you will need to
+have defeated the Fire Guardian.  Once you get in you will have to solve
+many puzzles.  On the first level, the levers open and close the
+portcullises, the runes and carpets change the barriers to and from marble
+floors, and the chairs change the machines to and from rubble.  In the
+first room, flip the lever, then the rune, then the lever, then the chair,
+then the lever, then the carpet, and finally, the lever again.  In the next
+room, step on the rune (back in the first room), the chair, the carpet, the
+lever, the rune, the chair, and the carpet.  In the next room, flip the
+lever in the southwest room, then sit in the chair in the southeast room.
+In the last room, go to the left and step on the rune, then go to the right
+and flip the lever and step on the carpet, go to the left and step on the
+rune, go to the left again and flip the lever and the chair, and finally go
+to the right and flip the lever and exit out the first conveyor belt.  In
+the 2nd level, go to the machine and get 4 gems.  Drop one gem on the rune
+and the conveyor belt will change directions.  Drop the gem on the conveyor
+belt so that it hits the rune after you are past it, then ride the conveyor
+belt to the south.  Drop both of your remaining gems on the conveyor belt,
+making the second one follow right behind the first one.  Go to the machine
+and get 7 more gems.  Drop 3 gems on the southern conveyor belt so they are
+following right behind each other, stand right in front of the conveyor
+belt and wait until you can see only 2 of the gems, then drop another one
+on it.  As soon as you hear the second click, drop a gem on the conveyor
+belt to the north.  Continue on to the next area.  Step on the carpet to
+start the conveyor belts, wait a turn so the gem on the north belt is one
+space away from the floor, then drop a gem on the rune to the south.  Wait
+a turn so that the north and south gems are one space to the right of the
+center and the middle gem is one space to the left of the center, then drop
+a gem on the north rune.  Then the gems should be in the center of the
+belts so step on the carpet to stop the conveyor belts.  In the 3rd level
+of the castle, go to the machine and get 10 gems.  Give 2 gems to your
+first character, 2 to your 2nd, 1 to your 3rd, 3 to your 4th, 1 to your
+5th, and 1 to your 6th.  Zerivix hints to you that you will need to be
+split up to complete this puzzle, so you will need to enter combat mode and
+have your group spread out like this:  have your first character stand next
+to the 2 runes to the northwest and have the rest of your characters number
+off counterclockwise through the rest of the runes.  Have your 3rd and 4th
+characters drop 1 gem (on their runes, of course) each in the same turn
+(make sure the 4 gems on the conveyor belts are in the corners of the box
+they start out in).  Have your 2nd character drop a gem.  Wait until one of
+the gems taking the belt to the north is one space away from getting on the
+belt that will take it east, and then have your 4th character drop a gem.
+Wait until one of the gems reachs the middle of the southern edge of the
+box it started out in and have your 2nd character drop his last gem.  Once
+the gem that went to the west that is behind the other one gets to the
+northwest corner of the box next to your 2nd character have your 5th
+character drop a gem.  Wait until both of the gems that went to the west
+reach the belt going east that is north of your 2nd character's rune and
+then have your 2nd character drop his last gem.  Now wait until one of the
+gems that went west is one space away from the marble floor and then have
+your 1st character drop a gem on the northern rune.  Wait until the gems
+that went to the east reach the northwest and northeast corners of the
+northeast box and have your 6th character drop a gem.  Finally, wait for
+the gems that went to the west reach the northwest and northeast corners of
+the northwest box and have your 1st character drop a gem on the rune to the
+south.
+
+g) Ice Castle
+		1st level - go west and enter the small room and flip the
+lever.  Go south and enter the southwest room, find the secret passage on
+the west side of the room that leads you to the northwest lever and flip
+it.  Now go back to the entrance and walk across the very short bridge to
+the room with the zombies and flip the lever in it.  Go east, south, and
+east again past the 3 pillars and flip the lever in the room once.  Now go
+to the room to the south that was just opened and flip the lever once, go
+back to the room you were just in and flip the lever two more times.  Go
+west, south, and east and enter the room with the bookshelves and step on
+the rune.  After being teleported, go to the west and flip the switch.  Go
+back to the east and search the bookshelf 2 spaces east of the rune.  Go
+back to the west, flip the new lever and then go back to the east and
+search the bookshelf 3 spaces south of the rune.  Now flip the 3rd lever
+and search the bookshelf 2 spaces west of the rune.  Flip the 4th lever and
+go back to the entrance of the castle and you will find that the 2
+portcullises are open and you can continue on to the next level.  2nd level
+- go west, board a boat, take it to the northeast, and flip the lever.  Go
+back to where you came into the level and go north into the library, take
+the northeast exit, go into the room to the north, exit it to the west, and
+take the southern bridge and flip the lever in the room.  Go back into the
+library and take the northwest exit, go into the room it leads you to, and
+flip the lever.  Go back and board a boat and go to the west.  In the room
+here, search the west wall for a secret passage, it will lead you to
+another lever, flip it.  Go back and flip the lever that you got to by
+going out the norteast exit of the library.  Now go back and flip TWO more
+times the first lever you got to by going northeast on the boat.  Flip
+again the lever you just fliped before this one and then flip the lever you
+got to by going out the northwest exit of the library.  Take a boat west
+and then south, there you will be lead to the stairway to the next level.
+3rd level, go to the north and step on the rune to the east.  Flip the
+lever (at 26,31).  Now step on the rune to go back and step on the rune 2
+spaces to the west, it will take you to the main area of the level.  Search
+the bookshelf to find a description of how this level works and go north,
+west, north, and flip the lever at 24,13.  Go back and step on the rune, go
+to the south room and step on the rune to the west.  Flip the lever (at
+40,22).  Return to the main area and flip the levers on these coordinates
+in this order: 19,32  26,19  14,27  26,19  40,22(You will need to go back
+to the southwest rune to get to it)  42,9  19,32  20,42 19,32  43,16  19,32
+20,42  19,32  36,1  30,11  and finally 25,45(Go back and step on the
+southeast rune to get to it).  Now go back to the main area, go east,
+north, west, north, and west to arrive in the next area.  Here some of the
+doors are bashable and others cannot be opened.  Bash your way through to
+the stairway and do not step on the rune if you find it, it will teleport
+you to the begining of the level.
+
+h) Key to Air Castle - Realm of the Animator
+		To get into the Animator's Castle you will need to go to
+the Air Castle and get the energy wand from the Air Guardian.  Now go to
+the cave in the southeast corner of the other dimension and enter the
+portal to get into the Realm of the Animator.  Take the first door to the
+north, go east, and up the stairway.  Go south, east, north, west(through a
+secret passage), all the way north and fall down the hole.  Go south and
+fall down another hole.  Go west and then northwest when the cave curves in
+that direction, go north and destroy the Giant Armor, then go west and up
+the stairway.  Now go south, east, find the secret passage in the southwest
+corner and enter it, pass through a few more secret passages, go south,
+east, and find the weak spot in the floor and drop down a level.  Go west,
+south, east, and up the stairway.  Go north until you have to turn and go
+west, north, and west up the stairway.  Go south, east, south, west, south,
+and east down the stairway.  Go south, east, find the secret passage, go
+east and down the stairway.  Go east, north, and up the stairway.  Go west,
+south, and up the stairway.  Now go north, east, south, west, north, west,
+southwest, find the secret passage, and go west to the stairway.  Go east,
+north, west, west, north, destroy the Giant Armor, go out the northwest
+exit, go east until you run into the fake door and search for a secret
+passage on the north wall, then go west at the pool and up the stairway.
+Go through the narrow passageway and drop down the hole.  Now go west,
+north, east, south, and up the stairway.  Go west, south, and up the
+stairway.  Go east and finally battle the Animator.
+
+i) Air Castle
+		Go to the northeast into the library and search the
+bookshelves for a description of the castle.  Here's how it works:  there
+are 5 rooms with 3 levers each and 5 words in front of each of the levers.
+There are also 3 statues at the entrance, talk to them and they will say
+different things, but they will all say exactly 5 words.  The number in
+front of the rooms indicates which word in each of the sentences in front
+of the lever to pick the first letter of to match with the first letter of
+which word the statues tell you.  For example:  if you fliped the middle
+lever of room number 4, in which the words in front of it read MATCH
+NUMBERS WITH STATUES' WORDS, it would corespond to the left statue because
+it says "You won't regret sneaking through," the 4th word of both the lever
+and the statue starts with an S.  In order to find all of the rooms you
+will need to search the walls carefully for secret passages.  If you still
+need help, here's which levers to flip:  In room #1, right lever.  Room #2,
+right.  Room #3, middle.  Room #4, left.  Room #5, left.  Now go back to
+the entrance and step on the middle rune, if you did it right you will see
+message saying that the barrier has been dispeled.
+
+j) Key to Earth Guardian's Forest - Cave with changing walls
+		To get into the Earth Guardian's forest you will need to go
+into the cave in the southwest corner of the other dimension.  Find your
+way to the button on the west side of the room and press it, then find your
+way to the button on the east side of the room and press it.  Now find the
+altar at the north side of the room and search it to get the key.
+
+k) Earth Guardian's Forest
+		In the first area take all the right paths (that's right as
+in right and left, not as in right and wrong).  In the next area, talk to
+the wall and click on talk.  It will ask you to say something, so say "the
+password."  The password is "the password."  In the next area the words
+standing out tell you which levers to pull.  Pull the NE, SW, SE, and E
+levers.  Then the southern lever will be able to be pulled and open the way
+to the next area.  To avoid the guards, stand next to the levers and search
+them, that way you can be a space or 2 more away from them.  Many of the
+guards will also fight with each other, keeping them from attacking you.
+For the final puzzle, search the bookshelves to find a clue.  Search the
+chests in this order: A D B C E.  In the final area, do not enter the
+portal.  Instead, talk to the north part of the wall and say "the password"
+to it.  Enter the second portal to fight the Earth Guardian.
+
+l) Password to get in Xebon's Tower - Harold's Crystal
+		After getting the Energy Wand from the Air Guardian you
+will be able to Activate Harold's Crystal (Harold is the mage who lives in
+the mountains north of the nightmare cave, search for a secret passage),
+watch it and you will find out about how Xebon got his powers.  Watch it
+again and you will find out more; watch it several more times and you will
+see a scene in which Xebon traps Valgoth inside a barrier and then says a
+word, proximity, as he enters his tower, this is the password.
+
+-------------------------------------------
+				Battle Tips
+-------------------------------------------
+a) general tips
+		The most important survival tip is to carry lots of Strong
+Energy Potions with you.  About 3 or 4 potions per spell caster should be
+about right.  When you fight the guardians only one of you will be able to
+fight.  The one you will want to pick is the one who can cast both level 7
+priest spells and level 7 mage spells and is fairly good at fighting too
+(you will probably need to give most, if not all, of your skill potions to
+him).  Major Blessing is spell you must know and use as much as much as you
+possibly can.  Slow group and curse all are both spells you should use
+whenever you encounter enemies who are not immune to magic (Especially if
+there is a mage around who can cast Major Haste and double or even triple
+their attacks). Protection is a very useful (and somewhat cheap) spell to
+use when several enemies seem to be targeting a single member of your group
+and won't attack anyone else, however in many of the major battles it will
+not work (it will just be cancled each round).  Luck is a very, very useful
+skill to learn, I have seen my character with 20 luck take over 50 hits in
+row at 0 HP before he was finally killed.  Although summoning spells summon
+relatively weak monsters compared to the monsters in this scenario who will
+probably kill them in one hit, they are still good at taking some of the
+attention off of your group.
+
+b) Under Wizards' Cave - 6 Crystal Guardians
+		Cast Major Blessing and Bless All.  Use weak summoning
+spells to distract them.  Have all your characters gang up on one Crystal
+Guardian at a time, rather than having them all spread out attacking
+different ones.  If you want, you can be cheap and cast protection.
+
+c) Top of Castle Velius - Battle with Zerivix
+		Zerivix and his minions arn't immune to magic, so cast Slow
+Group and if you want, Paralyze him.  As always, cast Major Haste and Bless
+All.  Take out his minions first and then concentrate on Zerivix, don't
+waste time attacking the Thunder Orbs, they are invulnerable.  If Zerivix's
+permanent martyr's shield becomes annoying, use spells like Kill and Ravage
+Spirit on him.
+
+d) The Fire Guardian
+		Do not attack the Fire Guardian himself, he is
+invulnerable.  Instead, you must cast Ice Bolt spells on the 6 fires.  Keep
+yourself hasted and healed.  You will probably need at least one strong
+energy potion.
+
+e) Castle Zerivix - Final? Battle with Zerivix
+		Cast Slow Group and Curse All.  As always, cast Major
+Blessing and Bless All.  Kill all of Zerivix's minions before attacking
+him.  Every time he summons a fury demon, quickly kill it and go back to
+attacking Zerivix.  Do not cast Protection or Avatar because invulnerabilitywill just be cancled every turn.  Use summoning spells to distract the demons.
+You will probably need several Strong Energy Potions to make it through the
+battle.
+
+f) Ice Castle - The Ice Krakan
+		Begin by casting Haste and Bless.  Keep casting Firestorm
+until all the tentacles are killed, then use Flame spells.  Keep yourself
+healed with Revive spells.  Make sure you bring at least two Strong Energy
+Potions.
+
+g) The Animator
+		This battle requires you to be a little cheap.  Have your
+mage cast Protection on everyone and fight your way to the animator.
+Ignore the Giant Armors, they will take too long to kill and will just
+disappear when you kill the animator.
+
+h) The Air Guardian
+		To outrun the Vortexs, make sure your character has 5 or
+more movement (have a ring or boots of speed equiped. If you won Ulen's
+Boots in the battle arena, they will help a lot).  At the end of each turn
+when you either pass through a marble floor or are not at triple movement,
+cast Haste.  When you reach the Air Guardian, cast Slow, Curse, and keep
+casting Haste when you drop below triple movement.  Also cast the level 1
+mage spell Goo several times to reduce the amount of attacks she has, keep
+casting it about once every 2 turns to keep her webbed.  Keep yourself
+healed with Revive spells.  Keep yourself blessed so that you can hit
+accuratly.  If you want to be quick and cheap, cast Paralyze on her until
+it works, it will probably take several trys.
+
+i) The Earth Guardian
+		Cast Slow Group and Curse All on each of the Treants you
+run into.  Keep yourself Hasted and Blessed and cast Restore Mind when the
+Treants dumbfound you.  When you reach the Earth Guardian, summon monsters
+to keep the summoned Treants away from you.  Make sure you have several
+Strong Energy Potions with you.  Equip items that increase your fighting
+skills, like a Gold Ring of Skill.  If you have a hard time damaging the
+Earth Guardian, use Flame spells.  As aways, keep yourself healed with
+Revive spells.  Do not expect this to be an easy battle.
+
+j) Xebon's Tower - 6 Dragons
+		Use Major Blessing and Bless All.  Slow and curse the Black
+Dragons, they are not immune to magic, they are also the most dangerous and
+weakest and should be taken out first.  The Red Dragons should be taken out
+second.  Use summoning spells to distract them.  Invulnerability will just
+be cancled each turn, so do not use Protection or Avatar.
+
+k) Xebon
+		Cast Major Blessing and Bless All, of course.  Keep all
+your characters healed.  Kill all the summoners before going after Xebon.
+When he casts Chaos quickly cast Restore Mind on all your spell casters,
+with your mage being the highest priority, you will need to cast Major
+Blessing right away.  Make sure you have a LOT of Strong Energy Potions
+with you because you will have to fight Xebon 3 times.  Good Luck.
+
+-------------------------------------------
+				Optional Quests
+-------------------------------------------
+a) The 25 orbs - Stoping the aliens
+		After walking around for a while in the town that you don't
+know the name of (In Eastern Verius), it will be attacked by aliens.  There
+is nothing you can do about this right now, but a little ways north of the
+town (and after passing through a cave) you will find a destroyed mansion.
+Find the mage who is there and talk to him, he will give you instructions
+on how to find 3 of the orbs.  If you find all 25 orbs and give them to
+Nerald (In Mordalace), you will be able to go on an optional quest to stop
+the aliens.
+
+b) How do I get these @#%# spikes to stop hurting me?
+		You will need Spike-proof Boots, which can be won in the
+Battle Arena for getting a Godlike Ranking.
+
+c) The blue chests
+		The chests belong to an undead/demon named Gorvin, who
+lives in a cave west of Mordalace.  After you kill him he will drop his
+key; unfortunatly it has a piece of it broken off.  The other piece is
+hidden in the Ice Castle, but you will need the bronze key (Hidden
+somewhere in Gorvin's Crypt) to get to it.  If you want to complete the 25
+orbs quest (as well as get some very valuable items from the chests), you
+will need to get this key fixed.

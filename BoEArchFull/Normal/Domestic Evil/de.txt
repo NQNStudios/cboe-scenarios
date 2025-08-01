@@ -1,0 +1,64 @@
+
+
+Thank you for downloading Domestic Evil by BTX!
+This Readme file contains Hints and Credits for my first scenario ever,
+inspired by Resident Evil.
+
+Credit for Custom Graphics goes to:
+
+Tim Farland- Aranea Lord, Cultist, Elite Guard
+
+Drk Draxis-Floor Grates, Fireplace Graphic, View Screens, Gravestone
+
+Relhan- Elven Hunter, Lancer, Stairways, Gold Knight
+
+Aynsley Saucier-The Trevor Graphic
+
+Myself- Gates on Grass
+
+
+Hints: It's best to figure it out on your own but here goes.
+
+Mansion Level 1 -
+1. Search the room next to the dressing room, then go touch
+the mirror to crack it. Then use the Move Mountains spell. 
+2. The crowbar is in the southwest corner of the mansion.
+3. Use the crowbar to open the grate.
+4. The Lock to the gates is in the hut on the Northeast side of the mansion.
+
+Mansion Level 2 -
+1. The code to open the door at the north is in the Master Bedroom.
+2. In the old lab, read the book on the pedestal then search the bookcases 
+to the southwest. 
+3. Use the prototype to replace the Anti-Undead bolts on the pedestal.
+4. Alec will give you the courtyard key after you read the book in the hidden 
+room in the old lab when you're about to leave.
+
+Courtyard -
+1. Do not try to kill the Wiper just run!
+2. The way deeper into the forest is to the east.
+
+Cabin-
+1. The room with the trophies on the wall has a secret passage.
+2. The riddle answers are as follows: 50, Radio, Eyes, and Stealth.
+3. After killing the huge spider search the desk in the next room.
+
+After the Cabin-
+1. Head to the hall where you started the scenario and use the black key
+on the northeastern door.
+
+Argus Labs-
+1. Search the guard's desk and head back to the sword hut where you 
+encountered the Wiper use the key on the locked door. 
+2. Retrieve the disk in the cell and go all the way back to the start 
+of the lab. 
+3. The reactivation orb is in a storage room to the east.
+4. The last passcode is "moon".
+
+Liason Woods-
+1. Win the fight an leave through the northwest.
+
+Contact:
+If you have any questions please contact me at thegreatbtx@hotmail.com.
+If you wish to use the grass gate graphic in your scenario feel free to
+do so, just give proper credit. ;)

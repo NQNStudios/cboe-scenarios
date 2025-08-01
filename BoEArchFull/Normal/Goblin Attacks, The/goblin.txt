@@ -1,0 +1,36 @@
+Readme for Goblin Attacks:
+-----------------------------
+
+By S.M Adventurer
+
+Email: srmboe2@yahoo.com
+
+
+This is my first scenario that I'm submiting to the 
+public. I sure hope you like it. If you want a hint, 
+or find a bug, email me at the Email Adress above. 
+
+
+Here is the list of the artists that made the custom graphics that I used for
+my scenario:
+
+Aceron - Goblin Priest
+Robin Seneka - Goblin Mage
+HYZ - Goblin Shaman
+Birdy - Goblin Leader
+Unknown Author - Goblin Archer
+
+Updates:
+
+Ver. 1.01 - Fixed bug that made scenario unwinnable.  
+
+Ver. 1.02 - Fixed more bugs and improved the dialogue.
+
+Ver. 1.03 - Fixed more bugs, and added/changed a few things.
+
+Ver. 1.04 - Fixed more bugs, and added and changed a few things. 
+
+Ver. 1.05 - Fixed more bugs. 
+
+
+

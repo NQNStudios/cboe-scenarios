@@ -1,0 +1,50 @@
+Green Meadows (Readme)
+  v1.1.0
+Michael G. Slack (slack@attglobal.net) - 2000
+
+Game Level: Medium to high Level Parties.
+
+You've come to the remote Empire region of Green Meadows in response
+to a plea for help.  Can you suceed in driving out the evil being who's
+terrorizing the region or will you fail?  Fame and fortune can be yours
+if you don't fail...
+
+Note: Green Meadows is rated R due to some adult situations.
+
+This is my second effort at creating a scenario for public consumption.
+I've worked hard at tuning the monsters a little better to give a higher
+level party a run for their money (I hope).  I've borrowed several towns
+and situations (the Arena, for example) from some of my other (private)
+scenarios (those not really ready for prime-time) and I hope I've caught 
+all of the references to those other adventures (if not, let me know).
+
+Also, I've included a town called 'Seers' just north of Navarone (the 
+starting town).  This town is my attempt at making a 'on-line' help/hint
+area for players.  Hopefully in it will be answers to any questions 
+players may have.
+
+Green Meadows uses images created by:
+ DrkDraxis
+ Aceron
+ Ithron
+ Paul Henderson
+ Jon Richards
+ Relhan
+ Tim Farland
+ Luz Piazuelo
+ Motrax
+
+Known Bugs:
+-----------
+The custom item pictures are displayed with a white background when shown
+in the inventory list (I'm not sure why).
+
+Changes:
+--------
+2000-09-29 (1.1.0) - Fixed the problem with custom item graphics when displayed
+                     in a shop window (finally read through the tech notes on
+                     the Spiderweb site.  Also up the cost of items for sale
+                     to make the game a little more high level.
+2000-08-01 (1.0.1) - Fixed some conversation elements.  Added more outdoor
+                     encounters/events.  Clean up some other minor points.
+2000-07-18 (1.0.0) - Finished, ready for release.

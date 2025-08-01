@@ -1,0 +1,75 @@
+----------------Arachnid Attack v1.03
+A Blades of Exile scenario by Chris Pelling (13 yrs old) (e-mail: cpelling@hotmail.com)
+All feedback welcome. Please do not send junk email!
+Don't expect a quick response to your emails; I usually only get the opportunity to check my email account once a week or so. (Sometimes I check it more often than that. But sometimes I don't check it for two weeks running.)
+
+---Introduction
+This is my first released Blades of Exile scenario. It has only two outdoor sections, but there are over 20 town/dungeon levels in it. There is one major mission and five or six unrelated minor ones.
+The Empire has ordered you to eliminate the source of the plague of giant spiders afflicting the area. 
+The main dungeon is very long, very draining and very annoying at times. Some of the traps require masses of spell points. (Others just require persistance; most require both.)
+I hope you enjoy playing this scenario as much as I did making it. Happy arachnid hunting!
+
+---Acknowledgements
+Graphics:
+ The Emerald and Sapphire Skeletons are from the internet. All other custom graphics are modifications on standard BoE graphics or originals by yours truly.
+
+---Difficulty
+The difficultly of this scenario is far from constant - it changes at different stages in the game. So I have included this section to give a rough estimate of difficulty at various points.
+
+Early on in the game: There are no puzzles in friendly towns. The monsters you will encounter wandering outside are all low level. This section deserves a Low difficultly rating.
+
+Middle stages: The important early dungeon has a few puzzles. The monsters are slightly harder than earlier on, but not significantly so. The middle stage would score a Low-Medium rating.
+
+Middle to late stages: In the major dungeon, puzzle frequency and difficultly makes a huge leap upwards (Most of the rooms contain a puzzle or endurance test). The monsters are again harder, but not significantly so. A Medium-High difficulty rating seems appropiate for this part of the scenario.
+
+Late stages and endgame: Puzzles are not quite so common as before, but there are still a few. Monsters vary greatly; some are not much harder than in the middle to late stages, some are almost impossibly difficult. This is where the scenario gets its Very High difficulty rating from.
+
+I hope this provides a small insight into this scenario's difficultly.
+
+---Known Issues
+The following bugs are the only ones in this scenario I know about so far that have not been fixed. Most are trivial complaints. If you find another one not mentioned here, or you know how to solve one of the bugs already listed, contact me and I will try to fix it. (Note: I use the PC version of Blades, and have version 1.02 of the scenario editor.)
+
+* At the very beginning of the scenario, you can't go away from Terence's house until you have resolved a few matters with him (specifically, talk to him about the spider plague). Occasionally, you might be passing through the space where the special is, and get trapped near his house even though you have already talked to him about the plague. Just use the character editor to exit the town, or talk to him about it again.
+
+* When you pull some of the levers in the Spider Dungeon, you get a blank message dialog as well as the one you're supposed to get. I have investigated this and I have no idea why this is happening. If you know why it does this, please tell me.
+
+* The custom monster `ghost spider` is set to be a bug rather than an undead. This was done because it kept getting webs all over it (bugs are immune to webs), which is not very realistic as spiders do not get caught in webs (not in BoE, anyway - and besides, I kept getting messages saying `Ghost Spider webbed` before I'd even seen a Ghost Spider.). The anti-undead spells will therefore not work on it. This should not matter much though, as ghost spiders are relatively weak anyway. (Relatively...)
+
+* The two custom skeleton monsters breathe at you. I did this because I wanted to have a ray of cold, rather than heat, and there is no `cold ray` special ability. So I used the breath weapon function. A problem arises when you realise that skeletons can't breathe... oh well...
+
+* On another occasion, I tried to get the bounty from General Igor. A message came up saying `the 50th node has been processed, the special will now end.` Igor responded correctly, but did not do anything else. When I asked him about it a second time, it worked as intended.
+
+---Version history
+
+v1.00
+- Initial release
+
+v1.02
+- Terence now responds when asked about the spider plague.
+- Alicia now responds correctly when asked about a beer recipe.
+- Made numerous minor changes, mostly to make certain areas less confusing.
+- Changed far eastern area - now includes one more tiny island, and a different ingredient for you to pick.
+
+v1.03
+- Fixed cross-platform bug that prevented Mac users from finishing the scenario.
+- Added walkthrough.
+- Made numerous minor changes.
+
+---Hints
+* Giant spiders attack some of the towns at various intervals. If you want to help the guards fight the nasty creatures away, keep in mind that the spiders usually attack from the east.
+
+* Once you've gone a short way into the main dungeon, you cannot exit it until you complete the mission. Once you've gone a short way into the dungeon underneath the ruined town, you can't go back the way you came. You'll have to find another way out.
+
+* Before you enter the main dungeon, make sure at least one character can cast the level 1 priest spell Ritual of Sanctification, which requires 50 spell points. You need this spell at the very end of your quest to vanquish the spiders, in a room with four evil altars which need converting. (These four altars are the only ones that will be affected by the ritual.) Also, you will have to use Move Mountains or Shatter at various points; this should not be a problem as Move Mountains is a low level priest spell.
+
+* Search for secret passages often. There are many of them in this scenario.
+
+* Alchemy is very useful in the main dungeon. There are times when you have to expend quite a lot of spell points. On the other hand, you will probably not need it, as there are countless safe places to rest (due to the design of most of the levels of the dungeon).
+
+* Powerful monster that you can't defeat blocking your way? Try and find a way around it. You don't have to fight every powerful monster in the scenario (just most of them). If there is no way around it, try different methods of fighting them. In some circumstances, you can just run away.
+
+* Can't get through a door or gate? Some doors can only be opened by magic, and for others you need a key or keys. Some require you to pull a lever somewhere.
+
+* Make use of all the boats you encounter in hostile dungeons. Sometimes it's a better idea to sail along a river rather than just across it.
+
+Good luck, bold adventurers! And happy spider slaying!

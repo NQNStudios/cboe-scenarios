@@ -1,0 +1,114 @@
+RUBACUS
+A Blades of Exile Scenario
+Designed by Leon Lin
+(C) 1998
+
+INTRODUCTION
+------------
+The big buzz about Sharabo Province is that there's lots of adventure to be had there.
+And they also say there's plenty of sun, lots of good drink, and other amenities
+commonly missing from dank, dark caves.
+
+Of course, Sharabo Province isn't exactly the paradise you heard it was -- not with
+its large swamps, roving bandits, and oppressive government. Still, there might be
+something interesting for you to do here, and maybe, just maybe, something going
+on behind everyone's back that's bigger than you imagine...
+
+HOW TO PLAY
+-----------
+"Rubacus" requires a registered copy of Blades of Exile for Mac or Windows to play.
+
+The zip file that the scenario came in should contain the following files:
+
+rubacus.exs (scenario file)
+rubacus.meg (Mac graphics file)
+rubacus.bmp (Windows graphics file)
+rubacus.txt (readme file)
+rtrain.exs  (scenario trainer)
+
+Mac users:
+Place rubacus.exs and rubacus.meg in the "Blades of Exile Scenario" folder. If you
+wish to use the trainer, place rtrain.exs in the same folder.
+
+Windows users:
+Place rubacus.exs and rubacus.bmp in the BLADSCEN directory. If you wish to use the
+trainer, place rtrain.exs in the same folder.
+
+If you have any difficulty with any of the files, please contact me at 
+leonlin@ix.netcom.com.
+
+DIFFICULTY
+----------
+This scenario is aimed at medium level parties (levels 9-18). One that has finished
+the scenario "Valley of Dying Things" should do. If you don't already have a party
+that fits the bill, use the trainer on a totally fresh party; see the section 
+"THE TRAINER" below for more details. Parties of other experience levels will likely 
+find the scenario either too easy or too difficult to complete.
+
+THE TRAINER
+-----------
+In case you don't have a medium level party ready to go, a trainer (rtrain.exs) is 
+included with this scenario. Create a totally new party and then run it through the 
+trainer once. This should raise each party member to about level 11 or 12, depending 
+on race and advantages/disadvantages. 13,000 gold is also provided to train the 
+characters and purchase equipment. Instructions are provided in the trainer.
+
+In general, a party created with this trainer will not be as well equipped as a
+similar level party which has actually gone through another scenario, mainly because
+they will not have many magic items normally gained in the course of adventuring. 
+Nevertheless, parties created by the trainer should be adequate for the task at hand.
+
+ACKNOWLEDGMENTS
+---------------
+I can't thank my beta-testers enough for their help. Without them, numerous bugs
+would have gone unnoticed and unfixed. They also made many suggestions to improve the 
+scenario. Thanks to Jamie "Skyle" Clark (at jamclark@kfalls.net), Ivan Godard, 
+Brian "Stareye" Kiedrowski, Peter Twieg, Andy (at griffinp@ma.ultranet.com), 
+Andrew Barton, and Elizabeth (at MAOSC@aol.com) for their efforts.
+
+The machine graphics were cut and pasted out of the regular Blades of Exile graphics
+set. Since I can't draw to save my life, I readapted one of the terrain graphics for
+use as a monster graphic. Thanks to Andrew Hunter for this and the other graphics
+in Blades of Exile -- I hope you don't mind me using the machine graphic in an
+unorthodox way!
+
+Thanks to Tarl Kudrick for his High Level Party Maker, which was adapted as the
+trainer for this scenario.
+
+And, of course, thanks to Jeff Vogel, for creating the incredible world of Exile and
+the wonderful Blades of Exile scenario editor. This scenario wouldn't have been 
+possible without you.
+
+CONTACTING THE AUTHOR
+---------------------
+Any questions, comments, or bug reports? Write to:
+
+Leon Lin
+leonlin@ix.netcom.com
+
+Have fun!
+
+VERSION HISTORY
+---------------
+v. 0.9.0 - 10/4/98
+==================
+Initial beta
+
+v. 0.9.1 - 10/17/98 	
+===================
+Second beta. Numerous bug fixes and adjustments.
+
+v. 1.0.0 - 10/29/98
+===================
+First release 
+
+v. 1.0.1 - 12/21/98
+===================
+Some players experienced a bug in the Tower of Nado in which the glass bead did not 
+move at all on the conveyor belt. This appeared to occur after restoring a saved game. 
+Leaving the level and returning fixes this problem. Unfortunately, in 1.0.0, leaving 
+the conveyor belt puzzle was impossible. A teleport has been placed in the puzzle to 
+allow escape before the puzzle is solved.
+						
+Also, a set of coordinates in the graffiti was incorrect. It did not affect the 
+puzzle's solution, but has been corrected for accuracy.

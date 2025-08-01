@@ -1,0 +1,95 @@
+Credits:
+   Custom Graphics:
+      Relhan: Shadow Lord, used for Moaran, Projection of Moaran, and Specter of Moaran
+              Doomlord, used for Asera, and ironically, Doomlord
+              Crystal Armor, used for Asera's Armor
+              Ruby Helm, used for Dragon Helm
+      Spiderweb Software: Adze-Haakai(E1) used for Nightstalker.
+      Unknown: Swordrack, used for Swordrack.(If you know whose this is, please LMK)
+
+   Beta Testers:
+
+
+
+Help for: The Dark Tower
+
+Before you read further, you should realize that this is NOT a comprehensive file.  There are several puzzles for which no answer, or an incomplete answer, will be found here.  This is deliberate.  Most puzzles should be relatively simple, and so you may not even need this file.  That said, the solutions (Or rather, hints first, then solutions.)
+
+Sketchy Walkthrough
+
+   First, you need to find the Tower of Light.  This is not that difficult.  There are two ways to do this.  Either visit the wizard in the Library Town, or the one in a hidden chamber in Narrowthrode.  Each one has a different requirement.  The one in Narrowthrode wants an artifact from the Tower of Magery. Gain admittance by paying the mayor 2000 gold (It's well worth it, even if you don't choose to give the artifact to this wizard.)  You should have gotten the password from that wizard. Once in, find the keypad to open the control room, and enter the combination.  The button you want is on the left. (You may want to experiment to find out what the other buttons do, but they are a bit more risky.)
+
+   Note: You probably want to obtain Firestorm and Dispel Undead before entering the Tower of Magery.
+
+   The other route is a bit easier.  Simply pay the wizard in the Library Town 10 thousand gold, and he'll tell you where the Tower of Light is.  (Of course, if you actually have ten thosand, there are better things to spend it on.  I'd advise finding that artifact instead.)
+
+   You then have a trip ahead of you.  You'll probably have to run from most monsters for now, but you should be able to reach the Tower.  There, you will be given a series of quests, and finally reach Mirarn.  In order, these quests are as follows:
+
+1. Deal with the swamps.  Not too hard, just kill one wizard.  That is, one wizard surrounded by zombies and various swamp creatures.  Okay, a bit challenging, I guess.  To make it a little easier, enter from the east.  Also, there is some gold in this swamp.  Get it.
+
+2. Sanctify an altar.  Obviously, you'll need someone to be able to cast Ritual of Sanctification.  Actually, you'll need to cast this several times in this scenario, so you probably want everyone to be able to cast it.  The altar is under a tower to the north (from the Tower of Light, that is)  It's fairly heavily guarded, but with a little patience (And some kill spells) you should get through.
+
+3. Kill Gurthan.  Go to his fortress (Obviously), and work your way through it.  Be warned, wrong steps will dump you in nasty places.  Find Valram, talk to him, and learn how to use Gurthan's portal.  Find the amulet he mentions, use the portal, kill Gurthan.  Oh, and assorted demons along the way (Unless you'd prefer to let them kill you :)
+
+   Once you reach Mirarn, he'll start giving you missions.  Be sure to get all the assorted goodies he has for you.
+
+   Your first mission is to kill Urven.  Her fortress is in the Southeastern corner of the world.  This is a straightforward battle.  Enter the fortress, fight to the central room, kill Urven.  Oh, and be careful about stepping on those runes near Urven, they'll kill you if she's still alive.
+
+   Then, return, and go through the hall of testing (Aranar portal..  Those rewards are VERY worthwhile.  Once you've done that, talk to Mirarn and get your next mission, to go stop some golems (Sound familiar? :)
+
+   This is complicated by not knowing where the golem tower is.  First, you need to go to one of the two small huts in the western part of the world.  You'll be told to retrieve part of a sword from a cave of wyverns.  This is a nasty series of battles.  I strongly advise caution.  Once you have the blade, go back to that hut and get the hilt.  Then take them to the other hut to have the sword reforged.  Once that's done, go back to the first hut (Again!) and find out where the Golem Tower is.  Go there, fight your way to the top (Not too hard) and kill the Golem Master (Impossible unless you figure out the secret. (If you can't figure it out, it's in the solutions section.))
+
+   Then go to Cos (You've probably been here before.)  Find the king. (Hint: SECRET PASSAGE)
+Get your reward, and return to the Tower of Light.
+
+   Go talk to Mirarn (Sorry, no teleporters here, you'll have to climb the stairs.  Before going to see Mirarn, I suggest you revisit Aranar, and go through the second portal.  I know, its getting tiresome.)  When the ring is stolen, you'll have a few days to retrieve it.  Fail, and you lose.  Find Movwen's fortress (Near Cos), fight through it, and kill Movwen.  Congratualations, just three big guys left to go!  You're halfway done!  
+
+   Return to Mirarn, and he'll give you your final instructions.  The only thing you have to do is to kill Moaran, but doing everything else will make this much easier.
+
+   I suggest hitting the Temple of Demons first. The last enemy here is another of those "Invincible unless you guess a secret" types.  It shouldn't be too hard to guess, at least, not as long as you've been searching every bookcase you find.  If you can't guess it, that's also in the solutions.  That done, leave, looting first.  (There are three places you'll want to loot.  First, there is an exit to the right in that last room that leads to a trophy hall.  Take the trophies.  Oh, this place is full of Haakai, so be sure you're ready for a fight.  Then, search the wall right behind where that last enemy stood.  Finally, there is a treasure room hidden in the wall on your way out.)
+
+  Then, go through and get rid of the Dark Gates.  These take four Rituals, so be sure you have plenty of spell points.  Certain special items can be helpful here.  If you don't get all four, Moaran will have a several demons with him, and that battle will be almost impossible.
+
+   At some point, you may want to get the Scepter of Might.  This is absolutely NOT necessary, but it will make your life a bit easier.  I'll leave it up to you to figure out how to get it.  (If you really can't figure it out, e-mail me (e-mail address in contact info)  Keep in mind that I'm usually fairly busy, so don't expect quick responses.)
+
+   Finally, you need to deal with Moaran.  Fight through his tower, and eventually you'll reach him.  Kill him, and, if you still have the Blade of Power, you win.  If you don't, you might win, or you might not.  Just don't lose that blade.  I repeat, DO NOT LOSE THE BLADE OF POWER!
+
+Some Solutions:
+
+SPOILER SPACE
+
+
+SPOILER SPACE
+
+
+SPOILER SPACE
+
+1: Tower of Magery combination: 421536
+
+
+
+
+2: Kill the Golem Master by destroying the crystals in the room.
+
+
+
+
+3: Kill the Nalfashnee with a Ritual of Sanctification (Trust me on this one, it will work.)
+
+
+
+4: Answers to Aranar's riddles (In no particualar order): e, tommorow, stars
+
+   BTW, I will not give the answers to the test riddles.  The rewards there are exceptional, and I don't want to make those too easy.  (The riddles shouldn't be that hard anyway.)
+
+
+
+5: Various 3x3 rooms w. 3 gates. Sorry, but I can't help with this.  I'm a little annoyed by those.  I'd worked out exactly how to set each one up for a specific pattern, but somehow when I test them those patterns don't work.  All are passable, but you'll have to get through them entirely on your own.
+
+
+
+6: The Dark Tower, passage to L5.  Visit all four segments of L4, pull the levers there.
+
+
+
+7: Everything else.  I think that's everything that might not be obvious.  If you think I should add something to this file, LMK.

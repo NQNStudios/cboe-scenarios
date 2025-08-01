@@ -1,0 +1,19 @@
+Abyss is a scenario created for the Don't Fix the Shark Competition.
+This contest requires that the contestant places limitations on himself.
+As such, my entry is limited in the following ways:
+	One Town
+	No Outdoors
+	No Movement
+	No Custom Graphics
+	No more than 20 nodes
+This scenario was beta-tested by Terror's Martyr. Thanks TM!
+A .sav file is included. If it is corrupted, create a 1pc party, save it as Abyss.sav, and change its stats to the following in the Character Editor.
+	HP- 		50
+	Strength-	10
+	Dexterity-	2
+	Intelligence-	2
+	Edged Weapons-	10
+	Items:
+	   Iron Short Sword
+That's it!
+---No Giants were hurt in the making of this Scenario---

@@ -1,0 +1,168 @@
+ARACHNID ATTACK v1.03 - Walkthrough and Town Information
+by Chris Pelling
+
+This file contains the walkthrough and some town information for version 1.03 of Arachnid Attack.
+The town information lists the location of a few friendly towns, and most of the people that you can talk to inside those towns.
+
+TOWN INFORMATION
+Birdsville - Where you start. A short way north of Celia. You must talk to Terence before you do anything else.
+	Terence - In the building just west of where you start. Talk to him about the spider plague.
+	Barkeep - Stay at the Inn of Doves for 5 gold. Quality: 3/4
+	Jackie - Smithy of Birdsong. Sells: Axe, Spear, Hammer, Rapier, Broadsword (all Iron)
+		Prices are slightly expensive.
+		Also, will reward you for retrieving a legal paper from the Bear Cave.
+	Jimmy - Sell all items, and buy miscellaneous items at average prices.
+	Mark - Training
+	Father Grenald - Sells eight level 4 Priest Spells at reasonable prices.
+	Mayor - A key and mission instructions. Far southwest corner of town
+	Tom - Buy a key from him for 500 gold. The key allows you to enter a small house,
+		just north of the Mayor's office. You can safely store items there without them
+		being stolen.
+Celia - To the far southwest of the island.
+	Fred - Buy slightly expensive food from him.
+	Marian - Stay the night for 2 gold. Quality: 2/4
+	Petunia - Talk to her about Igor, her husband, and you can get missions from Igor.
+	Oslo - Sells tickets to the mainland. (If you do this you exit the scenario.) Costs five gold for your party.
+New Hurkswood - Short way east of Birdsville.
+	Shopkeeper - Far southwest of town. Sells spears, hammers, and rapiers made of bronze.
+		Exorbitant prices.
+	General Igor - Get missions from him, but only after you've talked to Petunia in Celia.
+Alonala - Just southeast of the Tower of Karra.
+	Hiroko - Stay the night for 10 gold. Quality: 4/4
+	Aidan - Sells lights at average prices. Also sells food and misc. objects at reasonable prices.
+	Karen - Fortune-telling. Near southern docks.
+	Mother Carnak - Cheap healing
+	Honuk - Sells reasonably priced Mage Spells. Identifies items at 10 gold each.
+	Alicia - Gives you an amulet if you give her a beer recipe from the Giant Cavern
+	Alco - Rewards you if you give him a history book from the Troglo Lair.
+		Can give you an informative history lesson.
+		Knows the location of a cave where a drag- uh, a certain creature lives.
+	Elvis - Sells you pebbles. Talk to him at least once.
+Tycol
+	Mara - Extremely cheap healing.
+	Sally "the" Sloth - Stay the night for 1 gold. Quality: 1/4
+	Mark - Sells the priest spell Firewalk very cheaply. Wants amulet from Alicia.
+	Dave - Sells horses for 500 gold.
+	Liessa - Sells 6 medium strength alchemical recipes at average prices.
+Tower of Karra - In the middle of the other towns. Look for the Tower town icon.
+	Lukus - Sells you misc. stuff at reasonable prices and high level mage spells at average prices
+	Susan - Sells strong and medium strength potions at slightly expensive prices.
+	Angelica - Sells ingredients at reasonable prices
+	Oliver Ollivander - Sells most types of wands at expensive prices.
+	
+	
+
+!!!WARNING: SPOILER AHEAD!!!
+
+This is the walkthrough for version 1.03 of Arachnid Attack. It is not recommended you follow the walkthrough exactly - there are some interesting things you might want to do.
+Please keep in mind that this walkthrough is deliberately sketchy in some places. After all, it's not as fun if you give everything away.
+
+
+
+!!!WARNING: SPOILER!!!
+
+
+
+
+
+
+
+
+
+
+PART ONE: Findiing Out the Location of the Spider Dungeon.
+
+Initially, the only place you're allowed to go is Terence's house. Go in and speak to him about the spider plague. Once you've finished any business you might have with him, use the Unlock spell on the door to the north. Search the dresser to find out something interesting.
+
+Note: There are eight keys you can get in this scenario. One of them you can buy; it gains access to a private house where you can safely store your items. The other seven are scattered around the island. Here are some clues:
+1. The first key is being kept by someone in Birdsville.
+2. The second is owned by a man in the Tower of Karra.
+3. The rest are either lying outdoors rusting or hidden in dungeons in the mountains.
+It is not neccessary to collect these keys; however, it is highly recommended.
+
+Go to the place the papers in the dresser indicate. (There are stairs in a house near the village pond). Once in the dungeon underneath, proceed west through a secret door, then go south through more secret doors. Kill the Arachofficer in his office, then thoroughly search the walls for a lever. Pull the lever, and go past the spot in the passageway where there used to be a statue. A long secret passage takes you north to a conveyor belt.
+Step onto the conveyor belt; there is a secret passage to the west and a gap in the wall to the east which you can go through. Go through the portal in the next room.
+You might want to search around for something more reliable if you don't like portals. Either way, you will eventually end up somewhere near (17,13). One of the doors leads to a fight with some undead monsters; the other leads up a long, winding passage with more undead monsters. Following the passage until you find some machinery to the east, where a secret door will give way to a couple of conveyor belts. Step on the conveyor belts and go through the next door.
+Eventually you will find a maze of pillars. There's a fragile wall that you can blast apart. Then hop on two conveyor belts in succession. Then a staircase leads to an interesting room with some familiar faces. There are two secret doors here - make sure you speak to a Crystal Soul, which will tell you a few vital things, one of which is the location of the main dungeon. Then go through the other secret door and down a staircase.
+
+PART TWO: Escape
+Back in the previous dungeon, head along the passageways and find a secret door. This room has another secret door which leads to a passage lined with runes. After you find three altars (which stubbornly resist any attempts at holy conversion), keep going until you find a maze of machinery. Here is where you are going to escape.
+Find a place where you can cause an explosion. Make sure nobody has zero health and do so. The wall to the south can then be blasted apart with Move Mountains. Through a door you will find a stairway up to the town again. You're out!
+
+PART THREE: The Spider Dungeon
+Brace yourself for a long journey - we're goin' deep down into the frozen depths of the caves. Stock up on provisions and alchemy, then go to the east coast and enter the dungeon.
+Fight through the passages and buildings until you reach a fork. Now you have a choice; go north and face a gigantic, ravenous, people-eating, slimy monster, or go south and endure another short tunnel, one more easy fight, and an extremely locked door. Now, if you've been thorough outdoors and collected seven keys (not including a house key), you can get through this door and not have to fight the gigantic, ravenous, people-eating, slimy monster. On the other hand, if you don't have them all, either head back and collect them or face the monster. Your choice.
+If you face the monster, the north passage has a portal which sends you on a one-way trip to the monster's lair. Slay the monster, then head along a passageway. Go through a locked door and an open porticullis. Keep going until you reach (23,24).
+If you don't, unlock the door with the seven keys and head along the passageway. DON'T CROSS THE RIVER YET! Instead, go through a door just northwest of the bridge. Head along the passage to (23,24).
+Whichever route you've chosen, you should now be just south of a secret passage. Go north through it and talk to the talking spider. Ask it about a crystal.
+Head south, then southeast along a passageway until you reach a river with a bridge. Cross the bridge and enter the building.
+If you didn't talk to the spider, a Doomguard will appear. In fact, Doomguards will keep appearing every time someone trys to walk into the building.
+Eventually you will reach a passage filled with molten lava. Find the shortest way through, and just keep using Heal All spells until you reach the end. Sigh in relief.
+By exploring a bit, you will find a pool of water with three bridges. It doesn't really matter which order you cross them in... not really... just make sure you cross them ALL. And save your game first.
+A nice portal will take you to a room with a porticullis barring the way out. A tragic end! On the other hand, try saying hello to a few of the statues. Three of them in particular are especially helpful.
+Once out of there, another porticullis might (or might not) bar the way. If so, talking to some more statues might (or might not) help.
+A spiritual being offers you guidance to the afterlife. Politely refuse - using force if neccessary - oh, and by the way, don't go stepping on any conveyor belts. You just never know what might happen.
+A few secret doors later, you find a boat trapped between the land, the rocks in the river, and a few spoil-sport gates. If you've already torn one down, good on you - otherwise, a third statue might assist you.
+A choice of combats? Good heavens, this place is designed for adventurers. You might try taking the short way round. You really might.
+Many secret passages and a couple of spiders later, a matrix of magically locked doors bars your way. Try resting a bit before you try magicking your way out of this one. Once past it, head north across a river and descend the staircase...
+
+PART FOUR: Level Two of the Spider Dungeon
+What? More of this walkthrough for me to write? Why did I make the spider dungeon so large? Why? Why? WHY?
+All that aside, you must now progress along a huge, winding tunnel. With a few monsters thrown in.
+A few undead, bats, rats, swamp creatures, spiders and a demon later, one of the bosses from Exile III makes a return. Remember those pesky little slimy things? Now they're back to haunt you...
+Once you've wiped the slime off your blades, you find that the passage ahead splits into three. You have three choices:
+
+1. A small swamp, some spiders, some golden unicorns and a couple of centaurs. Plus an imp for good measure.
+2. A large swamp and an imp.
+3. A small swamp, some spiders, some golden unicorns and a couple of centaurs. Plus an imp for good measure.
+
+Okay, two choices.
+Whichever path you choose, you will eventually slay an imp. Go east and follow the passage. Find a secret door and go down the stairs.
+
+PART FIVE: Level Three and a Few Unpleasant Surprises
+You will encounter the first surprise fairly soon. And you thought the giant spiders were big bugs...
+Then you will find that someone left the boat on the other side of the river. Ahh, well - a short trip through a secret door will soon fix that.
+Come to think of it, that boat might come in handy. Explore the river and find a lever to pull.
+Then sail back and trudge through the swamp. Find a secret passage in order to get through the gate.
+Find the sign that assures you of a warm welcome. Then you might want to save the game.
+Heed the sign's warning and tread carefully as you traverse the river. In fact, the first few times you try this you might want to discover the only safe passage across the stepping stones and ignore the welcoming party until you've made it across. Then WRITE IT DOWN!
+It's going to be a tough fight. Hint: Try using the Blade Wall spell if you have it, and then hiding behind the door again. It is the most effective way of ridding yourself of these guys. (You'll have to do it at least twice.) Also, you might want to scry the monsters to find out exactly what they're immune to. You're not going to like it.
+Anyway, IF you manage to get past them, navigate through the conveyor belts. Try not to trap yourself - remember those secret doors!
+You should find yourself at an open porticullis. If it's closed, you'll have to use Move Mountains on some moldy wall to get back to the boat, sail north and pull a lever in a tiny building near the porticullis.
+Go through the porticullis and wade through the water. Go through some secret doors and find a nice reward for your efforts.
+Go west, fight a bit, go through a secret passage and down yet another staircase.
+Whew! Pat yourself on the back. Congratulations! Now sit back and resign yourself to some serious business.
+
+PART SIX: Not Another Dungeon!
+Slaughter the welcoming party callously. Then exit the dining room to the south. A secret door at (12,17) reveals a couple of levers. Pull them. Go back to the door of the dining room. Then enter the room to the south. The now open gates to the east lead on to a chair with a door that is locked so well you can't open it even with spells. Sit in the chair. Rack your brains for a password.
+HINT: Think of the "password" plague.
+Eventually, you will find a stairway. Go down it.
+
+PART SEVEN: WHAT?!!! NOT ANOTHER DUNGEON??!!!!
+Don't worry, this is effectively the last dungeon. Yippee! No, actually I'm kidding. It's the 2nd last dungeon. But the last one has no combat and minimal thinking requirements. And it's tiny.
+Going a little way west from your starting position, you can see a swamp to the south. This is a place you need to get to.
+Find a secret door just south of a statue that you can't see until you find the secret door. Go northwest once so you're west of the statue. Then continue along the passage and go through a secret door in the east wall. At (28,41) a secret passage leads to a paved area. Enter the nearby control room. Pull the `Redirection water valve` lever and go back to the secret door south of the statue. Just northeast of the secret door, another secret door leads onto a passage. Go through the doorway. Step on the special next to the water if you like. Go through a secret door in the east wall. There is another secret door at the south of this passage; go through and collect a few things if you like. Go through the not-so-secret door at the end of the passage.
+An explanation is required at this point. There are spider drinking pipes and machinery blocking our way to the final confrontation. We need to destroy a section of machinery so we can get through. (Similar to blasting away the wall to exit the dungeon underneath the town earlier.) To do that, we need to increase the water pressure in the drinking pipes and machinery so that it will burst. The pipe will break, but there will not be a flood because the water supply is automatically diverted a long way up the pipe when something breaks. (This is a safety mechanism. It's not fun drowning in a subterranean cave.) We have already diverted the water flow into the pipe that we need to burst. Now we need to close a valve so the water pressure builds up and bursts the pipe.
+Head north, reading all the signs along the way. Enter the second control room and pull the lever marked `Main Valve Control.` Now it is only a matter of a short amount of time before the pipe bursts. Don't use the long rest feature; it might produce unexpected results, due to a bug in Blades. Instead, pause (click on your party or press the middle button on the keypad (the `5`)) up to thirty times until you receive a message saying the pipe has burst. Go through the hole (near the second control room). Then go through a twisting secret passage and use the portal. Go out of the room and south, fight the archers, and search the painting to the south. It asks you for a password. Enter the password the crystal soul (way back in the dungeon underneath the town) told you. Let's hope you can remember it.
+The door to the east will switch between being locked and unlocked every time you do this. Go through that door into the throne room...
+
+PART EIGHT: The Finale (or Thank God This Is Nearly Over)
+Once in the throne room, you will have to fight the Spider Master and Mistress, six guards and four spider shamans. A tall task, indeed. To help you, here are some hints:
+
+- There is a secret door in the north wall that leads to the last dungeon. However, you can only go through it when you have killed at least one of these two evil-doers: the Spider Master and the Spider Mistress. If you like, you can summon a few monsters to keep the remaining monsters busy and make a dash for it. This is a very tough battle otherwise. (It's bad enough anyway, I'm sure you'll agree...)
+
+- Use the Blade Wall spell on the Spider Master and Mistress. Summon demons to help you. In other words, don't just rely on yourself. Even an adventurer's gotta have some help sometimes.
+
+Hopefully, you will eventually get through the secret door and down the stairs there. Pat yourself on the back. Celebrate quietly. And desperately hope that you can cast the Ritual of Sanctification.
+
+One of the paintings here is hiding a secret passage. Go through it and the next door you come to. Now walk across the lava using heal spells, and go through the secret door at (14,12) and the one at (14,13).
+
+The ultimate goal of this scenario is to get through the door at (24,13) and pull the lever in the room there. This lever will shrink the giant spiders to their natural size, thus ending the spider plague.
+But the black magic generated from the four evil altars in the room you are now in prevents you from going anywhere near the door to that room. You will have to cast the Ritual of Sanctification on all four altars before you can end the spider plague. Luckily, you are saved a long time resting between rituals by the fact that the accumulation of magic in the very centre of the room instantly restores your spell points. So this is what you have to do:
+1. Go to the centre of the room (at and near (15,20)) to restore your spell points
+2. Cast the Ritual of Sanctification on one of the evil altars.
+3. Repeat from step 1 until all the altars are sanctified.
+4. Go into the room to the northeast.
+5. Pull the lever. You've won!
+
+Whew! Thank goodness that's over. Now you can take a well earned break from adventuring at last!

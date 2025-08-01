@@ -1,0 +1,28 @@
+THE GATHERING STORM - version 1.2
+
+Welcome to my scenario "The Gathering Storm." 
+The scenario is set during in the Empire during the reign of Emperor Hawthorne. It is the first part of a saga that continue in later scenarios.
+
+The scenario is intended for a beginner party but been set at medium to avoid monster stats doubling if the party exceed level 8.
+
+It is not suitable for a 1 PC party. The storyline assumes that the party is a mixed group of human males and females and at least one nephil. Obviously sliths  would be anacronistic.
+
+There are 4 files with this release;
+Atua.exs	the game file,
+abbyland.gif	a map of the vicinity of the Abbey,
+Atua.bmp	the graphic file for PCs,
+Atua.gif	the graphic file for Macs,
+
+The latter need to be converted to a meg and I have attempted to darken any clashing terrain.
+
+A high number of the terrain graphics are custom graphics so it is essential that the graphics files are used.
+
+I would like to thank my beta testers Andrew Barton, Juliet Rowley and Drakefyre for their imput. Andrew especially sent me many Kb of solid and valuable information. 
+
+The wooden wall set is by DRK Draxis. I have made some alterations.
+
+Many of the custom graphic are based on graphics downloaded from www.arttoday.com.
+
+I would like to thank my sister Angela for her assistance with scanning the Abbeylands map and allowing me to base one of my NPC on her (or the nine year version of her.)
+
+Janet Cone (janet.cone@paradise.net.nz)

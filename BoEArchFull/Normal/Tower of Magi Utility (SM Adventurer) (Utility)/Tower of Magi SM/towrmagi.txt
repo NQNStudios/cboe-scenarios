@@ -1,0 +1,26 @@
+Tower of Magi Scenario Utility v1.01:
+---------------------------------------
+
+By S.M Adventurer
+
+This is my Tower of Magi. Feel free to use it in your scenario, but do not erase the 
+name credit sign in the hallway near the enterance. 
+
+The scenario is unpassworded, so feel free to modify it as you please.
+
+The Tower contains personality nodes and Stuff Done Flags, so you will need to modify 
+those if you choose to use this Tower of Magi in your scenario. 
+
+Anyway, I hope you will find this utility useful.
+
+
+
+My Website: http://srmboe0.tripod.com
+
+Contact Information:
+
+Email Address: srmboe2@yahoo.com
+
+Updates:
+
+v1.01 - Fixed a few bugs.

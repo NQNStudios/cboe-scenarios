@@ -1,0 +1,32 @@
+
+Heirs To Theseus 
+
+Thanks for downloading!  This is a quick,
+very short scenario, designed to give players
+a unique and difficult tactical challenge.
+Apart from this text file, you should have
+found two other files in the zip archive -
+theseus.exs - the scenario, which you should
+place in your Bladscen folder, and theseus.sav -
+a saved game file, which you should place in
+the main Bladexil folder.  In order to enjoy this
+scenario, you should ONLY play via the saved
+game file, playing with a normal party, even
+a beginner party, will rob the scenario of
+its challenge and enjoyment.  
+
+This scenario is designed as a complement to
+another one of my scenarios, "Of Good And Evil"
+- and those who have played that scenario will
+quickly realize the terrain and the situation.
+(The party played here is assumed to be very
+distinct from any party that has adventured in
+"Of Good And Evil".)
+
+IMPORTANT! - Do not save over the file theseus.sav.
+If you want to save your game, make sure you change
+the file name.
+
+If you have any comments, questions, concerns,
+or complaints, feel free to email me at:
+klinkham@juno.com.

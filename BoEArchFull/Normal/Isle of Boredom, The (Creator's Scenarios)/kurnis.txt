@@ -1,0 +1,168 @@
+*****THE ISLE OF BOREDOM*****
+
+Written by: The Creator
+
+Thank you for taking the time out to download this scenario and even 
+read this file.
+
+CONTENTS OF .ZIP FILE:
+
+kurnis.exs - The scenario itself.
+
+kurnis hints.txt - Hint file, for when you get stuck.
+
+kurnis.bmp - custom graphics file for windows.
+
+kurnis.meg - custom graphics file for mac.
+
+kurnis.txt - readme file, you know, that thing you're looking at right
+now.
+
+OPTIMAL PARTY LEVEL:
+
+It all depends on your skill level. A player who's only had Blades of
+Exile for a while and is still getting used to it should use a level 15
+party or thereabouts. On the other hand, an expert player may want to 
+give him/herself a challenge by starting with a fresh party. Most 
+people would land somewhere in between. I would recommend a party that
+has already gone through one small/very small scenario, or a new party
+that has been beefed up a bit with the character editor. Use your own
+judgement. Keep in mind that monster strength is likely to increase
+faster than party strength.
+
+NOTE: After the initial release of this scenario I recieved some
+complaints about the difficulty. I therefore add this disclaimer. The
+Isle of Boredom, while not combat based, does present some tactical
+challenges that will be too difficult for some players. However, these
+can almost always be bypassed. You'll just miss out on some stuff. 
+Attempting the scenario with a fresh party should only be done by those
+who are truly arrogant about their playing skill (like me). ;-)
+
+WARNING: This scenario is classified as Very High. This is mostly to
+prevent monster hp from doubling, though that shouldn't cause much of a
+problem anyway. However, a lot of the puzzles in this scenario are 
+quite difficult and intended for experienced players. There is a hint 
+file included in case you get stuck, but I recommend that you 
+use this only as a last resort.
+
+CUSTOM GRAPHICS:
+
+All custom graphics used in this scenario are either adaptations of BoE
+graphics or my own original artwork. If you think that they're shoddy, 
+feel free to do a few of your own and send them to me. I might include
+them in a later version. Then again, I might not.
+
+On the other hand, if you think they are absolutely brilliant and you
+want to use them in your own scenario, go ahead. Just make sure you 
+give me credit for them in your readme file. It would also be nice if
+you emailed me first.
+
+I might add that I think both of these situations are highly unlikely.
+I added them in there just for the heck of it.
+
+KNOWN BUGS:
+
+As my first effort, The Isle of Boredom is a bit buggy in places (though it's mostly okay). I believe I have fixed all fatal ones, but a few others still exist. Remember to keep back-up save files, just in case! If you have problems, please don't hesitate to contact me.
+
+Some of the bugs in this scenario can be avoided if you follow these small restrictions.
+
+- Do not leave town with the character editor.
+- Do not cast Word of Recall.
+- Do not use a party above the recommended level.
+- Keep each PC with at least one inventory slot free.
+- Do not let any character max out in Defense.
+- Don't change the number of PCs in your party over the course of the 
+scenario.
+
+As you can see, considering that this is a fairly low level scenario, 
+most of these will not cause you problems as long as you don't cheat.
+
+There are a few other known bugs, some that I have not fixed because I don't know how, others because they are only minor problems and aren't worth the effort.
+
+STORYLINE: 
+
+Ah yes, the storyline. The part of the scenario that we love the most.
+In this case, it's not very interesting. You're out-of-work adventurers
+who take a ship to the remote island of Kurnis looking for a mission.
+You strike it bad on two counts: There isn't a single monster on Kurnis
+and even fewer missions and, just to make it worse, you miss your boat
+back off the island. To top it off, it's a month before the next ship
+comes in. Until then, this island is your home.
+
+And thus the desperate search for a mission begins...
+
+NOTE: The very beginning of the scenario might not make a lot of sense
+at first (and be somewhat annoying as well), but don't worry. Things will be explained. 
+
+THANKS TO:
+
+iambobsushi for providing a beta testers forum for this scenario at 
+his Message Boards. I appreciated it a lot.
+
+iambobsushi, Morgan Wild and Miguel Angel Goicochea, for beta testing 
+this scenario for me.
+
+Jeff Vogel for creating the Blades of Exile Scenario Editor!
+
+- "The Creator", Stephen Ashby.
+
+CONTACT INFO:
+
+If you want to send me fan mail (please?), beg for a sequel, tell me
+about some bug that is still unsquished, politely inform me that the world would be a better place if I stopped making scenarios, or for that matter, stopped breathing, or if you would like to contact me for any other reason, you can reach me by:
+
+Emailing me at barcoorah@mail.com
+
+Or contacting me on one of the Blades of Exile message boards..
+
+Or, if you REALLY want to abuse me, email me at notmyaddress@alias.com
+
+ENJOY PLAYING!
+
+
+History:
+
+v1.0.0 - Initial release. Takes 1st place in the Best Newcomer section
+of the Fourth Scenario Design Contest and is a finalist for Best
+Scenario.
+
+v1.0.1 - Many minor bug fixes. Thanks to all who helped by pointing 
+these out to me, especially Andrew Barton.
+
+v1.0.2 - Several potentially fatal bugs fixed.
+
+v1.0.3 - More bugs fixed, others left unfixed because they aren't major and I'm too lazy to do anything about them.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why are you still reading this? The readme is over, finished, done,
+completed, no longer necessary! Go play the scenario!

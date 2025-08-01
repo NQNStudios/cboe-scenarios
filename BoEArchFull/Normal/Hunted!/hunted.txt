@@ -1,0 +1,36 @@
+Hunted!
+a Blades of Exile scenario by Thuryl
+
+-----
+
+This scenario was created for (and was declared the winner of) the Don't Fix The Shark contest, a BoE scenario design contest which required designers to place limitations on themselves. This scenario contains no text, no monsters, and takes place entirely inside one town. Hunted! is a BoE implementation of the classic game Hunt the Wumpus. If you don't know what Hunt the Wumpus is, you should keep reading. If you do, you should probably keep reading anyway.
+
+The goal is to navigate around a cave, locate the Wumpus and shoot it. What's a Wumpus? I'm not sure either. All you need to know is that you have to hunt it, and it will eat you if it catches you.
+
+The caves you're travelling through are a 4x4 grid of intersections connected by diagonal passages. The edges "wrap around", so taking a passage at the northeast edge puts you at the southeast edge. You will start at a random location in the caves each time you play.
+
+Be sure to play with sounds turned ON. They give you vital clues to the location of hazards:
+- If you hear bubbles, there is an acid pool at an adjacent intersection. Falling into an acid pool is fatal.
+- If you hear a laugh, there is a lair of gremlins at an adjacent intersection. If you trespass on their land, the gremlins will teleport you to a random location in the caves. This is usually a bad thing.
+- If you hear a growl, the Wumpus is at an adjacent intersection. If you step into the intersection where the Wumpus is resting, or where it has just moved, it will eat you. Watch out.
+
+The acid pool, gremlins and Wumpus are placed at a random location in the caves each time you play. The gremlins can levitate and the wumpus is immune to all magic, so two or all three can coexist on the same space.
+
+At the same time as you're hunting the Wumpus, the Wumpus is also hunting you; every time you move to a new intersection in the cave, it has a 20% chance of moving in a random direction. Nonetheless, if you're patient, clever and just a little lucky, it's possible to deduce the Wumpus's location. The Wumpus can't "wrap around" to the other side of the caves as you can; the passages underneath the caves are too small for it. Keep this in mind when tracking it.
+
+When you think you know where it is, fire an arrow in the correct direction using your Special Items menu; the arrow will travel to the adjacent cave in the direction indicated by the appropriate item. Like you and unlike the Wumpus, arrows *can* wrap around to the other side of the cave. You only get one shot, so don't fire unless you're sure. If you're correct, you slay the Wumpus and win. If you missed, the Wumpus hears the noise, catches you and eats you.
+
+Good luck and good hunting!
+
+-----
+
+Version History:
+
+v1.0.1: Reduced the chance of the Wumpus moving from 50% to 20%; losing now just plays the party death sound and kicks the party out of the scenario instead of killing them
+v1.0.0: Initial release
+
+-----
+
+Contact Details:
+
+If you have any questions about this or any of my other scenarios, feel free to email me at rmcm1839@bigpond.net.au

@@ -1,0 +1,19 @@
+To play Liberation, you have to realize that it is a science fiction scenario.  Pretty much the entire item set has been replaced, in groups as follows:
+Bows have become guns.  Arrows have become bullets.
+Crossbows have become energy weapons.  Bolts have become energy cells.
+Missile(no ammo) has been used for infinite energy source weapons.
+Bashing Weapons are now Crude Weapons.
+Edged Weapons are now Power Weapons.
+Pole Weapons are now Short Ranged Weapons.
+Thrown Weapons now include Grenades.
+Most magic items have been replaced with black box electronics.
+Potions have been replaced with drugs.
+Rings, necklaces, scrolls and wands have been removed, as of this version of the scibase.
+
+
+Graphic credits go to:
+Myself, Wyrmfire, Kalorlo
+
+I have absolutely no idea, now, who created many of the graphics I've used, they were in my old gfx folder.  Many of the graphics are original, or edits of BOE graphics.  If you recognize any of these graphics as yours, and you are not credited above, email me and I will acknowledge your work.
+
+Glynn Stewart.  vae_victus@flashmail.com

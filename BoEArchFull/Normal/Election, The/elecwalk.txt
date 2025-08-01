@@ -1,0 +1,360 @@
+
+				The Elect - Walkthrough
+
+
+	This document gives precise instructions on how to change the votes of all those whose 
+votes can be changed. They are ordered by person, with a blank page between each to ensure you
+don't accidentally see something you don't want to.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cornelius (librarian)
+
+	This is the easiest vote to change - just talk to him, ask him about his 'vote', and he'll
+ask you to tell him who to vote for. Just say 'Vogel' or 'Vandell, and he'll vote for that person.
+However, when you leave the library you will realise that he wasn't on the register. You'll have
+to fix that. If you ask Gwyneth about 'Cornelius', she'll hint that she is able to do it, but not
+while everyone's watching. Wait until night, then wake her by talking to her, and ask her about 
+'Cornelius'.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Smith (bronzesmith)
+
+	Talk to him and he'll be happy to explain his reasons for voting for Nash. You'll have to
+convince him that his argument is flawed. Ask him about the 'Exiles' to inform him that he's
+mistaken about the sort of crimes they committed. He'll hint that he needs evidence. Go to the
+library, the Eastern book room (city records). Look for 'criminal' records, or stuff about the
+'Exiles' to find a book of judgements detailing the crimes of the Exiles. Ask Smith about the
+'Exiles' again, and he'll be convinced. He'll now vote for Vogel, unless you are properly
+campaigning (see below), in which case he'll vote for you.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cilla (inn owner)
+
+	All is not well between her and her husband, Cyril. In fact, she's having an affair.
+At night, you may hear some noises which you assume to be Cilla and Cyril. Go into their room
+(South of yours) to find Cyril sound asleep and Cilla no where in sight. It's her and her lover
+talking - they are outside the city walls, just South of the inn. There is a secret smugglers'
+entrance just to the East of the inn, but you won't be able to find it unless you know about it.
+Go to the library and look at the items on show (the white dot next to the pedestals) to find
+a map showing it's existence and position. Go back there and you'll now be able to go through,
+and find Cilla and Mike, the bad poet. You now have information you can use to blackmail both
+of them.
+	To blackmail Cilla simply talk to her, ask her about her 'affair' with 'Mike'. She is
+very scared of you telling Cyril, her husband. She'll do anything you want. Ask her about 'want'
+and then say 'vote'. She'll then vote for you.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mike (bad poet)
+
+	Before reading on, see Cilla above.
+	OK. So you now know that Mike's having an affair with Cilla. Surely this has potential
+for blackmail? Ask Mike about the 'affair' and he'll point out that he doesn't care who you
+tell. But there is one person he hasn't thought of - Cyril, unstable and distinctly hard. Say
+'Cyril' to Mike and he'll get scared, but point out that you have no proof. You need some. Mike
+likes to think of himself as a poet - obviously he'll write love letters to his amour. But
+where could you find one? Cilla wouldn't keep them for fear of discovery. But Mike's probably
+got some unfinished or rejected ones, still on his desk. He won't let you look there while he's
+there, but at night he can't stop you. Break in to his place at night and look at the desk. You
+will find a bad love poem, addressed to Cilla. During the day, talk to Mike and again say
+'Cyril'. You'll show him the letter and he'll agree to vote for Vogel. This is the best you'll
+get - he won't vote for you.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tarle and Lerta	(Exile refugees)
+
+	These Exiles are the key to winning the election. Talk to Tarle and he'll suggest you
+campaign properly. If you agree, then both Tarle and Lerta will vote for you. It will also have
+other, subtler effects. These include Mayor Vogel hearing about it, and refusing to give you any
+more help. Go to the North of the market that night, as Tarle suggests, in order to find a
+little surprise. Solving Lerta's nasty crossword clue is of no importance, so I won't tell you
+the answer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jack	(rationer)
+
+	Talk to Jack, and he'll tell the reason for his voting Nash being the desperate nature
+of the food shortage, and his hatred for the Codys' opulence. Go to their house in the North
+West of town and talk to them. You will find various clues that they are actually eating more
+than just their set rations. Search the West wall of their house to find a secret door leading
+to their stash of food. Take some if you want. You can now try talking to various people to sort
+out the situation. Marvin won't help, nor will Mayor Vogel. You'll have to do something 
+yourself. If you are already campaigning for yourself then go to Tarle and Lerta's place. You
+will be given the option of making the redistribution of the Codys' food a part of your
+campaign. If you agree, then talk to Jack about the 'Codys' and he'll agree to vote for you.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cody 	('natural philosopher')
+
+	He's going to vote for Nash, and you won't be able to persuade him otherwise. It's his
+wife's idea, and she's immutable. However, if you talk to Cody, you'll find out about the
+power of the runes. He'll also hint to the fact that he quite often stays up all night with
+them. Go there at night, and you'll find him asleep in the chair before the central sigil. If
+you step behind the chair, an idea will occur to you. What you choose to do here is up to you.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Marvin (guard)
+
+	This is the man to come to if you have any problems with someone trying to kill you. And
+you will. If you're going to stop him voting for Nash, then you'll need to disrupt Nash's
+reputation.....
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jonathan (friend of Nash)
+
+	This is probably the most complicated puzzle, and also the only one with an added urgency
+attatched to it. You see, this man is trying to kill you. Remember that thing with the
+portcullis? That was him. Unless you do something about it first, he will also cause you to be
+attacked on your first night in the town, your rations to be stopped on the third and fourth
+days, and your staff to be stolen on the fourth. To stop all this, you need to get him arrested.
+Talk to Marvin about the attempts on your life. When he asks who might have done it, say
+'Jonathan'. He'll demand proof. When someone tried to close the portcullis on you, that
+someone fled behind the library. Follow his tracks and you'll find a scrap of red material.
+Talk to Jonathan, and notice that his description mentions a flowing red cloak. Click on the
+word 'cloak' to attempt to get a look at it. Nothing suspicious, but you need to get a closer
+look. Wait until night and steal into his room. Search his dresser and you'll find the cloak.
+It was torn but then mended. This still isn't enough - you don't know when the rip happened.
+Talk to Mairwen, the seamstress at the market. Ask her about 'Jonathan' and she'll tell you
+that she repaired his cloak soon after the portcullis incident. Now go back to Marvin's place
+and he'll arrest Jonathan. That's now one Nash voter out of the way, and also if you now ask
+Marvin about his vote then he might decide to change his mind.
+

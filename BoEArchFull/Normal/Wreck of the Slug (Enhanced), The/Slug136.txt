@@ -1,0 +1,42 @@
+Thank-you for loading "The Wreck of the Slug" - a combat-oriented Blades of Exile scenario.  Although this scenario is for first-level parties, it can be very difficult and should challenge any party.  "TWOTS" is also very big, with multiple victory conditions and lots of surprises.  I must stress that this scenario is designed with the first-level party in mind and that it won't be as much fun if you take higher level parties through it.  Although the difficulty is set at high, this is just so the monsters will be stronger and have some kind of balance toward the end of the scenario - don't worry, your party will be level 40+ by the end, with plenty of strong items in hand.
+
+Careful play is necessary for full enjoyment.  Save often, especially before heading into unknown towns/dungeons, to avoid getting in over your head.  Where possible you will have to rest frequently to replenish your strength.  Some towns/dungeons will be impossible to finish without the requisite levels and equipment, so don't be disappointed if you can't crack them right away.  Some towns/dungeons are also one-way only, so make sure you are strong enough before entering or you won't make it out.  Some special items can be invaluable at the right time.
+
+"TWOTS" is non-linear, so common sense should be your travel guide.  Move about on the surface in the province of Ardea, from friendly town to friendly town, gathering both equipment and information.  You could spend weeks without leaving Ardea and still find all you need to build a strong party. It is important to buy horses to help you outrun tough wandering monsters.  In the beginning, don't stray too far from where you started - fights are easier closer to home.
+
+If you have a saved game from a previous version and you want to incorporate the changes I made with later versions, simply type ">" to reset all towns and make changes.  Don't forget that this will also mean that all dead, non-flagged, unimportant monsters will reset and re-appear, so you might want to do this after you have cleaned out an important dungeon/town.  Some people have experienced trouble with the scenario when resetting, so consider yourself warned.  The changes are mostly cosmetic, but I have also included an interesting, but tricky,  new level off the Imbrosian outpost:  "Mountain Top Staging"- with new monsters, a new special item, new tricks and traps, and more text.
+
+If you have any problems, questions, comments or suggestions, please don't hesitate to e-mail me at: wilsdon@ns.sympatico.ca
+
+A hint file for this scenario is available on our web page at:  http://hem1.passagen.se/maragor/
+
+This scenario and I owe everything to the following:
+
+Sue Harris - partner and co-author extraordinaire.
+Jamie Clark - The Gonzo Beta-Tester.  Fast, loose, and really clever.
+Scott Evans - The Details Man Beta-Tester.
+Tarl Roger Kudrick - The Big Picture Beta-Tester.
+Jonatan Pettersson - my web page partner and longest standing Exile friend.  It's hard to believe that this genius is only sixteen years old.
+
+My sincerest thanks go out to all of you; I would never have been able to do it without you (especially those wonderful beta-testers).
+
+
+Tony Wilsdon
+
+The Wreck of the Slug
+
+	The Empire takes what it wants and twenty years ago it decided that it wanted the land known as Ardea.  The people of this area had lead a fierce and independent existence until this point, but most welcomed the potential security that an established government could bring.  The new construction, the Empire dervishes and archers in their bold uniforms, and the potential for new trading partners filled the Ardeans with bright hopes for a safe and prosperous future.
+
+	After the events chronicled in the Exile series, Empress Prazac sent praetors, merchants, engineers, tacticians, and warriors to the new province, but not one of them could have been considered a genuine leader.  The best efforts of these workers were uncoordinated and soon the entire, newly woven fabric began to unravel.  The Empire's leaderless representatives turned selfish and became unconcerned with the fates of those they were sent to aid.  The Ardeans, for so long used to determining their own fates, did not know how to adapt to this new regime and became similarly concerned with self-preservation.
+
+	During the brief period of construction and re-organisation, and before the dissolution of the elements which formed the new province, one of the cruelest blows to befall the Ardeans was the strange death of Fabula the wizard.  While helping defend the town of Rodosto from a troglodyte raid, she was infected with an ingenious disease that went unnoticed and untreated for the six weeks it took to kill her.  Interestingly, it was also during this siege that the leader of the humans, Ali Ibn Abi Talib, demonstrated his great physical power.  Having lost his shield while leading his warriors in the defense of Rodosto, he wrenched the huge gate of the walled town from its hinges and carried the eight hundred and fifty stone door as a shield.  After the human victory, seven of his strongest followers each attempted to lift the gate - and failed.
+
+	Five years after this battle, another sorcerer, Pero, achieved notoriety in Ardea by seizing the tower which had been built at the west end of Honour Bridge.  Pero's victory was absolute and he holds the tower still.
+
+	The preceding events heralded the beginning of the end for the province of Ardea.  Nephilim pirates, perceiving a weakness, struck the town of Alzey and destroyed it utterly.  Then, after several years of minor raids along the northwestern coast, they struck again with a major assault on the walled town of Borsippa.  Although the Borsippans fought bravely, the town was sacked and the pirates demolished their target.  Then, even as the pirates moved on, other forces of evil moved in; Borsippa has become host to an unholy crew and their evil shadow that shrouds the town threatens to spread further.
+
+	As if these problems along the coast were not bad enough, around six years ago the last human was driven out of the productive Taltheilei and Wanuskewin mines by goblins from the southern mountains.  The towns of Matisco, Sena Juna, and, to a lesser extent, Epernay, now all show signs of the financial stress resulting from the loss of their most valued resources.  Rumour has it that the goblins are preparing to sweep down from the mountains in a bid to conquer the entire province.  Unaided, it is doubtful that they could make any further progress, but if they have allies, who knows how they could tip the balance of power in this region?
+
+	One of the last bastions of hope for the Ardeans and the rest of the humans in the area had been the goddess Hatar.  However, whereas she had once been known to actively intervene and protect her charges, now she is rarely seen.  The reasons for Hatar's lack of action are unknown and probably hold one of the keys to restoring order in this land.  If she were to abandon the area completely, no amount of effort by the Empire or crafty bands of adventurers will save the province.
+
+	Hatar and Pero, the Nephilim pirates and the goblin menace - all are but some of the elements in "The Wreck of The Slug".  This scenario has been extensively playtested, features multiple victory conditions, over one hundred NPCs, and nearly fifty fully-developed levels.  I hope you enjoy playing it.

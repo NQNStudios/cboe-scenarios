@@ -1,0 +1,417 @@
+Revenge 1.0.5
+2000-2001
+
+Hi! You've downloaded Revenge! That's great! This actually my first complete scenario.
+I taught myself how to work the editor as I went, so the first dozen were unstable. This one
+is more stable.
+
+Rating:
+G - Nothing objectionable.
+
+Difficulty:
+Medium - I had this originally set on Easy, but I got 
+   the sense that most people couldn't beat it(I did,
+   and so did Jjudvven.)
+
+   If you beat it with a level 1 party let me know. I
+   want to see if anyone else can do it. It involves
+   tactics. Summons are essential to keep the enemy
+   away, and fireballs prove to be the best of friends.
+
+
+Credits:
+Jjudvven - Debugging, and debugging, and debugging...
+Ariven - Debugging
+
+All graphics were made by me or were warped by Frahhamn.
+
+
+Comments?  
+I am wide open to comments. A scenario is never finished. Its only abandoned. SpiderWeb
+did a very good job on theirs. I especially liked the Valley of Dying Things. Why? I
+don't really know. I do like the story behind it the best. Even so I like all of their
+games. They're all made well... but then again, that's their job, isn't it? 
+
+Complaints?
+I would be quite CRUSHED if you disliked my masterpiece. Actually, I would try to
+fix it to make you happy. I don't THINK there is anything wrong with it.
+
+Disgusted?!
+If you're disgusted I don't want to hear from you... Actually, its quite the contrary,
+I'd rather hear from people who didn't like my scenario so that I could perfect it. Praise
+is nice, perfection is better.
+
+
+For any reason email me at:
+anschaunng@juno.com
+Frahhamn
+
+
+(For simple, clean hints, scroll down...)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CLEAN HINTS:
+These hints are understandable, but even so,
+some of you might like just jumping into a game
+without the manual.
+
+(I'm like that, that's how I learned Blades of Exile, Nethergate and numerous other games.
+I read the manuals after I'd better them a few times. Originally I didn't realize that you could use the
+party you won with to continue to the next scenario. I got VERY good playing A Mild Rebellion with a 
+level 0 team. You should have seen me attempting The Zahkazi Run. Duh....)
+
+
+1. Avoid fighting hand-to-hand with dark warriors or
+   any other creatures in this game. Most of the
+   custom creatures created for the scenario ended up
+   being quite powerful. Like, in one turn one dark
+   warrior might kill two of your people. Get the picture?
+   This wasn't initially planned, but that's how I
+   worked it out.
+
+2. Because of number 1, 5 mages and one priest is
+   advised(well, that's what I used.) You CAN try it
+   with a mix or only warriors, but you'd better use
+   a higher level team. I WANTED the game to be
+   played with mages and priests and to be difficult
+   and at the same time be a low-level party.
+
+CHEATING-TYPE HINTS:
+I believe that this is one of the WORST forms of cheating, but so what? Here I've listed several
+time-saving tips that could help you get through some of the tougher pinches.
+
+Scroll down if you really want some of these
+tips.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If your concience is bothering you its not too late
+to turn back...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stubborn aren't you?...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Too late. You did it.
+
+These are in no particular order, so read them all to get the full message,
+or print them out, I don't care.
+
+1. Password to the Thieves Den is 'Dragon'
+2. Find Ethel, Ursula, and Gretta BEFORE fighting
+   Lord Nats. They sell cheap wands which can be
+   priceless.
+3. Be sure to visit Sam's Entertainment Center.
+   If you're as crude as I expect(since you're reading
+   this) you should figure out to save before using
+   the vendor machine, therefore making your fortune
+   increase rapidly by saving and loading depending
+   on the results.
+4. Lord Nats is immune to fire. Just a helpful tip.
+5. Lord Luap is undead.
+6. Money is valuable. And rare. Rare that is until
+   you start to claim your fame. Then there's money
+   coming out your ears!
+7. The entrance to the Theives den is south of the
+   starting town, along the road and to the east.
+   When the road forks north, take it. Take first
+   left. Go to the dead end. Move onto northern mountains.
+   Bingo.
+

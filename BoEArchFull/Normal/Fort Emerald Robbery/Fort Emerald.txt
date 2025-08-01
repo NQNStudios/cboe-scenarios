@@ -1,0 +1,127 @@
+FORT EMERALD ROBBERY by Bain-Ihrno
+Scenario Readme
+
+
+  Thank you for downloading Fort Emerald Robbery! Here is
+what's happening: The Emerald of Fort Emerald has been
+stolen, and the guards have seen it go to the north.
+The commander hired you to hunt down and return the
+Emerald...
+
+- - - - - - -
+
+General Tips:
+
+1. I highly recommend having a PC in your party with decent
+pole arm skill, because pole arms are the only type of weapon
+available in this scenario.
+
+2. If you come across a door that plays a 'lock click' sound,
+with no message, the door can't be opened.
+
+- - - - - - -
+
+Abilities:
+
+ Some of the abilities are a partial recreation of the
+rune battle system in Nebulous Times Hence. Some have similar
+mechanics, but they are not necessary for scenario completion.
+
+Anyway, there are 10 abilities in the scenario. You start out
+with two of them, and you can find more. They can be used once
+every 3750 moves. The 'beneficial to party' abilities can only
+be used by 1 PC.
+
+These are the abilities in the game:
+
+1. Natural Healing: This ability will heal 80 damage from
+the PC of choice.
+
+2. Natural Curing: This ability will cure the poison and
+disease from the PC of choice.
+
+3. Power Recharge: This ability will restore 70 spell points
+from the PC of choice.
+
+4. Call Beast: This ability will give you a usable item
+that summons a Baby Hydra. There is a 25% chance of it
+being an adult Hydra instead of a Baby Hydra.
+
+5. Call Spirit: This ability will give you a usable item
+that summons a Shade. There is a 25% chance of it being
+a Vengeful Shade instead of a Shade.
+
+6. Inner Might: This ability will give the user a strong
+blessing and a small Magic Resistance amount.
+
+7. Absorb Wind: This ability will absorb a gust of summoned
+wind, which will speed the user up.
+
+8. Holy Sanctuary: One of the most useful. It gives the]
+WHOLE PARTY a strong sanctuary, and will give a 50-move stealth.
+
+9. Shielding Glow: This ability will give the user a minor
+bless, a strong magic resistance, and a minor invulnerability.
+
+10. Heat Ray: This ability will give you a usable item
+with a strong 'Fireball' ability. There is a 25% chance
+of it being firestorm instead of fireball.
+
+Do those abilities sound useful?
+- - - - - - -
+
+CREDITS:
+
+Beta Testers:
+
+-Terror's Martyr
+-The Great Mister
+-Gizmo
+and especially...
+
+-WildKarrdeSmuggler, who suggested that the whole
+scenario should be recreated. My original version
+was A LOT bigger (and worse) than what you are
+about to play
+
+
+Graphic Credits:
+
+-Falcatta (Beige Wall Set)
+-Jeff Vogel (Slith Talking Pict, Slith Elite)
+-Shyguy (Skeleton Bladesman, Portal, Glowing Sign)
+-Tim Farland (Crystal Warrior)
+-Relhan (Stairways)
+-Flamefiend (Emerald)
+(Sss-Thass unknown)
+
+Innovations:
+-Terror's Martyr
+-Andres Gonzales
+-The Creator
+
+(I am not telling what innovations were used)
+- - - - - - - - - - -
+I would also like to credit Skyle for the Alternative
+Bladbase.
+- - - - - - - - - - -
+
+
+Installation:
+
+PC Users: Move emerald.exs and emerald.bmp into the
+BLADSCEN folder.
+
+MAC Users: Create an MEG file, as I have no idea as
+to how to do that for you. Then, put emerald.exs and
+emerald.meg into the Blades of Exiles scenarios folder.
+
+
+- - - - - - - - - - -
+Enjoy the game! Questions? Comments? Complaints?
+Incorrect credit? Need an ability location?
+Email me at: bihrno@yahoo.com
+
+Good adventuring, 
+  
+Bain-Ihrno

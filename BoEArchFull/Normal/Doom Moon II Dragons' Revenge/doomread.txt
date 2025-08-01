@@ -1,0 +1,74 @@
+***************************
+Doom Moon II:Dragons' Revenge
+***************************
+
+Welcome to Doom Moon II. This Blades of Exile scenario was created by Andres Gonzales Tomanyi, and is sequel to the scenario Doom Moon I: The rescue.
+
+There is no need to have played Doom Moon I to enjoy Doom Moon II. However, it is highly recommended that you play it if you want to fully understand the storyline. If you played Doom Moon I, there is also an intro movie at the beggining of the scenario where the most important events of Doom Moon I are recalled so that you refresh your mind.
+
+Here are some of the features of the scenario Doom Moon II:
+
+- Intro MOVIE!
+- Seven new spells used via the special 'items'.
+- Choose from 7 characters to join the party and help you in your quest!
+- 83 towns/dungeons full of action and puzzles.
+- Headbreaker puzzles.
+- 500K of new custom graphics!
+- New monsters that requiere special strategies to defeat.
+- New weapons, including guns, grenades, swords, halberds and more.
+- Tons over tons of interesting side-missions
+- Interesting storyline.
+- Games inside the scenario: soccer, space ship and crossbow hit!
+- The ultimate final monster... you are gonna love it.
+
+Party requirements to play Doom Moon II:
+
+Doom Moon II is designed for very high level BOE parties. I would recommend level 40-45 parties, that is unless your party members have too many advantages (regenerating, good constitution, etc.), in which case a level 35-39 party is enough.
+However, I also include with the scenario, a party maker. I highly recommend that you create a brand new party (level 1) and enter the party maker with it. There you will find all the items and spells you need to make Doom Moon II a really fun challenge. 
+
+If you decide to enter the scenario with a party you already have, have one warning in mind:
+
+NEVER EVER USE WORD OF RECALL! That spell will get you stuck. There is no need to use that spell in the scenario, so don't use it.
+
+I also advice against using the spells Avatar and Protection that are never given to you if you enter the scenario via the party maker. They are spoilers that make the scenario less fun.
+
+Doom Moon II bugs:
+
+By the time this file is being written there is only one bug I know of, and unfortunately, I can do nothing to fix it. If you play the intro movie in a Macintosh PowerMac G3 computer, it usually crushes the computer. If you have that problem, simply skip the movie and go on with the game. There is no reason why you couldn't finish the scenario just because of this. It seems to work fine on all other machines, though.
+
+However, there may be some bugs here and there because there are many highly complicated nodes in the scenario and from time to time it got hard for me to keep track that all was right because there were too many possible situations, like special items you have, party members you have joined, and so on. If you find a bug, please report it to:
+
+Andres Gonzales
+arpadgon@caoba.entelnet.bo
+
+Doom Moon II Characters:
+
+As mentioned at the beggining of this text, there are seven characters that can join your party to help you in your quest. However, you are only allowed to join four of them. All of them are found during side missions, so if you take the direct road of the game you will never meet them.
+Here is a brief description of them. If you like one of them, begin searching for him/her!
+
+Ivanji: A ambidextrous warrior. Fast and deadly, he would make a nice addition to physical-fighting oriented parties.
+
+Soldier w/Halberd: An odd mage/warrior, the soldier is not too good with magic nor too good fighting but does quite well combining both powers. Good for those who like balanced characters.
+
+Hawk: A pirate archer, he knows a very bit of magic. His strenght lies in his abilities as a thief, rather than archer or mage. He can deal with certain puzzles that otherwise would be difficult to solve.
+
+Father Rand: A high priest. He is a bit lost in his thoughts, but he manages priest's spells quite well. Not too good fighter, though. He also carries some interesting items in his pockets.
+
+Katherine: A young and beautiful wizardess, her poor fighting abilities are overcomed by her never ending deadly spells. She is always eager to help the party and always blesses and hastes them before every hard battle.
+
+Dabnis: A muscular priest/warrior, he is quite good in both arts, even though not an expert. He is a bit hard to find but he is very useful. Another character for the ones that like multi-abilities characters.
+
+Lyla: A 19 year old wizardess/priestess, deadlyness is her last name. She is the hardest one to find and join to the party, but she literally brings several enemies down before the party can blink. You should be careful not to stand in her way when she launches her deadly spells.
+
+Doom Moon II hints:
+
+Don't expect to find any hint file for Doom Moon II. This scenario is intended to be a puzzle scenario, and when there are hint files around, people tend to think less and read the hint file more. That is exactly what must not be done.
+
+However, if you get stuck and you see no way out, I will gladly help you if you email me to:
+
+arpadgon@caoba.entelnet.bo
+
+I am also famous for replying pretty fast. Remember: don't give up! Keep trying.
+I am only going to give one hint:
+
+"Yes, you are supposed to escape from the dragons, not kill them ."

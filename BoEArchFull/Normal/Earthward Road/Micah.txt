@@ -1,0 +1,58 @@
+*** Earthward Road v1.0.0 ***
+A scenario for Blades of Exile.
+
+- Introduction - 
+
+Micah was the first king of Exile. Unlike the archmagi, whose exiles were well-known, the story of Micah is obscured not by legend but by obscurity. Never a prominent figure in the politics of the Empire, the documentation of his fall and rise, if ever recorded, is lost to history. With his death soon after the return to the surface world, however, interest has been renewed, and many tales have been told.
+
+History, after all, is only the realization of fiction.
+
+- Technical Information -
+
+Primary design phase: December 16 through December 18, 1999.
+Beta-testers: bencasey01@aol.com, max@mail.pacifier.com, clarkj@OIT.EDU
+Files included: micah.exs (scenario file), micah.gif (custom graphics, unconverted), micah.txt (documentation)
+Custom graphics downloaded from the Blades of Exile web community.
+
+- Versions -
+
+1.0.0 - First public release.
+
+- Scenario Hints -
+
+This is not a complete walkthrough, but should come fairly close.
+
+Q. What are the starting party requirements?
+A. A reasonable freshly built party (six level-1 characters) is sufficient and recommended for the veteran player. Several points of combat may present difficulties, but can definitely be handled with the correct tactics.
+
+Q. Where am I? Who am I? How do I get started?
+A. Yesterday, you were simply adventurers passing through the small rural town of Suthol at the fringe of the Empire. Adventurers as you are, you paid for a night at the local inn, and struck up a conversation with a mercenary who also happened to be there. From him, you heard about a reward that the mayor is offering - something about clearing out the nearby mines. The mayor's house is in the southeast of the town - you should probably go see him as soon as possible.
+
+Q. Where are the essential town utilities?
+A. Identification and selling takes place at the general store. Training is in the town barracks. Supplies can be bought in various places around the town. Armor and spell acquirement are not, for the most part, available - the province isn't very firmly settled, and some things are scarce in the wilderness.
+
+Q. What do I need to do in the top level of the mines?
+A. There are a small tribe of cave goblins here, but they shouldn't be very difficult. The Great Goblin, in the northeast of the mines, provides a valuable clue as to what special item you need. Look for secret passages near him. The second part of what you need to accomplish can be found by investigating the dead miner and the reason of his demise.
+
+Q. What do I need to do in the bottom level of the mines?
+A. Circle about to the east of the central spire and look for secret doors.
+
+Q. How do I defeat the Phantasmal Master?
+A. Rest (upstairs) before the battle. Its minions are sometimes susceptible to Sleep Clouds; also recall the usefulness of the priest spell Sanctuary.
+
+Q. What do I do back at Suthol?
+A. Speak with the mayor, then return to the inn and sleep. Afterwards, ask around the town about 'shards' for clues. After visiting the Justiciary, return to the mayor to receive your rightful reward and the next quest.
+
+Q. How do I defeat Onyx?
+A. If straightforward hack-and-slash doesn't do it - Enter combat mode, poison twice or more, leave. Onyx casts ONE spell outside of combat mode, whatever her speed is.  Repeat and she is significantly less dangerous. (Courtesy of max@mail.pacifier.com)
+
+Q. How do I solve the Door?
+A. You need to place each piece on the correct corner rune, then pull the lever on the east. Each inner rune gives three clues, exactly two of which are true and one of which is false. There are only 24 ways to place the pieces, so if all else fails, list them all out and see which combination fulfills that requirement for all of the inner runes.
+
+Q. How do I finish the scenario?
+A. Head back to Suthol, speak with the mayor and the justiciar. After delivering the news, leave the town.
+
+- Contact Information -
+
+E-mail: Akhronath@aol.com
+URL: http://members.aol.com/zzhou22876/scens.html

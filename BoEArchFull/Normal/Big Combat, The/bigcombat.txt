@@ -1,0 +1,61 @@
+The Big Combat
+------------------
+
+
+
+Concord Province is being destroyed by these two evil dragons. They are senting their 
+minions out to try to destroy the towns. But the town guard seems to fend them off. 
+Commander Joel, the head Commander of the garrison in the city of Concord, asks for 
+your help. He says that he wants you to help him defeat the dragons. 
+
+
+What kind of party is approicate for this scenario?
+-----------------------------------------------------
+
+A very high level party. (30+) The dragons are pretty tough, because they have 1,500 
+health points. If you find this too hard, you should turn on the "Make Game Easier" 
+option in the Pefrences menu. Then the dragons will only have 750 health points. 
+More on this is below.
+
+
+How hard is this scenario?
+---------------------------
+
+It is very easy, but it is meant for a very high level party. I might think of making a 
+trainer scenario that might boost your low level party up to the correct level. But 
+your party will certain die if your playing with a newly made party. 
+
+How to complete the scenario:
+-------------------------------
+
+It's very easy! You might want to perpare a little bit in the town you start in. 
+(Warrior's Grove) Then leave the town and go up to Concord. Then go talk to Commander 
+Joel, he's in the office in the barracks. He will tell you about the dragons, so 
+you might want to take notes. After that, you should go prepare for your assault 
+on the dragons by visiting each of the towns, to learn some good and useful spells, 
+and to get some good items. Then when you think you are ready, you can enter the 
+Dragon's Lair. 
+
+Before you can enter the dragons lair, you have to fight a group of Drakes. That should 
+be easy. After defeating the drakes, enter the dragons lair. When you enter the lair, 
+read the dialog message that appears. Commander Joel and his soldiers will already be 
+here fighting the two dragons and the drakes, and they want you to help. So help. 
+This could be a tough fight, but with good weapons and magical items, you should be able 
+to defeat the dragons. Just cast Major Blessing, then Avatar, then cast the spell "Kill" 
+on one of the dragons, it might only do about 40 damage, but it's useful. Then after a 
+few rounds of fighting, the dragons should die, then work on killing the drakes. Which 
+should be easy. After both the dragons and the drakes are dead, talk to Commander Joel, 
+and he will give your reward. He will give you a key, which will let you into a room 
+in the Adventurer's Guild were your reward is. But before you leave, walk east. There's
+a little area with boxes filled with good items. This is the dragons treasure room. But
+on the sign it says, "Don't steal anything." but since the dragons are dead, you can go
+and steal the dragons treasure. Then when your done stealing treasure here, go to the 
+Adventurer's Guild and find the door and unlock the door with the key. The door is just 
+across  the hallway from the inn. You will find some items. and bookshelves which give 
+you some good spells. When your done here, you can leave the scenario by stepping the 
+special in Warrior's Grove. Congrations! You win! 
+
+This scenario is by:
+S.M Adventurer
+
+	

@@ -1,0 +1,40 @@
+           Justice v1.0.1
+           A scenario for Blades of Exile.
+
+Set Level: Low
+Target Level: Low (*)
+Custom Graphics: None
+Rating: PG
+
+(*) The scenario difficulty is adjusted so as to be challenging while passable for a fresh (all level-1) six-character party.
+
+http://members.aol.com/zzhou22876/
+
+Introduction
+
+The scenario Justice takes place during the massive conflict between the Empire above ground and the Exiles below that is the focus of Exile II. However, it does not take place in any theater of operations of that war. At least, not from the Exiles' perspective. Instead, it focuses on one of the long-held objectives of the Empire - the genocide of all sentient, non-human species.
+
+Into this effort has been flung thousands of Empire soldiers, led by able commanders, intent on destroying all traces of alien civilization, all in the name of a just cause: making the world safe for mankind.
+
+In a far corner of the caverns, where the Exiles never reached, inhabit a small tribe of Slithzerikai, a reptilian-amphibian race of the dark caverns. This very race had for a long time its supreme leader in the warlord Sss-Thsss, servant of a demon-king. He is dead now, slain by Exiles, perhaps a happier end than if the Empire had found him.
+
+But this tribe of sliths - as humans tend to call them - has not had any contact with humanity. Still, given the violent and treacherous past of this race, they are extremely dangerous. A small contingent of the Empire army has been sent to wipe them out.
+
+You, as loyal soldiers of the Empire, are part of this contingent. 
+
+Installation
+
+Place the justice.exs file in the folder Blades of Exile Scenarios (for Mac) or bladscen (for PC).
+
+Beta-testers: spearhard@hotmail.com, bencasey01@aol.com
+
+General Gameplay Questions
+
+Q. How do I get experience and treasure?
+A. Some combats will be challenging for a party just starting out, and the party will need to build up experience. A stairway from the starting town leads into a small cave of bats, which is a relatively pain-free place of critters. Outdoors, near the starting area, is a den of giant lizards, much tougher but still manageable. The advice is to save often, train wisely (gold and food are very scarce), and restrain firepower. Remember also that in a dungeon level, the party can take out one or two monsters, leave, rest, and come back, and those monsters will remain dead. Some dungeons aren't likely to be completed successfully in one trip, so use this to your advantage.
+
+Q. How many possible endings are there?
+A. Several. The storyline doesn't diverge, though, until very late.
+
+Q. Where can I get help if I'm stuck?
+A. Think and experiment. If all else fails, feel free to e-mail Akhronath@aol.com, especially if you suspect it might be an error in scenario design.

@@ -1,0 +1,39 @@
+Promise Island (Readme)
+ v1.0.3
+
+Michael G. Slack (slack@attglobal.net) - 2000
+
+Game Level: Medium to high level parties.
+
+Priates and treasure.  Are you man enough?  
+
+Note: game is rated R due to some adult situations.
+
+Promise Island uses images, terrains, monsters, etc. created by:
+ DrkDraxis
+ Jon Richards
+ Relhan
+ Paul Henderson
+ Zaloopa
+ The Good Reverend
+ Tim Farland
+ Motrax
+ Ithron
+
+If I forgot anyone, I apologize.  A hard disk accident wiped out
+most of the image information I had.
+
+Several images are also reworked (ie., slightly modified)
+images from the stock BOE monsters and others.
+
+Changes:
+--------
+2000-07-21 (1.0.3) - Changed some of the conversation elements and fixed some
+ spelling on others (thanks to Billy Harris <wharris@mail.airmail.net>).
+2000-05-07 (1.0.2) - Changed the entrance coding to Goldtooth McGraw's Cave.
+ Modified several of the pirate monsters level/armor/skill to make the game
+ a little higher level.  Added stuff done flags to the unique creatures so that 
+ they will stay dead after killing them.  Most of these changes thanks to
+ feedback received from Andrew Barton.
+2000-04-29 (1.0.1) - Changed scenario icon, added outdoor map (gif) to zip file.
+2000-04-20 (1.0.0) - Finished, released to public.

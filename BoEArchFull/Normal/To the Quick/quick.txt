@@ -1,0 +1,69 @@
+TO THE QUICK
+A Blades of Exile Scenario Copyright 1999 by Lew Titterton
+Blades of Exile Copyright 1997-98 by Jeff Vogel and Spiderweb Software
+
+CONTACT INFO
+I can be reached with the following email: ltittert@tufts.edu. 
+If you'd like the password to my scenario, or if you want to borrow graphics,
+characters, or any other elements, that's no problem. Just ask my permission
+and give me credit in your documentation. Any bugs to report or suggestions
+for improvement would be most appreciated. If you love it, great. If you hate
+it, I'm sorry--and surprised--but I'd like to hear what I did wrong so I can
+improve. Just try to keep the criticism constructive.
+
+RATING/DISCLAIMER
+"To the Quick" is rated R. Please be aware of this and the reasons for it:
+-heavy violence and fairly gory descriptions
+-sex and profanity (neither in abundance)
+-a subplot involving an evil religious cult
+None of these things are meant to offend. Nor is the name "Ali-Azad," which, though perhaps
+Mid-Eastern-sounding, is an invention of mine with no religious or ethnic connotation. If you
+are young or especially sensitive, I recommend playing instead one of the many fine G or PG
+scenarios available.
+
+RECOMMENDED LEVEL
+The recommended level for "To the Quick" is a party of level 15 (lower will
+likely be too hard). The scenario itself may say "High Level," but this is 
+done so that should a party reach level 18 or higher during the scenario, 
+monsters do not get tougher. Beginning with a high level party will 
+likely make the scenario too easy and is not recommended.
+
+VERSION 1.02--SIGNIFICANT CHANGES
+-Ali-Azad is harder.
+-The plot is more cohesive. (Previously optional boards and storylines are now integrated
+	into the main plot.)
+-The Kwikblayd is better, and appropriately harder to obtain.
+-A new level under Moon Point has been created. It is optional, but relates to the main plot,
+	deepens the story, and, I hope, improves the scenario.
+-Truncated Mac text (a Blades cross-platform bug I tried to avoid in the first version)
+	has been fixed. Some may still remain, but a conscientious 
+	effort was made to eliminate it all. If any is found, please inform me.
+-Innumerable little improvements have been made.
+-The attached text files have been completely redone.
+
+CUSTOM GRAPHICS
+Graphics were designed on a PC. Previous versions had bad Mac graphics due to a conversion 
+mistake done by Spidweb. They have since fixed them. As a result, the graphics
+should now load properly on both platforms, however if for whatever reason there 
+is a problem please email me. Most graphics are modified from existing Exile graphics.  
+The "Glowing Portcullis" is a direct lift from Spidweb's "Valley of Dying
+Things."  The "Giant Centipede" is totally original.
+
+THANKS
+Beta Testing: John Fuhrer, Sean Rea, Juliet Rowley, Robyn Pridham
+
+Game Creation: Jeff Vogel & everyone at Spiderweb for making the best shareware games in the
+world. Richard Garriott, who created the superb Ultima series of games by Origin Systems. 
+They made me a role playing fanatic since age seven and helped inspire Exile.
+
+Music Guru: Pete Townshend (Listening to old Who albums during scenario
+design is very beneficial, at least for me.)
+
+KNOWN BUGS
+I've made every attempt to eliminate bugs, but some are inherent to Blades.
+Among them, the random appearance of creatures known as "Empties." They have
+no skills and die easily, and don't really affect the game. Any other bugs 
+(mine, Blades, whatever), please let me know. Even telling me about little typos
+is fine; I'm always redoing, expanding, revising...
+
+PLEASE CONSULT QUICKHINT.TXT FOR HINTS AND QUESTIONS ANSWERED

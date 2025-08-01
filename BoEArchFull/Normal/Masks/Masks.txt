@@ -1,0 +1,326 @@
+Masks
+
+A BoE Scenario
+by Brett Bixler
+
+Introduction
+
+Painfully, you claw your way up out of the darkness. Hideous faces surround you, swirling about as you try to focus. Where are you? A hut of sorts, it seems...
+
+The voyage! Memory is returning in dribs and drabs. A sea voyage to Vantanas. But the Gods and the mother of all storms conspired against you. Swept off course, you fought to survive.
+
+Hour after hour you battled the storm. Finally, limbs numb and minds dull, you crested yet another wave to meet your doom. Another ship, helpless as you, rammed into you.
+
+You remember being pitched overboard as your ship lurched in its deadly embrace. From above, a crew member launched a lifeboat; for you or others you could not say.
+
+You slithered aboard just in time to see both ships disappear beneath the waves. Then came the undertow, wave after wave, and finally - darkness.
+
+Well, you wanted adventure. The mental fog dissipates, and you realize you feel - strange, weak. You ARE in a hut, and a masked man is attending you...
+
+Thus begins "Masks." In it, you are shipwrecked, drugged for months, recover, then must explore an island, looking for a way off and for a missing companion. And that's just the surface story. Like a mask, the true story lies beneath...
+-=-=-=-=-=-=-=-=-=-=-
+Author's Note
+
+Masks is, of course, a BoE scenario. But underneath, Masks is a story about how truths are covered by our perceptions, thoughts, words, and actions. Like a mask, you can play this scenario and never see the other levels. I encourage you to look for them, not only here, but in yourself.
+
+-=-=-=-=-=-=-=-=-=-=-
+Installation
+
+Place the masks.exs file in the Blades of Exile Scenarios folder on the Mac, or the Bladscen folderon the PC.
+Place the masks.meg file in the Blades of Exile Scenarios folder on the Mac.
+Place the masks.bmp file in the Bladscen folder on the PC.
+
+-=-=-=-=-=-=-=-=-=-=-
+Please Consider...
+
+If you like this game, please consider making a small donation to your local literacy council. Even five dollars goes a long way with these organizations. They are underfunded, rely on volunteers, and fulfill an important need in our society.
+
+-=-=-=-=-=-=-=-=-=-=-
+Thanks to:
+
+Tim Farland, for maintaining an excellent set of graphics for the BoE community. Several of them were used in this scenario.
+Others who contributed graphics: Aceron, Kalorlo, and Jane Holt. Many thanks.
+Jane Holt, Drakefyre, LeoJ, and Djur, beta testers who tested this scenario quickly and efficiently.
+
+Some graphics used here were created by mystery people. If you are one, please let me know so I can give you the acknowledgement you deserve.
+-=-=-=-=-=-=-=-=-=-=-
+Known Bugs/Concerns
+
+The Special Spells may cause some computers (Win 3.1) to crash. If this happens to you, you will not be able to use the special spells. I know of no way to fix this.
+
+Custom, wandering outside monsters appear as random pieces of terrain and/or monsters that randomly change as they move about. I can't fix this; it's a BoE bug.
+
+You may experience the "hit-point doubling effect" about three-quarters of the way through the scenario. For now, I'm leaving this as is. I believe it adds a layer of challenge to the scenario. Tell me if I'm wrong.
+
+-=-=-=-=-=-=-=-=-=-=-
+Version History:
+
+Version 1.0
+
+General Public release.
+
+Version 1.0.1 - 10/17/00
+
+My thanks to Marvin C. Kivlehen for reporting these bugs:
+
+In Aydindrills tomb , if you left town after you lit the candle in the Unholy chapel you could not re-open the secret door that leads to Aydindrill. Now fixed.
+
+At the pirate base the password given in the help file was not the correct answer to the door riddle. Now fixed.
+
+In the Haii village after all the Urlags are supposed to have vanished the graveyard special still read that an Urlag tells you not to desecrate the graves. Now fixed.
+
+Noted "bug:" In Haven you can evade Rusty's curse by using the leave town option in the PC editor after you find the boat password and before you get cursed. I do not plan to fix this.
+
+Thanks to Andrew Barton for these:
+
+The healer in the Nomm-Urlag village could wander into the Test of Wisdom. He can't move now.
+
+In the Waterfall Cavern, you could destroy a barrel by pushing it into water.  This is now blocked.
+
+In Aryndill's Tomb, there's a pit trap that was malfunctioning. It now works properly.
+
+Fixed a mistake in the Spoilers section, and added some details.
+
+Fixed several problems in the Baboon Creche.
+
+Added a trainer in the northeast sector of the world. Inspired by Andrew.
+
+Version 1.0.2 - March 12, 2001
+
+Locked an open door in the Uber-Urlag village. Thanks, fotbad@hotmail.com
+
+Version 1.0.3 - June 25, 2001
+
+Removed "Fighting Haii" after main quest is completed.
+
+Version 1.0.4 - April 27, 2004
+
+Fixed Strength on Sinbad's Belt. Was a 0, now a 5.
+
+-=-=-=-=-=-=-=-=-=-=-
+Playing Masks
+
+Masks is for an EXPERIENCED BoE player. It is very difficult. Use a new starting party to begin the adventure.
+
+-=-=-=-=-=-=-=-=-=-=-
+General Hints
+
+There are many outdoor encounters in this scenario. It is suggested you complete as many of them as possible before attempting to destroy Ambrase. You'll have better levels, armor, weapons, spells, and items.
+
+Initially, you are quite weak. Let others fight the physical side of battles if you can, at least
+until you have some decent weapons and armor.
+
+Stay in Urlag territory until you have visited every special outdoor encounter. You will have better weapons and armor, and maybe even a special spell or two...
+
+If you run out of food, use Mana spells! There are no food stores in this scenario!
+
+After pillaging Haven, find Rusty O'Rorke as soon as possible and destroy him. Otherwise, you'll spend a great deal of time under his curse.
+
+Spoilers (listed by town)
+
+0. Haii-Urlag Village
+
+You can store items here in the starting hut.
+Training is available here.
+
+1. Nomm-Urlag Village
+
+4th-level priest spells are available here.
+Low-level alchemical recipes are available here.
+Test of Wisdom must be completed here to enter Uber-Urlag village.
+
+2. Abba-Urlag Village
+
+Test of Knowledge must be completed here to enter Uber-Urlag village.
+Successful completion of the test will give you a special spell.
+Watch the fire explosions carefully & note their pattern.
+
+3. Uber-Urlag Village
+
+4th-level magic spells are available here.
+Identification is available here.
+A mission is available here.
+Some free items are available here.
+A replenished food supply is available here.
+Return here after destroying Ambrase for a reward.
+
+4. Forbidden Passage North
+
+One-way trip north to rest of island.
+You must accept the Uber-Urlag mission to access this cave.
+
+5. Forbidden Passage South
+
+One-way passage back to Urlag territory.
+
+6. Haven
+
+Initially you reach this by finding a secret tunnel at the extreme west end of the island, just north of the mountain range that cuts of Urlag territory from the rest of the island.
+You must defeat the pirates go gain their boat.
+Talk to the statue for a skill enhancement.
+Look in the battle pit for a hidden weapon.
+
+7. Wolf Lair
+
+Defeat the Alpha Wolf and claim a red gem. Keep this for later.
+A teleporter will take you to the Wolf Creche (8).
+
+8. Wolf Creche
+
+Push all the barrels into the fire to destroy this place.
+Hug the walls to avoid burns.
+A teleporter will take you to the Wolf Lair (7).
+
+9. Waterfall Cavern
+
+When you enter the caverns from the south, you are placed in the southeast corner of the cavern. You must destroy all the barrels in the caverns to open an escape route. To do so, find the northeastern barrel first. Move it near the eastern locked door. Then find the dragon lair, sneak past the dragon on the west side (easy to do in the dark), and use the tunnel to move to the western part of the cavern. Head north until you find a door. Open it. Go inside and take the Rusty Key from the barrel. Then push the barrel into the fire. Now hike it back to the eastern door. You have 100 moves before the Rusty Key disappears. Open the eastern door and push the barrel into the fire. Whew! Now look for spot with ashes on the floor, near the middle of the caverns. Step on the ashes, and an escape route will open for you. This route will be there on subsequent visits, should you need to return and use the boat again.
+
+If you acquire the key and fail to open the eastern door in time, or you destroy the barrel with the key before retrieving it, you must exit the caverns (via the boat) and return. Then repeat the process above.
+
+10. Tomb of Aryndill
+
+Entering the Tomb
+
+Visit the north and south entrance first. Do this via secret passages through the mountains to either side of the eastern entrance. Open the first set of doors and enter the alcove. Make one click in each alcove. Then enter the tomb from the east.
+
+Portal at End of Entrance Corridor
+
+You must enter this portal twice to access other parts of the tomb. Entering it the first time will strip all your goods from you, and place them in a northeast alcove at 47,12. They will be safe there until you retrieve them, even if you leave the level. Entering the portal a second time will transport you to the Chapel.
+
+Preparation Room
+
+The secret to the locked doors is hinted at by examining the altars from left to right.
+
+Chapel
+
+You MUST light the candle. This summons Black Shades, but it also opens a hidden door.
+
+Long Corridor
+
+A special item, the Silver Ball, is located in a secret passage off this corridor at 7,21. To reach it, you must jump over the first pit, turn around, decline to jump back over the pit, then head southeast (diagonally) into the secret passage.
+
+Ruins
+This is where the entrance to the true tomb lies. Follow the secret passages until you reach 21,41.
+
+Spell of Opening
+
+The first part of the spell is located in the Preparation Room, on a shelf. The second part is
+located in the Phase Room. You must enter the room and reach the door on the far side when it is open (33% of the time).
+
+Opening the Final Tomb Door
+
+You must have the Silver Ball and the Spell of Opening. Insert the Silver Ball in the south door,
+then cast the Spell of Opening.
+
+13. Elephant Graveyard
+
+Don't go here until you help the lone elephant located one outdoor area north of the extreme
+southeastern part of the isle. If you do, good luck!
+
+14. Pirate Base
+
+Door riddle answer is one word .
+To cross the pit: In the east part of the lair there is a storage area. At the southern end of the
+storage area you'll find some lumber. It's very heavy, but you need it. Take the lumber to the pit, and you will be able to cross from then on.
+Destroy Rusty O'Rorke to end his curse on you.
+
+15. Baboon Creche
+
+Step on the central crystal first, the NE crystal second, use the now active teleporter and step on the third crystal, use the teleporter again and step on the se forth crystal to destroy the baboon creation creche.
+
+A teleporter will take you to the central chamber in the Lost City (16). This is the only way to
+access this area.
+
+There is NO way to access the treasure chests behind the locked door.
+
+16. The Lost City
+
+Investigate the statue to fall to Under the Lost City.
+Once you are successful putting out the quickfire eruptions, all important buildings will be open, except the central one.
+
+Lost City Lava Pools Location (in order of appearance):
+
+8,4
+55,57
+37,4
+35,28
+5,59
+55,4
+
+5th-level priest and magic spells are available here, after you successfully plug all the lava pits.
+
+The central building can only be accessed from the Baboon Creche (15), or by use of the Spell of Opening. Kill the Alpha Baboon to claim a green gem. Keep this for later.
+
+17. Under the Lost City
+
+Look for a secret passage to access the middle chamber, once you've lit all the fires.
+
+Riddles under the Lost City
+
+I am the black child of a white father, a wingless bird, flying even to the clouds of heaven. I give birth to tears of mourning in pupils that meet me, even though there is no cause for grief, and at once on my birth I am dissolved into air.
+
+Ans- Smoke
+
+Pronounced as one letter, 
+And written with three, 
+Two letters there are, 
+And two only in me. 
+I'm double, I'm single, 
+I'm black blue and gray, 
+I'm read from both ends, 
+And the same either way.
+
+Ans - Eye
+
+I know a thousand faces, 
+and count the tailed heads, 
+feasting bright upon the eyes, 
+of many who have died. 
+wielding well a mighty power, 
+who hath but humble stature. 
+Masses fall upon their knees, 
+to scare behold my only side!
+
+Ans - Coin
+
+     FULL
++ METAL
+=JACKET
+
+Where L = 7. What is the numerical sum?
+
+A=0, C=3, E=8, F=5, J=1, K=6, L=7, M=9, T=4, U=2
+
+      5277
++  98407
+=103684
+
+18. Pride Rock
+
+One-time alchemical ingredients available here.
+
+19. Hydra Lair
+
+Treasure and experience place.
+
+20. Strange Temple
+
+Battle your way through to the stairway down to the lower level. If you have the Alpha Wolf red gem and the Alpha Baboon green gem, these battles will be easier.
+
+Use the Spell of Opening to open the door at the northern end of the building.
+
+21. Under the Strange Temple
+
+This is a vertical dungeon.
+
+Talk to Angelica. Remind her of past evils with three key words (bandit or father, thief or guild, prince or nobility) to have her fight on your side.
+
+Throw the four bottom switches first. Then throw the middle switches in this order:
+
+  1               3
+d 2               d 4
+
+where d is a dummy switch. Notice this matches the fire explosion pattern revealed in the Abba-Urlag village (2).
+
+Then destroy Ambrase; he is now vulnerable.
+

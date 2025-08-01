@@ -1,0 +1,213 @@
+ITEM TYPE FLAGS (to combine items into one inventory slot)
+
+Official bladbase v 1.01      Eternity's Edge (Item number)
+
+ 1  Darts                     Rope (16)
+ 2  Iron darts                Medicinal herbs (14)
+ 3  Magic darts               Not used (no darts)
+ 4  Throwing knives           Throwing knives (101)
+ 5  Iron throwing knives      Iron throwing knives (102)
+ 6  Arrows                    Arrows (103)
+ 7  Iron arrows               Iron Arrows (104)
+ 8  Magic arrows              Magic Arrows (117)
+ 9  Iron razordisks           Iron razordisks (95)
+10  Steel razordisks          Steel razordisks (96)
+11  Javelins                  Throwing spear (47)
+12  Iron javelins             Throwing axe (51)
+13  Torches                   Torches (18)
+14  Lockpicks                 Lockpicks (169)
+15  Rock                      Rock (27, 3 stones)
+16  Bolts                     Bolts (105)
+17  Iron bolts                Iron bolts (106)
+18  Magic bolts               Magic bolts (118)
+19  Sapphire                  Sapphire (179)
+20  Empty                     Empty
+21  Holly                     Holly (363)
+22  Comfrey root              Bat fang (364)
+23  Glowing nettle            Glowing nettle (365)
+24  Wormgrass                 Wormgrass (366)
+25  Graymold                  Graymold (368)
+26  Ember flowers             Ember flowers (369)
+27  Mandrake root             Mandrake root (370)
+28  Smoky crystal             Smoky crystal (178)
+29  Fine lockpicks            Fine lockpicks (170)
+30  Magic lockpicks           Magic lockpicks (171)
+31  Weak poison               Weak poison (172)
+32  Medium poison             Medium poison (173)
+33  Strong poison             Strong poison (174)
+34  Killer poison             Killer poison (175)
+35  Lightning rods            Lightning rods (274)
+36  Cleansing powder          Cleansing powder (191)
+37  Empty                     Empty
+38  Candle                    Molotov cocktail (17)
+39  Diamond                   Diamond (178)
+40  Emerald                   Emerald (177)
+41  Basic powder              Basic powder (350)
+42  Powder of Lethe           Not used (no Powder of Lethe)
+43  Empty                     Empty
+44  Empty                     Empty
+45  Empty                     Empty
+46  Silver ore                Silver ore (380)
+47  Gold ore                  Gold ore (381)
+48  Empty                     Empty
+49  Empty                     Empty
+50  Asptongue mold            Asptongue mold (367)
+
+51 to 56                      Not used
+57                            Magic razordisks (98)
+58                            Rock (41, 4 stones)
+59                            Rock (52, 5 stones)
+60 to 65                      Not used
+66                            Ruby (176)
+67 to 71                      Not used
+72                            Piercing crystal (182)
+73 to 78                      Not used
+79                            Dust of Hiding (189)
+80                            Dust of Choking (190)
+82 to 91                      Not used (could be for scrolls)
+92                            Crystal (222)
+93                            Bitterleaf elixor (260) - cure poison
+94                            Health potion (261)
+95                            Energy potion (262)
+96                            Favor's brew (263) - bless
+97                            Gutroot extract (264) - speed
+98                            Snake oil salve (265) - disease
+
+
+
+93 to 123                     Not used (could be for S/M/W potions)
+124 to 125                    Not used
+126                           Arrows of Light (276)
+127                           Arrows of Life (277)
+128                           Burning arrows (278)
+129                           Exploding arrows (279)
+130 to 133                    Not used
+134                           Bolts of Light (384)
+135                           Bolts of Life (385)
+136                           Burning bolts (386)
+137                           Exploding bolts (387)
+138 to ~200                   Not used (200 is the approximate limit)
+
+
+SPECIAL CLASS FLAGS
+
+1 Rope (16)
+2 Medicinal herbs (14)
+3 Empty bucket (13)
+4 Resin blade (37)
+5 Resin shield (146)
+6 Golden band (210)
+7 Filled bucket (53)
+8 Rock pick (40)
+9 Suite key (211)
+10 Bat fang (364)
+11 Pictures (388-392)
+12
+13
+14
+15
+16
+17
+18
+19 
+20 Book
+21 Book
+22 Book
+23 Bones
+24 Skull
+25 Garbage
+26 Garbage
+27 Rock
+28 Rock
+29 Rock
+30 to 54 Unused
+55 Dust of Choking
+56 Scroll of Disease
+57 Cursed helm
+58 Glue Gauntlets
+59 Dancing Boots
+60 Cursed Boots
+61 Cursed Large shield
+62 Poison Potion
+63 Potion of Doom
+64 Brew of Lethe
+65 Bow of Kag
+66 Wand of Carrunos
+67 Wand of Vorb
+68 Gold Ring of Weight
+69 Silver Ring of Weight
+70 Bronze Ring of Weight
+71 Feldspar Charm
+72 Uranium bar
+73 Lodestone
+74 Brew of Nisus
+75 Potion of Paralysis
+76
+77
+78 Cursed Bardiche
+79 MC Hammer (Cursed)
+80 Cutless (Cursed)
+81 Cursed Greatsword
+82 Anklebiter (Cursed)
+83 Cursed Shield
+84 Flailer (Cursed)
+85 Cursed Ring
+86 Cursed Halberd
+87 Cursed Studded
+88 Cursed Chain Mail
+89 Cursed Plate Mail
+90 to 99 Unused
+
+
+SPECIAL ITEMS
+
+ 0 Gariel
+ 1 Moramus
+ 2 Stone Tablet
+ 3 Kelur
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10 Stealth
+11 Shadow Walker
+12 Invisible
+13 Troll Slayer
+14 Champion
+15 Hero
+16
+17
+18
+19
+20 Important Bundle
+21 Gloomwood Map
+22 Agent's Report
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48 Barrachius
+49 Skip Intro

@@ -1,0 +1,35 @@
+Contact information:
+
+"The Seige of Sighing Mountain"
+
+Simon Seah
+7529 Buller Avenue
+Burnaby, BC
+Canada V5J 4S7
+
+grail_quest@hotmail.com
+
+ver 1.15:
+- Spider Fangs in inventory should now combine
+- Exorcism Chants and Banishment Rites start at 33 charges (instead of 77)
+- stated more explicitly that the scenario officially ends after the Big Battle; the rest is an optional sidetrip and a chance to more fully explore Panda Vale.
+
+ver 1.14:
+- changed secret shrine description to indicate presence of the Sword of Tendo Araki
+- "toned down" the "invulnerable" version of Flesh Ripper
+- Kaneda in Panda Vale responds to "teach" mage spells
+
+ver 1.13:
+- enemy territory is WEST! - fixed message upon return of Kiyoko to the Shrine
+- added messages against side-tripping to the underworld without having completed the time-critical quest
+- price of key to escape the underworld is now only 2,000
+- blocked side-tripping into Communion chamber if main quest not yet finished
+
+ver 1.12:
+- fixes stairs in Tower level 4
+
+ver 1.02:
+- a few text messages here and there
+- changes location when first return to Panda Vale--originally wound up INSIDE shrine, which caused problems for mounted parties
+- changed Witch/Wizard and Priestess/Senior Priestess locations in War Camp--originally in same position, and Major Event node failed to make Wizard/Senior Priestess disappear when party acquires "Manpower Shortage" special item
+

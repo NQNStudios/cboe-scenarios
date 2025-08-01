@@ -1,0 +1,34 @@
+The Wreck of the Slug 1.3.6
+    Enhanced version 1.0.2
+
+This version of Tony Wilsdon's The Wreck of the Slug (TWOTS) has a 3 level (2 medium sized dungeons) Nephil Raider off of Epernay's coast.
+
+As in the main Slug text file, it would be proper to make sure you are done with your current dungeon (ie finished with it and out of it) before resetting the towns by typing ">".
+
+Warning, the boat trip to the Nephil Raider is one way.  A "pirate's boat" (actually the samr one you use to row around the Nephil Raider) must be used to return, and the ship's master has the keys to them.
+
+After paying an NPC in Epernay to use his boat, you should save your game.
+
+While on the Nephil Raider, you should save your game with a different name.  There are different endings based on what your party does, or doesn't do, on the Nephil Raider.
+
+In the Cold Storage room, if you appear stuck or don't know what to do, try moving the PC or party or clicking to look at the surrounding spaces.
+
+I would like to thank Tony for allowing me to beta test TWOTS and for adding a small part to it.  Without his efforts over 7 months, there would be no TWOTS and thus no Nephil Raider.
+
+In addition, a cool use of an NPC has been copied from Stareye's upcoming scenario Eve of Cataclism (EoC).  It came from a similar NPC in a certain tower.
+
+
+Jamie Clark
+jamclark@kfalls.net
+
+
+
+
+Version history
+
+1.0.2 Fixes
+Based on feedback from Tony Wilsdon, made a variety of changes in Display Messages, Display Dialogue, and Dialogue texts.  Clarified two "keys" (values of an SDF, not special items) - instead of referring to half keys, just used a small key and a larger master key.  Changed one room's layout that has an optional fight in it.
+
+
+1.0.1 Bug fix
+Resetting the towns doesn't reset the one-shot town entry message that an important Set Flag was attached to.  Specials were added to set this flag.

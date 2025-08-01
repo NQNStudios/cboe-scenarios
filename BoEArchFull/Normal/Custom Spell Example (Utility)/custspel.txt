@@ -1,0 +1,256 @@
+CUSTOMISED CUSTOM SPELLS by Flamefiend
+--------------------------------------
+
+                     ***PURPOSE***
+
+To allow the player to create and cast their own custom spells in-game.
+
+                     ***INCLUDED FILES***
+
+You should have all of these files:
+- CUSTSPEL.TXT: This text file.
+- CUSTSPEL.EXS: A BoE scenario file demonstrating the techniques described in this text file (see next section)
+- CUSTSPEL.GIF: A flowchart in the form of a GIF file, illustrating the workings of the complex "Spell execution" node sequence.
+
+                     ***EXAMPLE SCENARIO FILE***
+
+The example scenario was created for two purposes; firstly to iron out any bugs, and secondly to provide you with a better understanding of the workings of the techniques outlined in this text file. It's not meant to be a great specimen of BoE scenario writing or design, and as such it has a few cosmetic flaws. Also, there are no sounds; you will probably wish to include some sounds in your scenario.
+
+Ask the Help Spectre (near the pedestal) for instructions. Also make sure you read the intro text.
+
+Note that many messages are displayed in the lower-right hand corner of the screen, rather than in message boxes.
+
+                     ***USE***
+
+Aside from just being a fancy gimmick, this could be used as a puzzle; e.g. to progress further in the game, you need to cast a certain custom spell.
+
+                     ***METHOD IN BRIEF***
+
+A Stuff Done Flag is used to store the "spell ID". A spell ID is the sum of two Symbols' number codes.
+
+The player can choose two of several special items, called Symbols. The player then either uses another special item (called "Combine Symbols" or something similar) or steps on a special encounter. The special encounter (or special item) sets an SDF to the sum of the "number code" of each special item (as per the table "Number Codes" below). Each combination of special items will produce a unique spell ID.
+When the player wishes to cast the spell, they use their "Symbol Wand" (another special item). The special item's special node system checks the value of the SDF, and executes whatever special nodes are necessary to "cast" the desired custom spell.
+
+                     ***NUMBER CODES AND EXAMPLE SYMBOLS***
+
+The following "table" is really two lists, to give you an idea of how the system works. The number codes follow the system which is often used for setting eight true/false flags for every byte of information in computers; any one of a large number of "computing principles"-type books will tell you about this. All you need to know is that every sum of combinations of "number codes" (not the term which is usually used in computing, but it will do) will yield a number unique to that combination.
+
+The example symbols are very generalised, and probably not much use.
+
+EXAMPLE SYMBOL NAME   NUMBER CODE
+  Fire                    1
+  Haste\Large qty         2
+  Poison                  4
+  Healing                 8
+  Party                  16
+  Area                   32
+  Enemy                  64
+  Friend                 128
+
+                     ***SPELL IDs***
+
+The following list of possible spell IDs (along with the number codes that create them) is for 8 symbols. For less than 8, omit all spell IDs that have a number code which is not used in your version.
+For example, say you are only using 7 symbols. The only unused number code is 128, for symbol number 8. Therefore, omit spell IDs 129 to 192. With 6 symbols, the highest spell ID is 48. With 5, 24; with 4, 12; and with 3, 6.
+
+    ID#  Number codes
+ 1)  3       1+2
+ 2)  5       1+4
+ 3)  6       2+4
+ 4)  9       1+8
+ 5)  10      2+8
+ 6)  12      4+8
+ 7)  17      1+16
+ 8)  18      2+16
+ 9)  20      4+16
+10)  24      8+16
+11)  33      1+32
+12)  34      2+32
+13)  36      4+32
+14)  40      8+32
+15)  48     16+32
+16)  65      1+64
+17)  66      2+64
+18)  68      4+64
+19)  72      8+64
+20)  80     16+64
+21)  96     32+64
+22)  129     1+128
+23)  130     2+128
+24)  132     4+128
+25)  136     8+128
+26)  144    16+128
+27)  160    32+128
+28)  192    64+128
+
+                     ***EXAMPLE COMBINATION RESULTS***
+
+In this example, there are a mere three symbols; damage, healing, and poison.
+
+             POISON           HEALING
+             ------           -------
+DAMAGE  -- Poison party    Damage party a little, then heal them a lot
+HEALING -- Cure party          N/A
+
+If you don't want the party to be able to cast certain powerful combinations (e.g. a combination of "All enemies" and "Death" being an instantly-kill-all-enemies spell), display a message when the party attempts to cast it stating that this spell is far too powerful for the party to ever hope to cast. Alternatively, you could check the current town number and only allow casting of the spell in a particular town (giving an excuse about lots of "surplus magic" floating around in the area).
+
+                     ***LIMITATIONS***
+
+ - Max symbols:
+      8
+ - Scenario node usage (can be decreased if less Symbols are used):
+      1 per Symbol + 13
+ - Town node usage:
+      6 per Symbol + 3
+ - Special item usage:
+      1 per symbol
+
+                     ***POSSIBLE MODIFICATIONS***
+
+- Consider giving each custom spell a limited number of charges, or a need to recharge (which takes a certain amount of time). Otherwise the player could use it repeatedly to achieve greater results; for example, a "Light Heal All" custom spell, which heals the party 8 hitpoints, could be used 10 times in a row to heal the party 80 hitpoints, and there would be no penalties for doing so.
+
+- Instead of having one special item (the "Wand") to cast every custom spell, you could use a separate special item for each spell. This would mean you could name each one according to the current custom spell, as well as being able to have more than 8 Symbols!
+
+- Provided the number of Symbols available is small, these sequences could theoretically be adapted to use more than two Symbols in each combination. This would significantly increase node usage and complexity, however. The same system of spell IDs could be utilised.
+
+- The "Spell execution" node sequence is designed to be used for eight Symbols. With less Symbols, the number of nodes required could be reduced.
+
+- You could make the system mobile by creating two special items for each Symbol; one "on" and one "off". The "on" special items are the equivalent of the single special items used here (I suggest making the "on" special items' names all uppercase). As well as making the "on" Symbol be dropped when it's used, give the player the "off" special item. The "off" special item, when used, is dropped and the "on" special item is given to the player.
+You would also need to have an extra special item called "Combine Symbols" (or something similar) which runs the Spell Assembly sequence.
+This also presents the possibility of having the Symbols spread around the scenario; perhaps as rewards for quests or thorough exploration. The player would start with neither the "on" or "off" special items for that Symbol, and would be able to gain the "off" special item at some point.
+
+                     ***RECREATING THIS SYSTEM IN SEVEN SIMPLE STEPS***
+
+1. Plan ahead. Decide how many Symbols you wish to use and what they will be, what each combination of Symbols will yield, what modifications (if any) you wish to make, etc.
+
+2. If you wish to link the Spell Assembly sequence to a special item, create that special item (called "Combine Symbols" throughout this text file). Create the Spell Assembly sequence and link it to the special item's Use button.
+
+3. Create a special item for each Symbol. Create a unique copy of the Drop Symbol sequence for each Symbol's special item, and link each copy of the sequence to the corresponding special item's Use button.
+
+4. Lay out the area where the player can pick up each Symbol's special item (and "assemble" the spells, if you're not using a special item for this purpose). Create and place a Symbol Pickup sequence for every Symbol. Place a sign and/or graphic next to each Symbol Pickup sequence to clearly indicate which sequence picks up which Symbol. (See custspel.exs for an example that doesn't use custom graphics.)
+
+5. If you're _NOT_ using a Combine Symbols special item, also create and place the Spell Assembly sequence in the above mentioned area, perhaps on a pedestal surrounded by runes, or any appropriate magical device.
+
+6. Create a special item called the "Wand". Create the Spell Execution sequence (along with the custom spell sequences), and link it to the Wand's "Use" button.
+
+7. You're done! Now you can test out your new "custom spell creation system"! Remember to try all the Symbol combinations to make sure they work as desired.
+
+                     ***SPECIAL NODE SEQUENCES***
+
+                          --Symbol pickup
+
+//Use a unique copy of this sequence for every symbol's location. It should be obvious to the player where each symbol can be picked up.
+//Replace the '1' in node 0 with the number of the special item that represents the appropriate symbol. Also substitute "Symbol 1" in node 2 with the appropriately named symbol. (Fire Symbol, Enemy Symbol, etc.)
+//Fill in the blank in node 3 with the name of the symbol (Fire, Enemy, Cold, etc.).
+
+//SDF (1,0) = the number of Symbols the player is currently carrying.
+
+//If the player already has this symbol, forget about it; otherwise continue
+0. IF Have Special Item '1', THEN END
+
+//Give them the symbol
+1. Give Special Item "Symbol 1" (Give)
+
+//Increment number-of-Symbols SDF
+2. Increment SDF 1,0 by 1
+
+//Display discrete message advising them that they've picked up a specific Symbol
+3. Display Sm Msg "You've picked up the symbol for ____."; END
+
+                          --Drop symbol
+
+//Call a unique copy of this sequence from each symbol's Use button. It takes the symbol away from the player.
+//For example, if you attach this to the Fire symbol, replace the text within quotes with "Fire Symbol".
+
+//SDF (1,0) = the number of Symbols the player is currently carrying.
+
+//Drop the symbol
+0. Give Special Item "(Insert Appropriate Symbol Here)" (Take)
+
+//Subtract 1 from symbol counter
+1. Increment SDF 1,0 by -1
+
+                          --Spell assembly
+
+//Put this sequence in one of two places; attach it to the "use" ability of the "Combine Symbols" special item, or place it on the ground in a town, somewhere near the place where you can pick up the Symbols.
+
+//Special items 1 to "X" - the symbols' special items
+
+//SDF (1,0) = the number of Symbols the player is currently carrying
+//SDF (1,1) = the sum of the two Symbols' number codes; in other words the combination's unique ID number.
+
+//Check number of Symbols
+0. IF SDF 1,0 = 2 THEN GOTO 2
+
+//Player has a number of Symbols other than 2; display message and end sequence
+1. Display Msg "You must have exactly 2 symbols to create a spell - no more, and no less. Use a symbol to drop it; pick a symbol up at its designated location."; END
+
+//Now we need to determine the selected combination's ID number. Set the ID to zero, then add the appropriate number for each symbol the player is carrying.
+
+//Reset ID number
+2. Set SDF 1,1 = 0
+
+//Make sure player has the Wand special item
+3. Give Special Item "Wand" (Give)
+
+//Display discrete "Spell assembled" message
+4. Display Sm Msg "Spell assembled! Use your Wand to cast."
+
+//Check for first symbol
+5. IF Have Special Item '1', THEN GOTO 5 ELSE GOTO 6
+
+//Add number code (1) to the ID (SDF 1,1)
+6. Increment SDF 1,1 by 1
+
+//Check for second symbol
+7. IF Have Special Item '2' THEN GOTO 7 ELSE GOTO 8
+
+//Add number code (2)
+8. Increment SDF 1,1 by 2
+
+//Check for third symbol
+9. IF Have Special Item '3' THEN GOTO 9 ELSE GOTO 10
+
+//Add number code (4)
+10. Increment SDF 1,1 by 4
+
+//Check for fourth symbol
+11. IF Have Special Item '4' THEN GOTO 11 ELSE GOTO 12
+
+//Add number code (8)
+12. Increment SDF 1,1 by 8
+
+// ---NOTE: Keep repeating the above pairing (If Have Special Item, Increment SDF) until all the Symbols have been checked for and their number codes added if necessary. Use appropriate substitutions for special item numbers (usually consecutive) and flag increments (the number codes).
+
+//The last two nodes (the ones that check for the last symbol) should look like this (assuming that 17 is the next available special node; substitute the last symbol's number in place of `X` and replace `Y` with the appropriate number code):
+
+17. If Have Special Item 'X' THEN GOTO 15 ELSE END
+18. Increment SDF 1,1 by Y; END
+
+                          --Spell execution
+
+//Attach this to the Wand special item. It simply checks the ID and calls the nodes for the custom spells. Note that the custom spell sequences are entirely up to the designer; they will vary widely from scenario to scenario. Also note that this sequence is akin (sort of) to a series of IF-THEN-ELSEIF statements, or a SELECT...CASE statement (for those familiar with actual computer programming languages) in that it selects different actions depending on varying conditions (in this case the spell ID). However, it is optimised to do this with as few choices as possible -- this speeds it up slightly, but more importantly uses less special nodes.
+//It is recommended that you program this sequence with sequential nodes set aside specifically for this purpose, to avoid confusion.
+//This sequence uses a "branching tree" type checking system, rather than a straight "If-Then-ElseIf-Then-ElseIf..." sequence. This can significantly reduce the amount of nodes needed; nearly by half in some cases.
+//In the following sequence, there are "GOTO" instructions with "--spell#xx--" after them (where xx is replaced by the appropriate spell ID; note that spell IDs are often not consecutive. The first three are 3, 5, and 6; to calculate spell IDs, add the number codes of the two symbols that together make up that spell). Replace these with whatever special node you want to call to cast the appropriate custom spell.
+//This sequence assumes that there are 8 symbols, and therefore 28 combinations. You may have to adjust the sequence to fit the number of combinations possible in your scenario. Of course, you don't have to do this; you can program the entire tree and only use the combinations that are possible in your particular scenario. However, doing this would waste scenario special node space.
+//NOTE: Do not confuse "IF SDF (...) = #" with "IF SDF (...) >= #". These are DIFFERENT from each other. The first is "Stuff Done Equal?", and the second is "Stuff Done Flag?".
+
+//See the accompanying GIF file for a flowchart of this sequence. The flowchart will be helpful if you wish to modify this sequence.
+
+// SDF (1,1) = the spell's ID number
+
+0. IF SDF (1,1) >= 37 THEN GOTO 1; IF < 36 THEN GOTO 7; ELSE GOTO --spell#36--
+1. IF SDF (1,1) >= 97 THEN GOTO 2; IF < 96 THEN GOTO 5; ELSE GOTO --spell#96--
+2. IF SDF (1,1) >= 137 THEN GOTO 3; IF < 136 THEN GOTO 4; ELSE GOTO --spell#136--
+3. IF SDF (1,1) >= 161 THEN GOTO --spell#192--; IF < 160 THEN GOTO --spell#144--; ELSE GOTO --spell#160--
+4. IF SDF (1,1) >= 131 THEN GOTO --spell#132--; IF < 130 THEN GOTO --spell#129--; ELSE GOTO --spell#130--
+5. IF SDF (1,1) >= 73 THEN GOTO --spell#80--; IF < 72 THEN GOTO 6; ELSE GOTO --spell#72--
+6. IF SDF (1,1) >= 49 THEN GOTO --spell#68--; IF < 48 THEN GOTO -spell#40--; ELSE GOTO 13
+7. IF SDF (1,1) >= 18 THEN GOTO 8; IF < 17 THEN GOTO 10; ELSE GOTO --spell#17--
+8. IF SDF (1,1) >= 34 THEN GOTO --spell#34--; IF < 33 THEN GOTO 9; ELSE GOTO --spell#33--
+9. IF SDF (1,1) >= 21 THEN GOTO --spell#24--; IF < 20 THEN GOTO --spell#18--; ELSE GOTO --spell#20--
+10. IF SDF (1,1) >= 10 THEN GOTO 11; IF < 9 THEN GOTO 12; ELSE GOTO --spell#9--
+11. IF SDF (1,1) = 12 THEN GOTO --spell#12--; ELSE GOTO --spell#10--
+12. IF SDF (1,1) >= 6 THEN GOTO --spell#6--; IF < 5 THEN GOTO --spell#3; ELSE GOTO --spell#5--
+13. IF SDF (1,1) >= 66 THEN GOTO --spell#66--; IF < 65 THEN GOTO 14; ELSE GOTO --spell#65--
+14. IF SDF (1,1) = 40 THEN GOTO --spell#40--; ELSE GOTO --spell#48--

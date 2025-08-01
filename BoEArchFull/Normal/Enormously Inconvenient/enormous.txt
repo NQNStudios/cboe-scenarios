@@ -1,0 +1,19 @@
+Enormously Inconvenient By JATZ
+
+This is my first scenario so I hope you enjoy it as much as I did 
+creating it. Its intended for about level 14 characters. I think I got 
+rid of all the bugs and type errors, but there may still be some 
+lurking in there.... Any way if you have any questions, bug reports 
+etc, please send them to: 
+
+andy@samtoby.freeserve.co.uk
+
+Special Thanks to:
+Stuart Taylor
+Kent Ertman
+Stareye for alot of advice and bug reports
+Andrew Barton again for the advice and bug reports
+Brett Holt
+Alcritas For the Spiny tree graphic
+Tim Farland For the magic owl
+

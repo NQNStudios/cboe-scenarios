@@ -1,0 +1,48 @@
+A Brief Walkthrough for Sir Psycho Sexy
+(Warning: Possible spoilers ahead.)
+
+Fort Summit: Not much to do here. Explore if you'd like, hear Brajjon's briefing, and head out.
+
+Outside Fort Summit: Hack your way through the demonic army. Warning: fleeing is not advised.
+
+Siege of Stones: This dungeon is very straightforward, with little except for scenery and one big surprise at the end. Bear in mind there are no secrets here; any areas you can't seem to access are either just plain inaccessible or blocked off by cracked walls.
+
+Under the Gate's Shadow
+
+The following dungeons can be completed in any order you please.
+
+
+The Cube: Look at the outside. Very nondescript, except for a deliberate formation north of it. This is an essential hint for the interior. Note that Ether Spewers are, by design, completely unkillable.
+
+The Temple of Impolitesse: Three stones in one. First, the Resplendent Gem, which is a reasonably straightforward, if somewhat cramped, hack and slash.
+Second, the stone in the Gearbox. Time is not on your side, and this fight is pretty murderous.
+Third, the One True Gem. A maze, followed by three tough monsters in sequence, followed by all three together. When the party is victorious, stepping on the central bloodstain will allow you to leave the area.
+
+Engelwood: A twisty, completely dark dungeon. Dealing with its monsters will require unconventional tactics, but there are no weird puzzles or anything; it's a reasonably straightforward hack and slash to the Dragon's Heart Stone and out of Engelwood.
+
+Livingstone Cave: Look at the terrain in the fight room for a hint as to what to do; it's not a random pattern.
+
+The Batcave: Robin is a pushover, but Batman is very tricky, and has been given a series of devious special spells. Keep your wits about you, and the Batmobile will be yours. It is not necessary, but will make your life much, much easier.
+
+The preceding dungeons can be completed in any order you please; the following are basically areas of the same dungeon sequence.
+
+End of the Road: To pass each gate, step on each special space; if you have the requisite gem, you will be allowed passage.
+Once you enter the hut, there will be no going back.
+
+Nightmare, one: Fight the baddies outside of the collapsed hut. (Technically, doing so is not necessary, but is encouraged.)
+
+Nightmare, two: You will be attacked by various monsters through the walls and pinned down. Failing missile weapons, use Wound.
+
+Nightmare, three: Keep hacking through the Effluvium as it reproduces. It takes a set number of kills to tear down each section of blockading wall. Don't worry -- there are enough slimes by default to satisfy this.
+
+100 Turns of Vastitude: Vastitude means either 'hugeness' or 'devastation'. Either are applicable -- this is easily the largest-scale BoE fight ever, clocking in at 101 turns (103 if you count the short pre-combat intermission). A few notes:
+The Gatekeeper is utterly invincible.
+Note when the four Worst Men Ever respawn, and adjust accordingly.
+The monsters with the same graphic as the Lumineferous Ether confer a range of positive and negative effects on either one PC or the whole party. For one, this includes ressurection. For others, this includes mana restoration. Going without using them is foolhardy, and will likely be impossible for non-god parties.
+Do not rely on magical fields or barriers heavily.
+You do not have to kill Il Odiom, nor does it help; the scenario ends at c + 101, no matter what.
+
+Good luck!
+
+PS.
+You're -how- old and you still believe in Batman?

@@ -1,0 +1,32 @@
+Changing Faces
+
+A scenario by Ryan Phelps
+
+Questions?  Comments?  Bugs?  Feedback?  Anything?  Email me at ryan@dougphelps.com
+
+Changing Faces is for a beginner level party, and is rated pg.  WARNING!  Use of a 
+stronger party in this scenario may make it unwinnable!  Use only a beginner level party.
+
+Thanks to all who let me use their graphics:Relhan and Alcitris.  
+I'd also like to thank my alpha testers, Lance and Michael Phelps, and those who beta tested,
+Gill Whitehurst and Andrew Barton.  
+
+The graphics are essential to this scenario.  If the graphics don't work, quit and 
+correct the problem.  If you are
+on a mac, you will have to turn the gif (included) into a meg file.  Just make a copy of a
+meg file you already have, change the name to "chanface.meg", and copy and paste the 
+graphics into it.
+
+This scenario is not easy, but don't give up!  Just make sure to read everything 
+carefully, as most texts can only be read once.  There are two ways to end, to finish, 
+and to complete the scenario.  Needless to say, completing the scenario is much
+more fun.
+
+Here is the list of custom graphics I used from other people.  Everything else was
+done by me or taken from Zakhazi Run, and you have my permission to use them, at your 
+own risk.
+
+Relhan created the Groundbeast, Gravestone, Wraith, and Axe Champion. 
+Alcitris created the fire and the Crystal Shards.
+
+Have fun!
