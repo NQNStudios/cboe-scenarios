@@ -1,9 +1,0 @@
-Doomguard Armor
-v 2.0
-
-Created by Zaloopa
-
-e-mail: zal_avoi@yahoo.com
-webpage: http://www.zaloopa.com
-
-This is a utility to give your party some very powerful weapons. This is not intended for cheating through scenarios, it is intended for testing scenarios without using the debug, or for just general goofing off in a scenario you've already beaten.
