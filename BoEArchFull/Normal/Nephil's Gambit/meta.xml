@@ -1,3 +1,6 @@
 <meta>
     <encoding>MacRoman</encoding>
+    <flags>
+        <compatibility>good</compatibility>
+    </flags>
 </meta>
